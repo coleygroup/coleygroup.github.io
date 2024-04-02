@@ -70,6 +70,16 @@
   education3:
   education4:
 
+- name: Sanghun Lee 이상헌
+  photo: Sanghun.png
+  info: PhD Student within a collaboration with the <a href="http://www.ingmarswart.nl">Swart Lab</a>
+  email: b
+  number_educ: 2
+  education1: Master Yonsei with [Doohee Cho](http://physicsyonsei.kr/en/people/professor?idx=48)
+  education2: BSc, Yonsei University
+  education3:
+  education4:
+
 - name: Kees van Oosten
   photo: DSC_1032.JPG
   info: FFine mechanical engineer (also associated with the FMD)
