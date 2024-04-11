@@ -12,7 +12,7 @@ permalink: /instrumente.html
 ### Rastertunnelmikroskop "Dome" 
 ![image](/images/inst/DomePlan.jpeg){:class="img-responsive"}
 ![image](/images/inst/domescrew.jpg){:class="img-responsive" width="50%"}
-![image](/images/inst/build.png){:class="img-responsive" width="25%"}
+![image](/images/inst/build.jpeg){:class="img-responsive" width="25%"}
 ![image](/images/inst/dometest.jpg){:class="img-responsive"}
 ![image](/images/inst/domebig.jpg){:class="img-responsive"}
 
