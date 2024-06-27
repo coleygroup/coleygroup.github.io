@@ -16,6 +16,9 @@
   > .item {
     display: none;
     position: relative;
+    float: left;
+    width: 100%;
+    margin-right: -100%;
     @include transition(.6s ease-in-out left);
 
     // Account for jankitude on images
@@ -219,7 +222,7 @@
   position: absolute;
   left: 15%;
   right: 15%;
-  bottom: 20px;
+  top: 50%;
   z-index: 10;
   padding-top: 20px;
   padding-bottom: 20px;
