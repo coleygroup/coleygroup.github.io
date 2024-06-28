@@ -31,7 +31,7 @@ After you make and push your changes to the branch, perform a pull request so th
 ### Adding you or someone else to the "People" page
 
 Adding yourself to the People page is very simple!
-1. If you are a grad student / post-doc / research scientist, upload an image of yourself to `images/teampic/` with the format `{firstname}_{lastname}.[png|jpg|jpeg]`.
+1. If you are a grad student / post-doc / research scientist, upload an image of yourself to `images/teampic/` with the format `{firstname}_{lastname}.[png|jpg|jpeg]`. **Please crop your image to a square**.
 2. Navigate to the `_data/` folder and locate the `.yml` file that matches your position in the group (for instance, if you are a grad student, open `grad_students.yml`). 
 3. Add all relevant information that others in your position have provided (e.g. name, description, links). Links, such as to Twitter, LinkedIn, or a personal website, are optional. 
 
