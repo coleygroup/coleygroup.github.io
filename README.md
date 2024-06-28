@@ -4,11 +4,11 @@ This is the repo for the website of the Coley Research group at MIT. It is modif
 
 ## Contributor Guide
 
-Any Coley Group members are free to make changes and additions to the website (such as adding/removing themselves to/from the "People" page) through this repo, pending approval. The existing templating combined with the following guide should hopefully make this process as painless as possible. Stylistic or template changes are also welcome but may require navigating Kevin's nightmarish templates and CSS.
+All Coley Group members are free to make changes and additions to the website (such as adding/removing themselves to/from the "People" page) through this repo, pending approval. The existing templating combined with the following guide should hopefully make this process as painless as possible. Stylistic or template changes are also welcome but may require navigating some messy templates or CSS.
 
 Before you do anything, fork this repo and clone the forked repo to your local machine:
 ```bash
-$ git clone https://github.com/coleygroup/coley.mit.edu.git
+$ git clone https://github.com/{your_username}/coley.mit.edu.git
 ```
 
 ### Local deployment
@@ -40,12 +40,12 @@ Adding yourself to the People page is very simple!
 
 That's it! Go ahead and make a pull request when you are satisfied.
 
-### Other simple changes
+### Other changes
 
-The following have been set up to be similarly easy to add new content to:
-- News
-- Group photos
-- Publicaions
-- Open source software
-- Research relevant to Connor's directions on the "Research" page
-
+The following have been set up to be similarly easy to add new content to. Hopefully it should be simple to extrapolate the editing of `.yml` files to the following, but ask Kevin or Kento if you need help.
+- News (`_data/news.yml`)
+- Group photos (`_data/photos.yml`, images go in `images/grouppic/`)
+- Publications (`_data/publications.yml`)
+- Open source software (`_data/software.yml`, logos go in `images/logopic`)
+- Research relevant to Connor's directions on the "Research" page (`_data/research.yml`)
+- WIP: The carousel highlighting recent work still needs to be refactored to be easily editabl with `.yml` files. For now, they are manually declared in `_includes/carousel.html` with pictures in `image/carouselpic`)
