@@ -9,11 +9,13 @@ permalink: /resources.html
 # Resources
 
 ### Group guide
-
+---
 We actively maintain a group guide detailing information about our values and Connor's attitude toward research and mentorship which can be found [here](https://docs.google.com/document/d/1K10WS0Bey9AGr17bpiak-A1dhQrkv5BBsQrsrwQ-H2g/edit).
 
-### Software and Tools
+<br/>
 
+### Software and Tools
+---
 We are generally committed to providing open-source software and tools for the scientific community. Our group Github organization can be found [here](https://github.com/coleygroup), and we highlight a number of software tools below.
 
 {% assign number_printed = 0 %}
