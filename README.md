@@ -4,7 +4,7 @@ This is the repo for the website of the Coley Research group at MIT. It is modif
 
 ## Contributor Guide
 
-All Coley Group members are free to make changes and additions to the website (such as adding/removing themselves to/from the "People" page) through this repo, pending approval. The existing templating combined with the following guide should hopefully make this process as painless as possible. Stylistic or template changes are also welcome but may require navigating some messy templates or CSS.
+All Coley Group members are free to make changes and additions to the website (such as adding/removing themselves to/from the "People" page) through this repo, pending approval. The existing templating combined with the following guide should hopefully make this process as painless as possible. Stylistic or template change suggestions are also welcome but may require navigating some messy templates or CSS.
 
 Before you do anything, fork this repo and clone the forked repo to your local machine:
 ```bash
@@ -48,4 +48,4 @@ The following have been set up to be similarly easy to add new content to. Hopef
 - Publications (`_data/publications.yml`)
 - Open source software (`_data/software.yml`, logos go in `images/logopic`)
 - Research relevant to Connor's directions on the "Research" page (`_data/research.yml`)
-- WIP: The carousel highlighting recent work still needs to be refactored to be easily editabl with `.yml` files. For now, they are manually declared in `_includes/carousel.html` with pictures in `image/carouselpic`)
+- WIP: The carousel highlighting recent work still needs to be refactored to be easily editable with `.yml` files. For now, they are manually declared in `_includes/carousel.html` with pictures in `image/carouselpic`)

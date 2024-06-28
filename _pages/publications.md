@@ -9,6 +9,10 @@ permalink: /publications/
 
 # Publications
 
+(Last updated June 4, 2024; also see [Google Scholar](https://scholar.google.com/citations?hl=en&user=l015S80AAAAJ&view_op=list_works&sortby=pubdate))
+
+---
+
 {% for pub in site.data.publications %}
 <p style="margin-top: 5px;">{{ pub.authors }} "{{ pub.title }}". <i>{{ pub.journal }}</i> (**{{ pub.year }}**) </p>
 {% endfor %}
