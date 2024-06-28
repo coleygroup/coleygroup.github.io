@@ -1,0 +1,18 @@
+
+- title: ASKCOS (Automated System for Knowledge-based Continuous Organic Synthesis)
+  image: Logo_askcos.png
+  description: ASKCOS is an open source software suite hosting several data-driven chemistry tools for synthesis planning. It has seen use by 35,000+ chemists and is deployed at 15+ pharmaceutical and chemical companies. At the above link, we host a free-to-use web app deployment of ASKCOS.
+  link:
+    url: https://askcos.mit.edu
+
+- title: "RDCanon: A Python Package for Canonicalizing the Order of Tokens in SMARTS Queries"
+  image: Logo_rdcanon.png
+  description: RDCanon is a package designed for canonicalizing SMARTS and Reaction SMARTS templates. It reorders SMARTS to optimize querying speed. This optimization is invariant of atom mapping.
+  link:
+    url: https://github.com/coleygroup/rdcanon
+
+- title: "SPARROW"
+  image:
+  description: A workflow to simultaneously select molecules and their synthetic routes for lead optimization and design-make-test cycles. This optimization approach aims to minimize synthetic cost while selecting the molecules that are most likely to fulfill design constraints. More details about SPARROW can be found in our preprint.
+  link:
+    url: https://github.com/coleygroup/sparrow
