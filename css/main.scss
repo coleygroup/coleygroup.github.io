@@ -70,8 +70,8 @@ pubtit {
 
 /* Team & Publications */
 .image-cropper {
-    width: 200px;
-    height: 200px;
+    width: 175px;
+    height: 175px;
     position: relative;
     overflow: hidden;
     border-radius: 50%;
@@ -124,20 +124,9 @@ pubtit {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.4); /* Black with 40% opacity */
+  background: rgba(0, 0, 0, 0.6); /* Black with 40% opacity */
 }
 
-// .carousel-caption {
-//   position: absolute;
-//   font-size: 32px;
-//   font-weight: 100;
-//   left: 50%;
-//   right: auto;
-//   z-index: 10;
-//   top: 50%; 
-//   transform: translate(-50%, -50%);
-//   width: 75%;
-// }
 .carousel-caption {
   position: absolute;
   font-size: 32px;
@@ -148,10 +137,7 @@ pubtit {
   top: 50%; 
   transform: translate(-50%, -50%);
   width: 75%;
-  background: rgba(0, 0, 0, 0.6); /* Black background with 60% opacity */
   color: white; /* Ensure the text is white */
-  padding: 10px; /* Add some padding */
-  border-radius: 5px; /* Optional: Add rounded corners */
 }
 
 .carousel-indicators {

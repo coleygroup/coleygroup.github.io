@@ -1,0 +1,731 @@
+- title: "Projecting molecules into synthesizable chemical spaces"
+  authors: Luo, S., Gao, W., Wu, Z., Peng, J. Coley, C.W., Ma, J.
+  journal: ICML
+  year: 2024
+  url:
+
+- title: "Data-efficient, chemistry-aware machine learning predictions of Diels-Alder reaction outcomes"
+  authors: Keto, A., Guo, T., Underdue, M., Stuyver, T., Coley, C.W., Zhang, X., Krenske, E.H., Wiest, O.
+  journal: J. Am. Chem. Soc.
+  year: 2024
+  url: 
+
+- title: "Incorporating synthetic accessibility in drug design: Predicting reaction yields of Suzuki cross-couplings by leveraging AbbVie's 15-year parallel library data set"
+  authors: Raghavan, P., Rago, A.J., Verma, P., Hassan, M.M., Goshu, G.M., Dombrowski, A.W., Pandey, A., Coley, C.W., Wang, Y.
+  journal: J. Am. Chem. Soc.
+  year: 2024
+  url:
+
+- title: "Automation of air-free synthesis"
+  authors: Mahjour, B.A., Coley, C.W.
+  journal: Nat. Rev. Chem.
+  year: 2024
+  url:
+
+- title: "Extracting structured data from organic synthesis procedures using a fine-tuned large language model"
+  authors: Ai, Q., Meng, F., Shi, J., Pelkie, B., Coley, C.W.
+  journal: chemrxiv
+  year: 2024
+  url:
+
+- title: "OpenChemIE: An information extraction toolkit for chemistry literature"
+  authors: Fan, V., Qian, Y., Wang, A., Wang, A., Coley, C.W., Barzilay, R.
+  journal: arxiv
+  year: 2024
+  url:
+
+- title: "Closing the execution gap in generative AI for chemicals and materials: freeways or safeguards"
+  authors: Subramanian, A., Gao, W., Barzilay, R., Grossman, J.C., Jaakkola, T., Jegelka, S., Li, M., Li, J., Matusik, W., Olivetti, E., Coley, C.W., Gomez-Bombarelli, R.
+  journal: preprint
+  year: 2024
+  url:
+
+- title: "RDCanon: A python package for canonicalizing the order of tokens in SMARTS queries"
+  authors: Mahjour, B.A., Coley, C.W.
+  journal: J. Chem. Inf. Model.
+  year: 2024
+  url:
+
+- title: "Beyond major product prediction: Reproducing reaction mechanisms with machine learning models trained on a large-scale mechanistic dataset"
+  authors: Joung, J.F., Fong, M.H., Roh, J., Tu, Z., Bradshaw, J., Coley, C.W.
+  journal: arxiv
+  year: 2024
+  url:
+
+- title: "Substrate scope contrastive learning: Repurposing human bias to learn atomic representations"
+  authors: Gao, W., Raghavan, P., Shprints, R., Coley, C.W.
+  journal: arxiv
+  year: 2024
+  url:
+
+- title: "Rapid prediction of conformationally-dependent DFT-level descriptors using graph neural networks for carboxylic acids and alkyl amines"
+  authors: Haas, B., Hardy, M., Sowndarya, S., Adams, K., Coley, C.W., Paton, R., Sigman, M.
+  journal: chemrxiv
+  year: 2024
+  url:
+
+- title: "Effective protein-protein interaction exploration with PPIretrieval"
+  authors: Hua, C., Coley, C.W., Wolf, G., Precup, D., Zheng, S.
+  journal: arxiv
+  year: 2024
+  url:
+
+- title: "A physics-inspired approach to the understanding of molecular representations and models"
+  authors: Dicks, L., Graff, D., Jordan, K., Coley, C.W., Pyzer-Knapp, E.
+  journal: Syst. Des. Eng.
+  year: 2024
+  url:
+
+- title: "Predictive chemistry augmented with text retrieval"
+  authors: Qian, Y., Li, Z., Tu, Z., Coley, C.W., Barzilay, R.
+  journal: EMNLP
+  year: 2023
+  url:
+
+- title: "Dataset design for building models of chemical reactivity"
+  authors: Raghavan, P., Haas, B.C., Ruos, M.E., Schleinitz, J., Doyle, A.G., Reisman, S.E., Sigman, M.S., Coley, C.W.
+  journal: ACS Cent. Sci.
+  year: 2023
+  url:
+
+- title: "An algorithmic framework for synthetic cost-aware decision making in molecular design"
+  authors: Fromer, J., Coley, C.W.
+  journal: arxiv
+  year: 2023
+  url:
+
+- title: "A computationally informed unified view on the effect of polarity and sterics on the glass transition in vinyl-based polymer melts"
+  authors: Jin, T., Coley, C.W., Alexander-Katz, A.
+  journal: ACS Macro. Lett.
+  year: 2023
+  url:
+
+- title: "Learning over molecular conformer ensembles: datasets and benchmarks"
+  authors: Zhu, Y., Hwang, J., Adams, K., Liu, Z., Nan, B., Stenfors, B.A., Du, Y., Chauhan, J., Wiest, O., Isayev, O., Coley, C.W., Sun, Y., Wang, W.
+  journal: ICLR
+  year: 2024
+  url:
+
+- title: "Pareto optimization to accelerate multi-objective virtual screening"
+  authors: Fromer, J.C., Graff, D.E., Coley, C.W.
+  journal: Digital Discov.
+  year: 2024
+  url:
+
+- title: "Opportunities for machine learning and artificial intelligence to advance synthetic drug substance process development"
+  authors: Griffin, D.J., Coley, C.W., Frank, S.A., Hawkins, J.M., Jensen, K.F.
+  journal: Process Res. Dev.
+  year: 2023
+  url:
+
+- title: "MIST-CF: Chemical formula inference from tandem mass spectra"
+  authors: Goldman, S., Xin, J. Provenzano, J., Coley, C.W.
+  journal: J. Chem. Inf. Model.
+  year: 2023
+  url:
+
+- title: "Computer-aided evaluation and exploration of chemical spaces constrained by reaction pathways"
+  authors: Levin, I., Fortunato, M.E., Tan, K.L., Coley, C.W.
+  journal: AIChE J.
+  year: 2023
+  url:
+
+- title: "Combining molecular modeling and machine learning for accelerated reaction screening and discovery"
+  authors: Casetti, N., Alfonso-Ramos, J.E., Coley, C.W., Stuyver, T.
+  journal: Chem. Eur. J.
+  year: 2023
+  url:
+
+- title: "Scientific discovery in the age of artificial intelligence"
+  authors: Wang, H., Fu, T., Du, Y., Gao, W., Huang, K., Liu, Z., Coley, C.W., Bengio, Y., Zitnik, M.
+  journal: Nature
+  year: 2023
+  url:
+
+- title: "Artificial intelligence for science: Quantum, atomistic, and continuum systems"
+  authors: Zhang, X., Wang, L., Helwig, J., Luo, Y., Fu, C., Xie, Y., Adams, K., Coley, C.W., Qian, X., Qian, X., Smidt, T., Ji, S.
+  journal: arxiv
+  year: 2023
+  url:
+
+- title: "PyLabRobot: An open-source hardware agnostic interface for liquid-handling robots and accessories"
+  authors: Wierenga, R.P., Golas, S., Ho, W., Coley, C.W., Elsvelt, K.M.
+  journal: bioRxiv
+  year: 2023
+  url:
+
+- title: "Data sharing in chemistry: Lessons learned and a case for mandating structured reaction data"
+  authors: Mercado, R., Kearnes, S.M., Coley, C.W.
+  journal: J. Chem. Inf. Model.
+  year: 2023
+  url:
+
+- title: "RxnScribe: A sequence generation model for reaction diagram parsing"
+  authors: Qian, Y., Guo, J., Tu, Z., Coley, C.W., Barzilay, R.
+  journal: J. Chem. Inf. Model.
+  year: 2023
+  url:
+
+- title: "The promise and pitfalls of AI for molecular and materials synthesis"
+  authors: David, N., Sun, W., Coley, C.W.
+  journal: Comput. Sci.
+  year: 2023
+  url:
+
+- title: "Evaluating the roughness of structure-property relationships using pretrained molecular representations"
+  authors: Graff, D.E., Pyzer-Knapp, E.O., Jordan, K.E., Shakhnovich, E.I., Coley, C.W.
+  journal: Digital Discov.
+  year: 2023
+  url:
+
+- title: "QMugs 1.1: quantum mechanical properties of organic compounds commonly encountered in reactivity datasets"
+  authors: Neeser, R., Isert, C., Stuyver, T., Schneider, G., Coley, C.W.
+  journal: Data Collect.
+  year: 2023
+  url:
+
+- title: "Generating molecular fragmentation graphs with autoregressive neural networks"
+  authors: Goldman, S., Li, J. Coley, C.W.
+  journal: arxiv
+  year: 2023
+  url:
+
+- title: "Generating multi-step chemical reaction pathways with black-box optimization"
+  authors: Reidenbach, D., Coley, C.W., Yang, K.
+  journal: ICLR Workshop on Machine Learning in Drug Discovery (MLDD)
+  year: 2023
+  url:
+
+- title: "Negative data in data sets for machine learning training"
+  authors: Maloney, M.P., Coley, C.W., Genheden, S., Carson, N., Helquist, P., Norrby, P.-O., Wiest, O.
+  journal: J. Org. Chem.
+  year: 2023
+  url:
+
+- title: "Prefix-tree decoding for predicting mass spectra from molecules"
+  authors: Goldman, S., Bradshaw, J., Xin, J., Coley, C.W.
+  journal: arXiv
+  year: 2023
+  url:
+
+- title: "Adsorption of biomimetic amphiphilic heteropolymers onto graphene and its derivatives"
+  authors: Jin, T., Coley, C.W., Alexander-Katz, A.
+  journal: Macromolecules
+  year: 2023
+  url:
+
+- title: "Computer-aided multi-objective optimization in small molecule discovery"
+  authors: Fromer, J., Coley, C.W.
+  journal: Patterns
+  year: 2023
+  url:
+
+- title: "Annotating metabolite mass spectra with domain-inspired chemical formula transformers"
+  authors: Goldman, S., Wohlwend, J., Stražar, M., Haroush, G., Xavier, R.J., Coley, C.W.
+  journal: bioRxiv
+  year: 2022
+  url:
+
+- title: "Machine learning-guided computational screening of new bio-orthogonal click reactions"
+  authors: Stuyver, T., Coley, C.W.
+  journal: Chem. Eur. J.
+  year: 2023
+  url:
+
+- title: "Reaction profiles for quantum chemistry-computed [3+2] cycloaddition reactions"
+  authors: Stuyver, T., Jorner, Kjell, Coley, C.W.
+  journal: Sci. Data
+  year: 2023
+  url:
+
+- title: "Predictive chemistry: machine learning for reaction deployment, reaction development, and reaction discovery"
+  authors: Tu, Z., Stuyver, T., Coley, C. W.
+  journal: Chem. Sci.
+  year: 2023
+  url:
+
+- title: "Merging enzymatic and synthetic chemistry with computational synthesis planning"
+  authors: Levin, I., Liu, M., Voigt, C.A., Coley, C.W.
+  journal: Nat. Commun.
+  year: 2022
+  url:
+
+- title: "De novo PROTAC design using graph-based deep generative models"
+  authors: Nori, D., Coley, C.W., Mercado, R.
+  journal: NeurIPS AI4Science Workshop
+  year: 2022
+  url:
+
+- title: "DNA-encoded library (DEL)-enabled discovery of proximity-inducing small molecules"
+  authors: Mason, J. W., Hudson, L., Westphal, M. V., Tutter, A., Michaud, G., Shu, W., Ma, X., Coley, C. W., Clemons, P. A., Bonazzi, S., Berst, F., Zécri, F. J., Briner, K., Schreiber, S. L.
+  journal: bioRxiv
+  year: 2022
+  url:
+
+- title: "Diversity-oriented synthesis encoded by deoxyoligonucleotides"
+  authors: Hudson, L., Mason, J. W., Westphal, M. V., Richter, M. J. R., Thielman, J. R., Hua, B. K., Gerry, C. J., Xia, G., Osswald, H. L., Knapp, J. M., Tan, Z. Y., Kokkonda, P., Tresco, B. I. C., Liu, S. Reidenbach, A. G., Lim, K. S., Poirier, J., Capece, J., Bonazzi, S., Gampe, C. M., Smith, N. J., Bradner, J. E., Coley, C. W., Clemons, P. A., Melillo, B., Ottl, J. Dumelin, C. E., Schaefer, J. V., Faust, A. M. E., Berst, F., Schreiber, S. L., Zécri, F. J., Briner, K.
+  journal: bioRxiv
+  year: 2022
+  url:
+
+- title: "Molecular signatures of the glass transition in polymers"
+  authors: Jin, T., Coley, C.W., Alexander-Katz, A.
+  journal: Phys. Rev. E
+  year: 2022
+  url:
+
+- title: "Equivariant shape-conditioned generation of 3D molecular for ligand-based drug design"
+  authors: Adams, K., Coley, C. W.
+  journal: ICLR
+  year: 2023
+  url:
+
+- title: "Sample efficiency matters: A benchmark for practical molecular optimization"
+  authors: Gao, W., Fu, T., Sun, J. Coley, C. W.
+  journal: NeurIPS
+  year: 2022
+  url:
+
+- title: "Reinforced genetic algorithm for structure-based drug design"
+  authors: Fu, T., Gao, W., Coley, C. W., Sun, J.
+  journal: NeurIPS
+  year: 2022
+  url:
+
+- title: "A high-throughput platform for efficient exploration of functional polypeptides chemical space"
+  authors: Wu, G., Zhou, H., Chang, J., Tian, Z., Liu, X., Wang, S., Coley, C.W., Lu, H.
+  journal: chemrxiv
+  year: 2022
+  url:
+
+- title: "Artificial intelligence foundation for therapeutic science"
+  authors: Huang, K., Fu, T., Gao, W., Zhao, Y., Roohani, Y., Leskovec, J., Coley, C. W., Xiao, C., Sun, J., Zitnik, M.
+  journal: Nature Chem. Bio.
+  year: 2022
+  url:
+
+- title: "Artificial intelligence for retrosynthesis prediction"
+  authors: Jiang, Y., Yu, Y., Kong, M., Mei, Y., Yuan, L., Huang, Z., Kuang, K., Wang, Z., Yao, H., Zou, J., Coley, C. W., Wei, Y.
+  journal: Engineering
+  year: 2022
+  url:
+
+- title: "Roughness of molecular property landscapes and its impact on modellability"
+  authors: Aldeghi, M., Graff, D. E., Frey, N., Morrone, J. A., Pyzer-Knapp, E. O., Jordan, K. E, Coley, C. W.
+  journal: J. Chem. Inf. Model.
+  year: 2022
+  url:
+
+- title: "A focus on simulation and machine learning as complementary tools for chemical space navigation"
+  authors: Aldeghi, M., Coley, C. W.
+  journal: Chem. Sci.
+  year: 2022
+  url:
+
+- title: "Robust molecular image recognition: a graph generation approach"
+  authors: Qian, Y., Tu, Z., Guo, J. Coley, C. W., Barzilay, R.
+  journal: arxiv
+  year: 2022
+  url:
+
+- title: "A graph representation of molecular ensembles for polymer property prediction"
+  authors: Aldeghi, M., Coley, C. W.
+  journal: Chem. Sci.
+  year: 2022
+  url:
+
+- title: "Neural scaling of deep chemical models"
+  authors: Frey, N., Soklaski, R., Alexrod, S., Samsi, S., Gomez-Bombarelli, R., Coley, C. W., Gadepally, V.
+  journal: ChemRxiv
+  year: 2022
+  url:
+
+- title: "Self-focusing virtual screening with active design space pruning"
+  authors: Graff, D. E., Aldeghi, M., Marrone, J. A., Jordan, K. E., Pyzer-Knapp, E. O., Coley, C. W.
+  journal: J. Chem. Inf. Model.
+  year: 2022
+  url:
+
+- title: "Similarity based enzymatic retrosynthesis"
+  authors: Sankaranarayanan, K., Heid, E., Coley, C.W., Verma, D., Green, W.H., Jensen, K.F.
+  journal: Chem. Sci.
+  year: 2022
+  url:
+
+- title: "Autonomous platforms for data-driven organic synthesis"
+  authors: Gao, W., Raghavan, P., Coley, C. W.
+  journal: Nat. Commun.
+  year: 2022
+  url:
+
+- title: "Improving the performance of models for one-step retrosynthesis through re-ranking"
+  authors: Lin, M.-H., Tu, Z., Coley, C. W.
+  journal: J. Cheminform.
+  year: 2022
+  url:
+
+- title: "pyscreener: a Python wrapper for computational docking software"
+  authors: Graff, D. E., Coley, C. W.
+  journal: JOSS
+  year: 2022
+  url:
+
+- title: "Scalable geometric deep learning on molecular graphs"
+  authors: Frey, N. C., Samsi, S., McDonald, J., Coley, C. W., Gadepally, V.
+  journal: NeurIPS AI4Science Workshop
+  year: 2021
+  url:
+
+- title: "Bringing atomistic deep learning to prime time"
+  authors: Frey, N. C., Samsi, S., Ramsundar, B., Coley, C. W., Gadepally, V.
+  journal: NeurIPS AI4Science Workshop
+  year: 2021
+  url:
+
+- title: "The Open Reaction Database"
+  authors: Kearnes, S. M., Maser, M. R., Wleklinski, M., Kast, A., Doyle, A. G., Dreher, S. D., Hawkins, J. M., Jensen, K. F. Coley, C. W.
+  journal: J. Am. Chem. Soc.
+  year: 2021
+  url:
+
+- title: "Permutation invariant graph-to-sequence model for template-free retrosynthesis and reaction prediction"
+  authors: Tu, Z., Coley, C. W.
+  journal: J. Chem. Inf. Model.
+  year: 2022
+  url:
+
+- title: "Amortized tree generation for bottom-up synthesis planning and synthesizable molecular design"
+  authors: Gao, W., Mercado, R., Coley, C. W.
+  journal: ICLR
+  year: 2022
+  url:
+
+- title: "Learning 3D representations of molecular chirality with invariance to bond rotations"
+  authors: Adams, K., Pattanaik, L., Coley, C. W.
+  journal: ICLR
+  year: 2022
+  url:
+
+- title: "Differentiable scaffolding tree for molecular optimization"
+  authors: Fu, T., Gao, W., Xiao, C., Yasonik, J., Coley, C. W., Sun, J.
+  journal: ICLR
+  year: 2022
+  url:
+
+- title: "Machine learning modeling of family wide enzyme-substrate specificity screens"
+  authors: Goldman, S., Das, R., Yang, K. K., Coley C. W.
+  journal: PLOS Comp. Bio.
+  year: 2022
+  url:
+
+- title: "Evidential deep learning for guided molecular property prediction and discovery"
+  authors: Soleimany, A. P., Amini, A., Goldman, S., Rus, D., Bhatia, S., Coley, C. W.
+  journal: ACS Cent. Sci.
+  year: 2021
+  url:
+
+- title: "Quantum chemistry-augmented neural networks for reactivity prediction: Performance, generalizability and interpretability"
+  authors: Stuyver, T., Coley C. W.
+  journal: J. Chem. Phys.
+  year: 2022
+  url:
+
+- title: "Non-autoregressive electron redistribution modeling for reaction prediction"
+  authors: Bi, H., Wang, H., Shi, C., Coley C. W., Tang, J., Guo, H.
+  journal: ICML
+  year: 2021
+  url:
+
+- title: "GeoMol: Torsional geometric generation of molecular 3D conformer ensembles"
+  authors: Ganea, O. E., Pattanaik, L., Coley, C. W., Barzilay, R., Jensen, K. F., Green, W. H., Jaakkola, T. S.
+  journal: NeurIPS
+  year: 2021
+  url:
+
+- title: "Automated chemical reaction extraction from scientific literature"
+  authors: Guo, J., Ibanez-Lopez, A. S., Gao, H., Quach, V., Coley, C. W., Jensen, K. F., Barzilay, R.
+  journal: J. Chem. Inf. Model.
+  year: 2021
+  url:
+
+- title: "BioNavi-NP: Biosynthesis navigator for natural products"
+  authors: Zheng, S., Zeng, T., Li, C., Chen, B., Coley, C. W., Yang, Y., Wu, R.
+  journal: Nat. Commun.
+  year: 2022
+  url:
+
+- title: "EHreact: Extended Hasse diagrams for the extraction and scoring of enzymatic reaction templates"
+  authors: Heid, E., Goldman, S., Sankaranarayanan, K., Coley, C. W., Flamm, C., Green, W. H.
+  journal: J. Chem. Inf. Model.
+  year: 2021
+  url:
+
+- title: "Accelerating high-throughput virtual screening through molecular pool-based active learning"
+  authors: Graff, D. E., Shakhnovich, E. I., Coley, C. W.
+  journal: Chem. Sci.
+  year: 2021
+  url:
+
+- title: "Therapeutics Data Commons: Machine learning datasets and tasks for therapeutics"
+  authors: Huang, K., Fu, T., Gao, W., Zhao, Y., Roohani, Y., Leskovec, J., Coley, C. W., Xiao, C., Sun, J., Zitnik, M.
+  journal: NeurIPS Datasets and Benchmarks
+  year: 2021
+  url:
+
+- title: "Regio-selectivity prediction with a machine-learned reaction representation and on-the-fly quantum mechanical descriptors"
+  authors: Guan, Y., Coley, C. W., Wu, H., Ranasinghe, D., Heid, E., Struble, T. J., Pattanaik, L., Green, W. H., Jensen, K. F.
+  journal: Chem. Sci.
+  year: 2021
+  url:
+
+- title: "Defining and exploring chemical spaces"
+  authors: Coley, C. W.
+  journal: Trends in Chemistry
+  year: 2020
+  url:
+
+- title: "Direct optimization across computer-generated reaction networks balances materials use and feasibility of synthesis plans for molecule libraries"
+  authors: Gao, H., Pauphilet, J., Struble, T. J., Coley, C. W., Jensen, K. F.
+  journal: J. Chem. Inf. Model.
+  year: 2020
+  url:
+
+- title: "Evaluating and clustering retrosynthesis pathways with learned strategy"
+  authors: Mo, Y., Guan, Y., Verma, P., Guo, J., Fortunato, M. E., Lu, Z., Coley, C. W., Jensen, K. F.
+  journal: Chem. Sci.
+  year: 2021
+  url:
+
+- title: "Message passing networks for molecules with tetrahedral chirality"
+  authors: Pattanaik, L., Ganea, O. E., Coley, I., Jensen, K. F., Green, W. H., Coley, C. W.
+  journal: NeurIPS ML4Molecules
+  year: 2020
+  url:
+
+- title: "Towards efficient discovery of green synthetic pathways with Monte Carlo tree search and reinforcement learning"
+  authors: Wang, X., Qian, Y., Gao, H. Coley, C. W., Mo, Y., Barzilay, R., Jensen, K. F.
+  journal: Chem. Sci.
+  year: 2020
+  url:
+
+- title: "Artificial intelligence for computer-aided synthesis in flow: Analysis and selection of reaction components"
+  authors: Plehiers, P. P., Coley, C. W., Gao, H., Vermeire, F. H., Dobbelaere, M. R., Stevens, C. V., Van Geem, K. M., Green, W. H.
+  journal: Front. Chem. Eng.
+  year: 2020
+  url:
+
+- title: "Learning graph models for template-free retrosynthesis"
+  authors: Somnath, V. R., Bunne, C., Coley, C. W., Krause, A., Barzilay, R.
+  journal: NeurIPS
+  year: 2021
+  url:
+
+- title: "Molecular representation: Going long on fingerprints"
+  authors: Pattanaik, L., Coley, C. W.
+  journal: Chem
+  year: 2020
+  url:
+
+- title: "Uncertainty quantification using neural networks for molecular property prediction"
+  authors: Hirschfeld, L., Swanson, K., Yang, K., Barzilay, R., Coley, C. W.
+  journal: J. Chem. Inf. Model.
+  year: 2020
+  url:
+
+- title: "Learning to navigate the synthetically accessible chemical space using reinforcement learning"
+  authors: Gottipati, S. K., Sattarov, B., Niu, S., Pathak, Y., Wei, H., Liu, S., Thomas, K. M. J., Blackburn, S., Coley, C. W., Tang, J., Chandar, S., Bengio, Y.
+  journal: ICML
+  year: 2020
+  url:
+
+- title: "Current and future roles of artificial intelligence in medicinal chemistry synthesis"
+  authors: Struble, T. S., Alvarez, J. C., Brown, S., Chytil, M., Cisar, J., DesJarlais, R., Engkvist, O., Frank, S. A., Greve, D. R., Griffin, D. J. Hou, X., Johannes, J. W., Kreatsoulas, C., Lahue, B., Mathea, M., Mogk, G., Nicolaou, C. A., Palmer, A. D., Price, D. J., Robinson, R. I., Salentin, S., Xing, L., Jaakkola, T., Green, W. H., Barzilay, R., Coley, C. W., Jensen, K. F.
+  journal: J. Med. Chem.
+  year: 2020
+  url:
+
+- title: "The synthesizability of molecules proposed by generative models"
+  authors: Gao, W., Coley, C. W.
+  journal: J. Chem. Inf. Model.
+  year: 2020
+  url:
+
+- title: "Multitask prediction of site selectivity in aromatic C-H functionalization reactions"
+  authors: Struble, T. S., Coley, C. W., Jensen, K. F.
+  journal: React. Chem. Eng.
+  year: 2020
+  url:
+
+- title: "Data augmentation and pretraining for template-based retrosynthetic prediction in computer-aided synthesis planning"
+  authors: Fortunato, M. E., Coley, C. W., Barnes, B. C., Jensen, K. F.
+  journal: J. Chem. Inf. Model.
+  year: 2020
+  url:
+
+- title: "Combining retrosynthesis and mixed-integer optimization for minimizing the chemical inventory needed to realize a WHO essential medicines list"
+  authors: Gao, H., Coley, C. W., Struble, T., Li, L., Qian, Y. Green, W. H., Jensen, K. F.
+  journal: React. Chem. Eng.
+  year: 2020
+  url:
+
+- title: "Retrosynthesis prediction with conditional graph logic network"
+  authors: Dai, H., Li, C. Coley, C. W., Dai, B., Song, L.
+  journal: NeurIPS
+  year: 2019
+  url:
+
+- title: "Autonomous discovery in the chemical sciences part II: Outlook"
+  authors: Coley, C. W., Eyke, N. S., Jensen, K. F.
+  journal: Angew. Chem. Int. Ed.
+  year: 2019
+  url:
+
+- title: "Autonomous discovery in the chemical sciences part I: Progress"
+  authors: Coley, C. W., Eyke, N. S., Jensen, K. F.
+  journal: Angew. Chem. Int. Ed.
+  year: 2019
+  url:
+
+- title: "BigSMILES: a structurally-based line notation for describing macromolecules"
+  authors: Lin, T.-S., Coley, C. W., Mochigase, H., Beech, H. K., Wang, W., Wang, Z., Woods, E., Craig, S. L., Johnson, J. A., Kalow, J. A., Jensen, K. F., Olsen, B. D.
+  journal: ACS Cent. Sci.
+  year: 2019
+  url:
+
+- title: "A robotic platform for flow synthesis of organic compounds informed by AI planning"
+  authors: Coley, C. W., Thomas III, D. A., Lummiss, J. A. M., Jaworski, J. N., Breen, C. P., Schultz, V., Hart, T., Fishman, J. S., Rogers, L., Gao, H., Hicklin, R. W., Plehiers, P. P., Byington, J., Piotti, J. S., Green, W. H., Hart, A. J., Jamison, T. F., Jensen, K. F.
+  journal: Science
+  year: 2019
+  url:
+
+- title: "Analyzing learned molecular representations for property prediction"
+  authors: Yang, K., Swanson, K., Jin, W., Coley, C. W., Eiden, P., Gao, H., Guzman-Perez, A., Hopper, Tm., Kelley, B., Mathea, M., Palmer, A., Settels, V., Jaakkola, T., Jensen, K. F., Barzilay, R.
+  journal: J. Chem. Inf. Model.
+  year: 2019
+  url:
+
+- title: "RDChiral: an RDKit wrapper for handling stereochemistry in retrosynthetic template extraction and application"
+  authors: Coley, C. W., Green, W. H., Jensen, K. F.
+  journal: J. Chem. Inf. Model.
+  year: 2019
+  url:
+
+- title: "Learning retrosynthetic planning through simulated experience"
+  authors: Schreck, J. S., Coley, C. W., Bishop, K. J. M.
+  journal: ACS Cent. Sci.
+  year: 2019
+  url:
+
+- title: "A graph-convolutional neural network model for the prediction of chemical reactivity"
+  authors: Coley, C. W., Jin, W., Rogers, L., Jamison, T. F., Jaakkola, T. S., Green, W. H., Barzilay, R., Jensen, K. F.
+  journal: Chem. Sci.
+  year: 2019
+  url:
+
+- title: "Using machine learning to predict suitable conditions for organic reactions"
+  authors: Gao, H., Struble, T. J., Coley, C. W., Wang, Y., Green, W. H., Jensen, K. F.
+  journal: ACS Cent. Sci.
+  year: 2018
+  url:
+
+- title: "Flow chemistry-enabled studies of rhodium-catalyzed hydroformylation reactions"
+  authors: Zhu, C., Raghuvanshi, K., Coley, C. W., Mason, D., Rodgers, J., Janka, M. E., Abolhasani, M.
+  journal: Chem. Comm.
+  year: 2018
+  url:
+
+- title: "Machine learning in computer-aided organic synthesis"
+  authors: Coley, C. W., Green, W. H., Jensen, K. F.
+  journal: Acc. Chem. Res.
+  year: 2018
+  url:
+
+- title: "Optimum catalyst selection over continuous and discrete process variables with a single droplet microfluidic reaction platform"
+  authors: Baumgartner, L., Coley, C. W., Reizman, B., Gao, K., Jensen, K. F.
+  journal: React. Chem. Eng.
+  year: 2018
+  url:
+
+- title: "Photoredox iridium-nickel dual catalyzed decarboxylative arylation cross-coupling: from batch to continuous flow via self-optimizing segmented flow reactor"
+  authors: Hsieh, H.-W., Coley, C. W., Baumgartner, L., Jensen, K. F., Robison, R.
+  journal: Org. Process Res. Dev.
+  year: 2018
+  url:
+
+- title: "A modular microfluidic technology for systematic studies of colloidal semiconductor nanocrystals"
+  authors: Epps, R. W., Felton, K.C., Coley, C. W., Abolhasani, M.
+  journal: J. Vis. Exp.
+  year: 2018
+  url:
+
+- title: "Ligand-mediated nanocrystal growth"
+  authors: Lazzari, S., Theiler, P. M., Shen, Y., Coley, C. W., Stemmer, A., Jensen, K. F.
+  journal: Langmuir
+  year: 2018
+  url:
+
+- title: "SCScore: Synthetic complexity learned from a reaction corpus"
+  authors: Coley, C. W., Rogers, L., Green, W. H., Jensen, K. F.
+  journal: J. Chem. Inf. Model.
+  year: 2018
+  url:
+
+- title: "Computer-assisted retrosynthesis based on molecular similarity"
+  authors: Coley, C. W., Rogers, L., Green, W. H., Jensen, K. F.
+  journal: ACS Cent. Sci.
+  year: 2017
+  url:
+
+- title: "In-situ microfluidic studies of bi-phasic nanocrystal ligand exchange reaction using oscillatory flow reactor"
+  authors: Shen, Y., Abolhasani, M., Chen, Y., Xie, L., Yang, L., Coley, C. W., Bawendi, M., Jensen, K. F.
+  journal: Angew. Chem. Int. Ed.
+  year: 2017
+  url:
+
+- title: "Automated microfluidic platform for systematic studies of colloidal perovskite nanocrystals: towards continuous nano-manufacturing"
+  authors: Epps, R.W., Felton, K.C., Coley, C. W., Abolhasani, M.
+  journal: Lab Chip
+  year: 2017
+  url:
+
+- title: "Predicting organic reaction outcomes with weisfeiler-lehman network"
+  authors: Jin, W., Coley, C. W., Barzilay, R., Jaakkola, T.
+  journal: NeurIPS
+  year: 2017
+  url:
+
+- title: "Convolutional embedding of attributed molecular graphs for physical property prediction"
+  authors: Coley, C. W., Barzilay, R., Green, W. H., Jaakkola, T. S., Jensen, K. F.
+  journal: J. Chem. Inf. Model.
+  year: 2017
+  url:
+
+- title: "Material-efficient microfluidic platform for exploratory studies of visible-light photoredox catalysis"
+  authors: Coley, C. W., Abolhasani, M., Lin, H., Jensen, K. F.
+  journal: Angew. Chem.
+  year: 2017
+  url:
+
+- title: "Prediction of organic reaction outcomes using machine learning"
+  authors: Coley, C. W., Barzilay, R., Jaakkola, T. S., Green, W. H., Jensen, K. F.
+  journal: ACS Cent. Sci.
+  year: 2017
+  url:
+
+- title: "A segmented flow platform for on-demand medicinal chemistry and compound synthesis in oscillating droplets"
+  authors: Hwang, Y.-J, Coley, C. W., Abolhasani, M., Marzinzik, A.L., Koch, G., Spanka, C., Lehmann, H., Jensen, K.F.
+  journal: Chem. Comm.
+  year: 2017
+  url:
+
+- title: "Multiphase oscillatory flow strategy for in situ measurement and screening of partition coefficients"
+  authors: Abolhasani, M., Coley, C. W., Jensen, K. F.
+  journal: Anal. Chem.
+  year: 2015
+  url:
+
+- title: "Oscillatory microprocessor for growth and in situ characterization of semiconductor nanocrystals"
+  authors: Abolhasani, M., Coley, C. W., Xie, L., Chen, O., Bawendi, M. G., Jensen, K. F.
+  journal: Chem. Mater.
+  year: 2015
+  url:
