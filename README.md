@@ -6,27 +6,27 @@ This is the repo for the website of the Coley Research group at MIT. It is modif
 
 Any Coley Group members are free to make changes and additions to the website (such as adding/removing themselves to/from the "People" page) through this repo, pending approval. The existing templating combined with the following guide should hopefully make this process as painless as possible. Stylistic or template changes are also welcome but may require navigating Kevin's nightmarish templates and CSS.
 
-### Local deployment
-
-If you are making non-trivial changes (i.e. beyond just adding yourself to the "People" page), it is highly encouraged to locally deploy the website on your machine to preview the website before making a pull request. First, install Jekyll if you have not done so, following [the official guide](https://jekyllrb.com/docs/installation/#requirements) corresponding to your OS. 
-
-Next, fork this repo and clone the forked repo to your local machine:
+Before you do anything, fork this repo and clone the forked repo to your local machine:
 ```bash
 $ git clone https://github.com/coleygroup/coley.mit.edu.git
 ```
 
-In your newly created folder, simply run the following to serve the website at `http://localhost:4000`.
+### Local deployment
+
+If you are making non-trivial changes (i.e. beyond just adding yourself to the "People" page), it is highly encouraged to locally deploy the website on your machine to preview the website before making a pull request. First, install Jekyll if you have not done so, following [the official guide](https://jekyllrb.com/docs/installation/#requirements) corresponding to your OS. 
+
+In the folder corresponding to your cloned repo, simply run the following to serve the website at `http://localhost:4000`.
 ```bash
 $ jekyll serve
 ```
 
 ### Making changes and pull requests
 
-Please create and checkout a new branch with the command
+Create and checkout a new branch with the command
 ```bash
 $ git checkout -b BRANCH_NAME
 ```
-After you make and push your changes to the branch, perform a pull request so that your changes can be reviewed and merged into the main repo.
+After you make and push your changes to the branch, perform a pull request so that your changes can be reviewed and merged into the main repo. This can be done easily through the Github UI on the browser.
 
 ### Adding you or someone else to the "People" page
 
@@ -39,3 +39,13 @@ Adding yourself to the People page is very simple!
     - For undergraduates, this is `name`, `school`, and an optional `link` to a LinkedIn profile or personal website. 
 
 That's it! Go ahead and make a pull request when you are satisfied.
+
+### Other simple changes
+
+The following have been set up to be similarly easy to add new content to:
+- News
+- Group photos
+- Publicaions
+- Open source software
+- Research relevant to Connor's directions on the "Research" page
+
