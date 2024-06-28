@@ -10,7 +10,7 @@ permalink: /people/
 
 <!-- Connor Bio -->
 
-<h2 style="text-align: center;">Principle Investigator</h2>
+<h2 style="text-align: center;">Principal Investigator</h2>
 ---
 <div style="text-align: center;">
 <div class="image-cropper">
@@ -99,8 +99,23 @@ Assistant Professor of Electrical Engineering and Computer Science <br></i>
 {% endif %}
 {% endfor %}
 
-## Pictures
-
+## Group Photos
+---
+<div class="row">
+{% for photo in site.data.photos %}
+<div class="col-sm-6 clearfix" style="text-align: center; ">
+<div style="display: flex; justify-content: center;">
+<img class="person-pic" src="{{ site.url }}{{ site.baseurl }}/images/grouppic/{{ photo.name }}"/>
+</div>
+<i>{{ photo.description }}</i>
+</div>
+{% assign number_printed = forloop.index | modulo: 2 %}
+{% if number_printed == 0 %}
+</div>
+<div class="row">
+{% endif %}
+{% endfor %}
+</div>
 
 ## Lab Alumni
 ---
@@ -109,5 +124,13 @@ Assistant Professor of Electrical Engineering and Computer Science <br></i>
 - [{{ member.name }}]({{ member.link }}) ({{ member.previous }}) &rarr; {{ member.current }}
 {% else %}
 - {{ member.name }} ({{ member.previous }}) &rarr; {{ member.current }}
+{% endif %}
+{% endfor %}
+---
+{% for member in site.data.alumni_ug %}
+{% if member.link %}
+- [{{ member.name }}]({{ member.link }}) (UG {{ member.graduation }}, {{ member.school }}) &rarr; {{ member.current }}
+{% else %}
+- {{ member.name }} (UG {{ member.graduation }}, {{ member.school }}) &rarr; {{ member.current }}
 {% endif %}
 {% endfor %}
