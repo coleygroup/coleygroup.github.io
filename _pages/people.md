@@ -129,8 +129,8 @@ Assistant Professor of Electrical Engineering and Computer Science <br></i>
 ---
 {% for member in site.data.alumni_ug %}
 {% if member.link %}
-- [{{ member.name }}]({{ member.link }}) (UG {{ member.graduation }}, {{ member.school }}) &rarr; {{ member.current }}
+- [{{ member.name }}]({{ member.link }}) ({{ member.previous }}) &rarr; {{ member.current }}
 {% else %}
-- {{ member.name }} (UG {{ member.graduation }}, {{ member.school }}) &rarr; {{ member.current }}
+- {{ member.name }} ({{ member.previous }}) &rarr; {{ member.current }}
 {% endif %}
 {% endfor %}
