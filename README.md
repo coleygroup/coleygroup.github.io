@@ -12,7 +12,7 @@ If you are making non-trivial changes (i.e. beyond just adding yourself to the "
 
 Next, fork this repo and clone the forked repo to your local machine:
 ```bash
-$ git clone https://github.com/{your_username}/coley.mit.edu.git
+$ git clone https://github.com/coleygroup/coley.mit.edu.git
 ```
 
 In your newly created folder, simply run the following to serve the website at `http://localhost:4000`.
