@@ -14,5 +14,11 @@ permalink: /publications/
 ---
 
 {% for pub in site.data.publications %}
+{% if pub.url %}
+<p style="margin-top: 5px;">
+  {{ pub.authors }} "<a href="{{ pub.url }}" target="_blank">{{ pub.title }}</a>". <i>{{ pub.journal }}</i> (**{{ pub.year }}**)
+</p>
+{% else %}
 <p style="margin-top: 5px;">{{ pub.authors }} "{{ pub.title }}". <i>{{ pub.journal }}</i> (**{{ pub.year }}**) </p>
+{% endif %}
 {% endfor %}

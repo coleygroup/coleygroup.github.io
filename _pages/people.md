@@ -121,16 +121,16 @@ Assistant Professor of Electrical Engineering and Computer Science <br></i>
 ---
 {% for member in site.data.alumni %}
 {% if member.link %}
-- [{{ member.name }}]({{ member.link }}) ({{ member.previous }}) &rarr; {{ member.current }}
+- [{{ member.name }}]({{ member.link }}) ({{ member.previous }}) {% if member.current %} &rarr; {{ member.current }} {% endif %}
 {% else %}
-- {{ member.name }} ({{ member.previous }}) &rarr; {{ member.current }}
+- {{ member.name }} ({{ member.previous }}) {% if member.current %} &rarr; {{ member.current }} {% endif %}
 {% endif %}
 {% endfor %}
 ---
 {% for member in site.data.alumni_ug %}
 {% if member.link %}
-- [{{ member.name }}]({{ member.link }}) ({{ member.previous }}) &rarr; {{ member.current }}
+- [{{ member.name }}]({{ member.link }}) ({{ member.previous }}) {% if member.current %} &rarr; {{ member.current }} {% endif %}
 {% else %}
-- {{ member.name }} ({{ member.previous }}) &rarr; {{ member.current }}
+- {{ member.name }} ({{ member.previous }}) {% if member.current %} &rarr; {{ member.current }} {% endif %}
 {% endif %}
 {% endfor %}
