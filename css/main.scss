@@ -12,6 +12,8 @@ img { margin-bottom: 24px;
 body {
 	padding-top: 70px;
   background-color: #fefeff;
+  font-family: "Gill Sans";
+  font-weight: 250;
 }
 
 figcaption {
@@ -80,6 +82,14 @@ pubtit {
 }
 
 .person-pic {
+  position: relative;
+  height: 100%;
+  width: 100%;
+  bottom: 16px;
+  object-fit: cover;
+}
+
+.group-pic {
   position: relative;
   height: 100%;
   width: 100%;
