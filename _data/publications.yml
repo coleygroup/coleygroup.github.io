@@ -1,24 +1,43 @@
+- title: "An algorithmic framework for synthetic cost-aware decision making in molecular design"
+  authors: Fromer, J.C., Coley, C.W.
+  journal: Nat. Comput. Sci.
+  volume: 4
+  pages: 440-450
+  year: 2024
+  url: https://doi.org/10.1038/s43588-024-00639-y
+  preprint_doi_url: https://doi.org/10.48550/arXiv.2311.02187
+  preprint_year: 2023
+  preprint_site: arxiv
+
 - title: "Projecting molecules into synthesizable chemical spaces"
   authors: Luo, S., Gao, W., Wu, Z., Peng, J. Coley, C.W., Ma, J.
   journal: ICML
   year: 2024
-  url: https://arxiv.org/abs/2406.04628
+  url: https://doi.org/10.48550/arXiv.2406.04628
 
 - title: "Data-efficient, chemistry-aware machine learning predictions of Diels-Alder reaction outcomes"
   authors: Keto, A., Guo, T., Underdue, M., Stuyver, T., Coley, C.W., Zhang, X., Krenske, E.H., Wiest, O.
   journal: J. Am. Chem. Soc.
+  volume: 146
+  issue: 23
+  pages: 16052-16061
   year: 2024
   url: https://doi.org/10.1021/jacs.4c03131
 
 - title: "Incorporating synthetic accessibility in drug design: Predicting reaction yields of Suzuki cross-couplings by leveraging AbbVie's 15-year parallel library data set"
   authors: Raghavan, P., Rago, A.J., Verma, P., Hassan, M.M., Goshu, G.M., Dombrowski, A.W., Pandey, A., Coley, C.W., Wang, Y.
   journal: J. Am. Chem. Soc.
+  volume: 146
+  issue: 22
+  pages: 15070-15084
   year: 2024
   url: https://doi.org/10.1021/jacs.4c00098
 
 - title: "Automation of air-free synthesis"
   authors: Mahjour, B.A., Coley, C.W.
   journal: Nat. Rev. Chem.
+  volume: 8
+  pages: 300–301
   year: 2024
   url: https://doi.org/10.1038/s41570-024-00599-x
 
@@ -43,6 +62,9 @@
 - title: "RDCanon: A python package for canonicalizing the order of tokens in SMARTS queries"
   authors: Mahjour, B.A., Coley, C.W.
   journal: J. Chem. Inf. Model.
+  volume: 64
+  issue: 8
+  pages: 2948–2954
   year: 2024
   url: https://doi.org/10.1021/acs.jcim.4c00138
 
@@ -87,12 +109,6 @@
   journal: ACS Cent. Sci.
   year: 2023
   url: https://doi.org/10.1021/acscentsci.3c01163
-
-- title: "An algorithmic framework for synthetic cost-aware decision making in molecular design"
-  authors: Fromer, J., Coley, C.W.
-  journal: arxiv
-  year: 2023
-  url: https://arxiv.org/abs/2311.02187
 
 - title: "A computationally informed unified view on the effect of polarity and sterics on the glass transition in vinyl-based polymer melts"
   authors: Jin, T., Coley, C.W., Alexander-Katz, A.
