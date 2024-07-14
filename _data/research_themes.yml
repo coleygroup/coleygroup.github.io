@@ -1,0 +1,12 @@
+- name: molecular representation
+  color: "#77c8ad"
+- name: design and optimization
+  color: "#f4667e"
+- name: predictive chemistry
+  color: "#f79b5c"
+- name: metabolomics
+  color: "#b8a0ff"
+- name: automation
+  color: "#4eb7c1"
+- name: data
+  color: "#6c757d"
