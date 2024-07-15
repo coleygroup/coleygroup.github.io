@@ -51,7 +51,7 @@ The following have been set up to be similarly easy to add new content to. Hopef
 - WIP: The carousel highlighting recent work still needs to be refactored to be easily editable with `.yml` files. For now, they are manually declared in `_includes/carousel.html` with pictures in `image/carouselpic`)
 
 ### Adding publications
-Instructions for adding publications and a template are at the top of the (`_data/publications.yml`). However, here is a short outline for creating a citation to look like:
+Some instructions for adding publications and a template are at the top of the (`_data/publications.yml`) file for your convenience. The main format for a citation is as follows:
 - Author list. Linked Title. *Journal*. Volume(Issue), Pages. (Year) DOI/preprint: DOI/preprint_ID.
 
 The minimum required fields are: `title`, `authors`, `journal`, `year`, `url`, `themes`.
@@ -71,8 +71,8 @@ Further, research themes should be added for each paper and they will appear as 
 
 Note: There are slight nuances with respect to the `doi` and `preprint` fields since the former supercedes the latter.
 - For preprints
-    - do NOT include the `doi` field
+    - Do NOT include the `doi` field
     - DO include the `preprint` and related fields.
 - For conference papers
-    - do NOT include `doi` OR `preprint` fields.
+    - Do NOT include `doi` OR `preprint` fields.
     - DO include `url`, `preprint_url`, `preprint_site`, `preprint_year`.
