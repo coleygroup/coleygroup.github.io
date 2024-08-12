@@ -1,9 +1,9 @@
 ---
 title: "Coley Lab - Publications"
-layout: gridlay
+layout: publications
 excerpt: "Coley Lab -- Publications."
 sitemap: false
-permalink: /publications/
+permalink: /publications
 ---
 <!-- Custom CSS -->
 <style>
@@ -67,27 +67,3 @@ permalink: /publications/
 </p>
 {% endif %}
 {% endfor %}
-
-
-<!-- Previous code for displaying publications -->
-
-<!-- {% if pub.preprint_url %}
-<p style="margin-left: 25px;">
-  Preprint: *{{ pub.preprint_site }}*  ({{ pub.preprint_year }}) [{{ pub.preprint_url}}]({{ pub.preprint_url}})
-</p>
-{% endif %} -->
-
-<!-- {% for pub in site.data.publications %}
-<p class="hanging-indent">
-  {{ pub.authors }}
-  "{{ pub.title }}".
-  *{{ pub.journal }}*
-  {{ pub.volume }}{% if pub.issue %}({{ pub.issue }}) {% endif %}, {{ pub.pages }} (**{{ pub.year }}**).
-  {% if pub.url %} [{{ pub.url}}]({{pub.url}}) {% endif %}
-</p>
-{% if pub.preprint_url %}
-<p style="margin-left: 25px;">
-  Preprint: *{{ pub.preprint_site }}*  ({{ pub.preprint_year }}) [{{ pub.preprint_url}}]({{ pub.preprint_url}})
-</p>
-{% endif %}
-{% endfor %} -->
