@@ -1,9 +1,9 @@
 ---
 title: "Coley Lab - Publications"
-layout: gridlay
+layout: publications
 excerpt: "Coley Lab -- Publications."
 sitemap: false
-permalink: /publications/
+permalink: /publications
 ---
 <!-- Custom CSS -->
 <style>
@@ -53,40 +53,17 @@ permalink: /publications/
 <!-- Citations -->
 <p class="hanging-indent">
   {{ pub.authors }}.
-  {% if pub.url %} [{{ pub.title }}]({{ pub.url }}). {% else %} {{pub.title}}. {% endif %}*{{ pub.journal }}*
-  {% if pub.volume %} {{ pub.volume }}{% if pub.issue %}({{ pub.issue }}){% endif %},{% endif %}{% if pub.pages %} {{ pub.pages }}{% endif %}. ({{ pub.year }})
+  {% if pub.url %} [{{ pub.title }}]({{ pub.url }}). {% else %} {{pub.title}}. {% endif %}*{{ pub.journal }}*{% if pub.volume %} {{ pub.volume }}{% if pub.issue %}({{ pub.issue }}){% endif %},{% endif %}{% if pub.pages %} {{ pub.pages }}{% endif %}. ({{ pub.year }})
   {% if pub.doi %} DOI: {{ pub.doi }} {% elsif pub.preprint %} *preprint: {{ pub.preprint }}*{% endif %}
 </p>
 <!-- Buttons and tags -->
-<p style="margin-left: 25px;">
+{% if pub.preprint_url or pub.themes %}
+<p style="margin-left: 20px; margin-top: -11px">
 <!-- <a href="{{ pub.url }}" class="btn btn-xs btn-primary mt-1">Paper</a>  -->
 {% if pub.preprint_url %}<a href="{{ pub.preprint_url }}" class="btn btn-xs btn-primary">Preprint</a>{% endif %}
 {% if pub.themes %}{% for theme in pub.themes %}{% assign theme_data = themes | where: "name", theme | first %}{% if theme_data %}
   <span class="badge badge-pill badge-pill-custom" style="background-color: {{ theme_data.color }}">{{ theme }}</span>{% endif %}{% endfor %}
 {% endif %}
 </p>
-{% endfor %}
-
-
-<!-- Previous code for displaying publications -->
-
-<!-- {% if pub.preprint_url %}
-<p style="margin-left: 25px;">
-  Preprint: *{{ pub.preprint_site }}*  ({{ pub.preprint_year }}) [{{ pub.preprint_url}}]({{ pub.preprint_url}})
-</p>
-{% endif %} -->
-
-<!-- {% for pub in site.data.publications %}
-<p class="hanging-indent">
-  {{ pub.authors }}
-  "{{ pub.title }}".
-  *{{ pub.journal }}*
-  {{ pub.volume }}{% if pub.issue %}({{ pub.issue }}) {% endif %}, {{ pub.pages }} (**{{ pub.year }}**).
-  {% if pub.url %} [{{ pub.url}}]({{pub.url}}) {% endif %}
-</p>
-{% if pub.preprint_url %}
-<p style="margin-left: 25px;">
-  Preprint: *{{ pub.preprint_site }}*  ({{ pub.preprint_year }}) [{{ pub.preprint_url}}]({{ pub.preprint_url}})
-</p>
 {% endif %}
-{% endfor %} -->
+{% endfor %}

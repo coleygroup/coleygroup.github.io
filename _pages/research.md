@@ -1,9 +1,9 @@
 ---
 title: "Coley Research Group - Research"
-layout: textlay
+layout: research
 excerpt: "Coley Research Group -- Research"
 sitemap: false
-permalink: /research/
+permalink: /research
 ---
 
 # Research
