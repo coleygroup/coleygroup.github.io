@@ -6,7 +6,7 @@ This is the repo for the website of the Coley Research group at MIT. It is modif
 
 All Coley Group members are free to make changes and additions to the website (such as adding/removing themselves to/from the "People" page) through this repo, pending approval. The existing templating combined with the following guide should hopefully make this process as painless as possible. Stylistic or template change suggestions are also welcome but may require navigating some messy templates or CSS.
 
-Before you do anything, fork this repo and clone the forked repo to your local machine:
+Before you do anything, make sure you have [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed on your machine. Then, **(1)** fork this repo and **(2)** clone the forked repo to your local machine with the command:
 ```bash
 $ git clone https://github.com/{your_username}/coley.mit.edu.git
 ```
@@ -22,11 +22,17 @@ $ jekyll serve
 
 ### Making changes and pull requests
 
-Create and checkout a new branch with the command
+First, working in your forked repo, create and checkout a new branch (give it a descriptive name) with the command
 ```bash
 $ git checkout -b BRANCH_NAME
 ```
-After you make and push your changes to the branch, perform a pull request so that your changes can be reviewed and merged into the main repo. This can be done easily through the Github UI on the browser.
+After you make your changes, commit and push your changes to the branch:
+```bash
+$ git add .
+$ git commit -m "COMMIT MESSAGE"
+$ git push --set-upstream origin BRANCH_NAME
+```
+Finally, perform a pull request so that your changes can be reviewed and merged into the main repo. This can be done easily through the Github UI on the browser from your fork repo page.
 
 ### Adding you or someone else to the "People" page
 
@@ -40,17 +46,8 @@ Adding yourself to the People page is very simple!
 
 That's it! Go ahead and make a pull request when you are satisfied.
 
-### Other changes
-
-The following have been set up to be similarly easy to add new content to. Hopefully it should be simple to extrapolate the editing of `.yml` files to the following, but ask Kevin or Kento if you need help.
-- News (`_data/news.yml`)
-- Group photos (`_data/photos.yml`, images go in `images/grouppic/`)
-- Publications (`_data/publications.yml`)
-- Open source software (`_data/software.yml`, logos go in `images/logopic`)
-- Research relevant to Connor's directions on the "Research" page (`_data/research.yml`)
-- WIP: The carousel highlighting recent work still needs to be refactored to be easily editable with `.yml` files. For now, they are manually declared in `_includes/carousel.html` with pictures in `image/carouselpic`)
-
 ### Adding publications
+
 Some instructions for adding publications and a template are at the top of the (`_data/publications.yml`) file for your convenience. The main format for a citation is as follows:
 - Author list. Linked Title. *Journal*. Volume(Issue), Pages. (Year) DOI/preprint: DOI/preprint_ID.
 
@@ -76,3 +73,12 @@ Note: There are slight nuances with respect to the `doi` and `preprint` fields s
 - For conference papers
     - Do NOT include `doi` OR `preprint` fields.
     - DO include `url`, `preprint_url`, `preprint_site`, `preprint_year`.
+
+### Other changes
+
+The following have been set up to be similarly easy to add new content to. Hopefully it should be simple to extrapolate the editing of `.yml` files to the following, but ask Kevin or Kento if you need help.
+- News (`_data/news.yml`)
+- Group photos (`_data/photos.yml`, images go in `images/grouppic/`)
+- Open source software (`_data/software.yml`, logos go in `images/logopic`)
+- Research relevant to Connor's directions on the "Research" page (`_data/research.yml`)
+- WIP: The carousel highlighting recent work still needs to be refactored to be easily editable with `.yml` files. For now, they are manually declared in `_includes/carousel.html` with pictures in `image/carouselpic`)
