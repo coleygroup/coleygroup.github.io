@@ -31,39 +31,86 @@ permalink: /publications
       padding: 0.18em 0.6em;
       font-size: 13px;
   }
+  .filter-button {
+      margin-right: 5px;
+      cursor: pointer;
+  }
 </style>
 
 <!-- START OF PAGE -->
 # Publications
 
 (Last updated July 13, 2024. See [Google Scholar](https://scholar.google.com/citations?hl=en&user=l015S80AAAAJ&view_op=list_works&sortby=pubdate) for most up-to-date publications)
-<!-- Display all possible research themes as pills -->
+
+<!-- Display all possible research themes as filter buttons -->
 <p>
   {% assign themes = site.data.research_themes %}
-  **Research Themes:**
-  {% for theme in themes %} <span class="badge badge-pill badge-pill-custom" style="background-color: {{ theme.color }}">{{ theme.name }}</span> {% endfor %}
+  **Research Themes:** (select to filter)
+  {% for theme in themes %}<span class="badge badge-pill badge-pill-custom filter-button" data-theme="{{ theme.name }}" data-color="{{ theme.color }}" data-darker-color="{{ theme.darker_color }}" style="background-color: {{ theme.color }}">{{ theme.name }}</span>
+  {% endfor %}
 </p>
 
 ---
 
-
-{% assign themes = site.data.research_themes %}
 <!-- Display all publications -->
+{% assign themes = site.data.research_themes %}
 {% for pub in site.data.publications %}
 <!-- Citations -->
-<p class="hanging-indent">
-  {{ pub.authors }}.
-  {% if pub.url %} [{{ pub.title }}]({{ pub.url }}). {% else %} {{pub.title}}. {% endif %}*{{ pub.journal }}*{% if pub.volume %} {{ pub.volume }}{% if pub.issue %}({{ pub.issue }}){% endif %},{% endif %}{% if pub.pages %} {{ pub.pages }}{% endif %}. ({{ pub.year }})
-  {% if pub.doi %} DOI: {{ pub.doi }} {% elsif pub.preprint %} *preprint: {{ pub.preprint }}*{% endif %}
-</p>
-<!-- Buttons and tags -->
-{% if pub.preprint_url or pub.themes %}
-<p style="margin-left: 20px; margin-top: -11px">
-<!-- <a href="{{ pub.url }}" class="btn btn-xs btn-primary mt-1">Paper</a>  -->
-{% if pub.preprint_url %}<a href="{{ pub.preprint_url }}" class="btn btn-xs btn-primary">Preprint</a>{% endif %}
-{% if pub.themes %}{% for theme in pub.themes %}{% assign theme_data = themes | where: "name", theme | first %}{% if theme_data %}
-  <span class="badge badge-pill badge-pill-custom" style="background-color: {{ theme_data.color }}">{{ theme }}</span>{% endif %}{% endfor %}
-{% endif %}
-</p>
-{% endif %}
+<div class="publication-item" data-themes="{{ pub.themes | join: ',' }}">
+  <p class="hanging-indent">
+    {{ pub.authors }}.
+    {% if pub.url %} [{{ pub.title }}]({{ pub.url }}). {% else %} {{pub.title}}. {% endif %}*{{ pub.journal }}*{% if pub.volume %} {{ pub.volume }}{% if pub.issue %}({{ pub.issue }}){% endif %},{% endif %}{% if pub.pages %} {{ pub.pages }}{% endif %}. ({{ pub.year }})
+    {% if pub.doi %} DOI: {{ pub.doi }} {% elsif pub.preprint %} *preprint: {{ pub.preprint }}*{% endif %}
+  </p>
+  <!-- Buttons and tags -->
+  {% if pub.preprint_url or pub.themes %}
+  <p style="margin-left: 20px; margin-top: -11px">
+    {% if pub.preprint_url %}<a href="{{ pub.preprint_url }}" class="btn btn-xs btn-primary">Preprint</a>{% endif %}{% if pub.themes %}{% for theme in pub.themes %}{% assign theme_data = themes | where: "name", theme | first %}{% if theme_data %} <span class="badge badge-pill badge-pill-custom" style="background-color: {{ theme_data.color }}">{{ theme }}</span>{% endif %}{% endfor %}
+    {% endif %}
+  </p>
+  {% endif %}
+</div>
 {% endfor %}
+
+<!-- JavaScript for filtering publications -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const filterButtons = document.querySelectorAll('.filter-button');
+    const publicationItems = document.querySelectorAll('.publication-item');
+
+    filterButtons.forEach(button => {
+      const originalColor = button.getAttribute('data-color');
+      const darkerColor = button.getAttribute('data-darker-color');
+
+      // Log the colors to the console to verify correct retrieval
+      console.log('Original Color:', originalColor);
+      console.log('Darker Color:', darkerColor);
+
+      button.addEventListener('click', function() {
+        this.classList.toggle('active');
+        if (this.classList.contains('active')) {
+          this.style.backgroundColor = darkerColor;
+        } else {
+          this.style.backgroundColor = originalColor;
+        }
+        filterPublications();
+      });
+    });
+
+    function filterPublications() {
+      const activeThemes = Array.from(filterButtons)
+                                .filter(btn => btn.classList.contains('active'))
+                                .map(btn => btn.getAttribute('data-theme'));
+
+      publicationItems.forEach(item => {
+        const itemThemes = item.getAttribute('data-themes').split(',');
+
+        if (activeThemes.length === 0 || activeThemes.some(theme => itemThemes.includes(theme))) {
+          item.style.display = 'block';
+        } else {
+          item.style.display = 'none';
+        }
+      });
+    }
+  });
+</script>
