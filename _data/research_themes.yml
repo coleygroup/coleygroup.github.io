@@ -1,12 +1,18 @@
 - name: molecular representation
   color: "#77c8ad"
+  darker_color: "#447062"
 - name: design and optimization
   color: "#f4667e"
+  darker_color: "#913c4a"
 - name: predictive chemistry
   color: "#f79b5c"
+  darker_color: "#965e38"
 - name: metabolomics
   color: "#b8a0ff"
+  darker_color: "#665791"
 - name: automation
   color: "#4eb7c1"
+  darker_color: "#25575c"
 - name: data
   color: "#6c757d"
+  darker_color: "#25282b"
