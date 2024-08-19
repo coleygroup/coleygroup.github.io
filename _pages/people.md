@@ -3,7 +3,7 @@ title: "Coley Research Group - People"
 layout: gridlay
 excerpt: "Coley Research Group: People"
 sitemap: false
-permalink: /people/
+permalink: /people
 ---
 
 # People
