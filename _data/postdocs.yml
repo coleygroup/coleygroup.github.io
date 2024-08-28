@@ -12,6 +12,13 @@
   linkedin: https://www.linkedin.com/in/joonyoung-francis-joung-66528b236/
   description: Joonyoung received his Ph.D. degree in Physical Chemistry from Korea University in 2020. Then he stayed in the group as a Research Professor and Postdoctoral Associate before joining Coley group in September 2022. He is interested in developing machine learning methods to find the best process in process chemistry.
 
+- name: Jordan Liles
+  photo: Jordan_Liles.png
+  info: Postdoctoral Associate
+  email: jliles24@mit.edu
+  linkedin: https://www.linkedin.com/in/jordan-liles-934879126/
+  description: Jordan completed his Ph.D. in Organic Chemistry in 2024 with Matthew Sigman at the University of Utah. Shortly after, he joined the Coley group to pursue machine learning-enabled approaches to catalyst design and automation-assisted reaction optimization. He is interested in developing ML tools rooted in physical organic chemistry principles to drive new reaction discovery and develop new asymmetric methods.
+
 - name: Qianxiang Ai
   photo: Qianxiang_Ai.png
   info: Research Scientist
