@@ -12,7 +12,7 @@ permalink: /people
 {% for photo in site.data.photos %}
 <div class="col-sm-12 clearfix" style="text-align: center; ">
 <div style="display: flex; justify-content: center;">
-<img class="group-pic" src="{{ site.url }}{{ site.baseurl }}/images/grouppic/{{ photo.name }}"/>
+<img class="group-pic" src="{{ site.url }}{{ site.baseurl }}/images/grouppic/{{ photo.name }}" alt="Group photo"/>
 </div>
 <i>{{ photo.description }}</i>
 </div>
@@ -27,7 +27,7 @@ permalink: /people
 <div class="col-sm-12 clearfix" style="text-align: center; ">
 <div style="text-align: center;">
 <div class="image-cropper">
-<img class="person-pic" src="{{ site.url }}{{ site.baseurl }}/images/teampic/Connor_Coley.jpg"/>
+<img class="person-pic" src="{{ site.url }}{{ site.baseurl }}/images/teampic/Connor_Coley.jpg" alt="Connor W. Coley photo"/>
 </div>
 <h4><b>Connor W. Coley</b></h4>
 <i>Associate Professor (Without Tenure) <br>
@@ -49,7 +49,7 @@ Department of Electrical Engineering and Computer Science <br></i>
 <div class="col-sm-4 clearfix" style="text-align: center; ">
 <div style="display: flex; justify-content: center;">
 <div class="image-cropper">
-<img class="person-pic" src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"/>
+<img class="person-pic" src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" alt="{{ member.name }} photo"/>
 </div>
 </div>
 <h4><b>{{ member.name }}</b></h4>
@@ -74,7 +74,7 @@ Department of Electrical Engineering and Computer Science <br></i>
 <div class="col-sm-4 clearfix" style="text-align: center; ">
 <div style="display: flex; justify-content: center;">
 <div class="image-cropper">
-<img class="person-pic" src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}"/>
+<img class="person-pic" src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" alt="{{ member.name }} photo"/>
 </div>
 </div>
 <h4><b>{{ member.name }}</b></h4>
