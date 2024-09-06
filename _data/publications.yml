@@ -115,9 +115,9 @@
 
 - title: "Extracting structured data from organic synthesis procedures using a fine-tuned large language model"
   authors: Ai, Q., Meng, F., Shi, J., Pelkie, B., Coley, C.W.
-  journal: chemrxiv
+  journal: Digital Discov.
   year: 2024
-  url: https://doi.org/10.26434/chemrxiv-2024-979fz
+  url: https://doi.org/10.1039/D4DD00091A
   preprint: 10.26434/chemrxiv-2024-979fz
   preprint_url: https://doi.org/10.26434/chemrxiv-2024-979fz
   preprint_site: chemrxiv
@@ -127,9 +127,9 @@
 
 - title: "OpenChemIE: An information extraction toolkit for chemistry literature"
   authors: Fan, V., Qian, Y., Wang, A., Wang, A., Coley, C.W., Barzilay, R.
-  journal: arxiv
+  journal: J. Chem. Inf. Model.
   year: 2024
-  url: https://doi.org/10.48550/arXiv.2404.01462
+  url: https://doi.org/10.1021/acs.jcim.4c00572
   preprint: arXiv:2404.01462
   preprint_url: https://doi.org/10.48550/arXiv.2404.01462
   preprint_site: arxiv
@@ -585,9 +585,9 @@
 
 - title: "Prefix-tree decoding for predicting mass spectra from molecules"
   authors: Goldman, S., Bradshaw, J., Xin, J., Coley, C.W.
-  journal: arXiv
-  year: 2023
-  url: https://arxiv.org/abs/2303.06470
+  journal: NeurIPS
+  year: 2024
+  url: https://openreview.net/forum?id=NWEbeI2HNQ
   preprint: arXiv:2303.06470
   preprint_url: https://arxiv.org/abs/2303.06470
   preprint_site: arxiv
