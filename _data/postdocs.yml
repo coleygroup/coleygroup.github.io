@@ -5,6 +5,13 @@
   linkedin: https://www.linkedin.com/in/babak-mahjour-288923b0/
   description: Babak completed his PhD in medicinal chemistry with Prof. Tim Cernak at the University of Michigan in 2023. He joined the Coley group soon after to continue studying chemical synthesis and lab automation, with an eye towards AI-driven translational research.
 
+- name: Itai Levin
+  photo: Itai_Levin.jpg
+  info: Postdoctoral Associate
+  email: itail@mit.edu
+  twitter: https://twitter.com/itai_levin
+  description: Itai received his B.A. in Chemistry and Chemical Biology from Cornell and his PhD at MIT in Biological Engineering, co-advised with Chris Voigt. He is interested in improving computer-aided synthesis planning for pathways that involve enzymatic catalysis.
+
 - name: Joonyoung Joung
   photo: Joonyoung_Joung.jpeg
   info: Postdoctoral Associate
@@ -18,14 +25,6 @@
   email: jliles24@mit.edu
   linkedin: https://www.linkedin.com/in/jordan-liles-934879126/
   description: Jordan completed his Ph.D. in Organic Chemistry in 2024 with Matthew Sigman at the University of Utah. Shortly after, he joined the Coley group to pursue machine learning-enabled approaches to catalyst design and automation-assisted reaction optimization. He is interested in developing ML tools rooted in physical organic chemistry principles to drive new reaction discovery and develop new asymmetric methods.
-
-- name: Qianxiang Ai
-  photo: Qianxiang_Ai.png
-  info: Research Scientist
-  email: qai@mit.edu
-  twitter: https://twitter.com/qaialex
-  linkedin: https://www.linkedin.com/in/qianxiang-ai/
-  description: Qianxiang completed his PhD in chemistry in 2020 with Chad Risko at the University of Kentucky. He then worked with Joshua Schrier as a postdoc at Fordham University before joining the Coley group in Jan, 2023. He is interested in data infrastructures related to experiment planning and automation.
 
 - name: Runzhong Wang
   photo: Runzhong_Wang.jpeg
