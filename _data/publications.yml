@@ -31,8 +31,30 @@
 #     - metabolomics
 #     - data
 
-- title: "Double-Ended Synthesis Planning with Goal-Constrained Bidirectional Search"
-  authors: Kevin Yu, Jihye Roh, Ziang Li, Wenhao Gao, Runzhong Wang, Connor W. Coley
+- title: "Ideation and evaluation of novel multicomponent reactions via mechanistic network analysis and automation"
+  authors: Mahjour, B.A., Lu, J., Fromer, J.C., Casetti, N., Coley, C.W.
+  journal: chemrxiv
+  year: 2024
+  url: https://doi.org/10.26434/chemrxiv-2024-qfjh9-v2
+  preprint: 10.26434/chemrxiv-2024-qfjh9-v2
+  preprint_url: https://doi.org/10.26434/chemrxiv-2024-qfjh9-v2
+  preprint_year: 2024
+  preprint_site: chemrxiv
+  themes:
+    - predictive chemistry
+    - automation
+
+- title: "Empowering natural product science with AI: leveraging multimodal data and knowledge graphs"
+  authors: Meijer, D., Beniddir, M.A., Coley, C.W., Mejri, Y.M., Ozturk, M., van der Hooft, J.J.J., Medema, M.H., Skiredj, A.
+  journal: Nat. Prod. Rep.
+  year: 2024
+  url: https://doi.org/10.1039/D4NP00008K
+  doi: 10.1039/D4NP00008K
+  themes:
+    - data
+
+- title: "Double-ended synthesis planning with goal-constrained bidirectional search"
+  authors: Yu, K., Roh, J., Li, Z., Gao, W., Wang, R., Coley, C.W.
   journal: arXiv
   year: 2024
   url: https://doi.org/10.48550/arXiv.2407.06334
@@ -42,35 +64,6 @@
   preprint_site: arxiv
   themes:
     - predictive chemistry
-
-- title: "Reproducing Reaction Mechanisms with Machine Learning Models Trained on a Large-Scale Mechanistic Dataset"
-  authors: Joonyoung F. Joung, Mun Hong Fong, Jihye Roh, Zhengkai Tu, John Bradshaw, Connor Wilson Coley
-  journal: Angew. Chem. Int. Ed.
-  pages: e202411296
-  year: 2024
-  url: https://doi.org/10.1002/anie.202411296
-  doi: 10.1002/anie.202411296
-  preprint: arXiv:2403.04580  
-  preprint_url: https://doi.org/10.48550/arXiv.2403.04580
-  preprint_year: 2024
-  preprint_site: arxiv
-  themes:
-    - predictive chemistry
-
-- title: "An algorithmic framework for synthetic cost-aware decision making in molecular design"
-  authors: Fromer, J.C., Coley, C.W.
-  journal: Nat. Comput. Sci.
-  volume: 4
-  pages: 440-450
-  year: 2024
-  url: https://doi.org/10.1038/s43588-024-00639-y
-  doi: 10.1038/s43588-024-00639-y
-  preprint:	arXiv:2311.02187
-  preprint_url: https://doi.org/10.48550/arXiv.2311.02187
-  preprint_year: 2023
-  preprint_site: arxiv
-  themes:
-    - design and optimization
 
 - title: "Projecting molecules into synthesizable chemical spaces"
   authors: Luo, S., Gao, W., Wu, Z., Peng, J. Coley, C.W., Ma, J.
@@ -119,7 +112,6 @@
   doi: 10.1038/s41570-024-00599-x
   themes:
     - automation
-
 
 - title: "Extracting structured data from organic synthesis procedures using a fine-tuned large language model"
   authors: Ai, Q., Meng, F., Shi, J., Pelkie, B., Coley, C.W.
@@ -170,6 +162,20 @@
   themes:
     - predictive chemistry
     - data
+
+- title: "Reproducing reaction mechanisms with machine learning models trained on a large-scale mechanistic dataset"
+  authors: Joung, J.F., Fong, M.H., Roh, J., Tu, Z., Bradshaw, J., Coley, C.W.
+  journal: Angew. Chem. Int. Ed.
+  pages: e202411296
+  year: 2024
+  url: https://doi.org/10.1002/anie.202411296
+  doi: 10.1002/anie.202411296
+  preprint: arXiv:2403.04580  
+  preprint_url: https://doi.org/10.48550/arXiv.2403.04580
+  preprint_year: 2024
+  preprint_site: arxiv
+  themes:
+    - predictive chemistry
 
 - title: "Substrate scope contrastive learning: Repurposing human bias to learn atomic representations"
   authors: Gao, W., Raghavan, P., Shprints, R., Coley, C.W.
@@ -292,6 +298,21 @@
   themes:
     - data
     - predictive chemistry
+
+- title: "An algorithmic framework for synthetic cost-aware decision making in molecular design"
+  authors: Fromer, J.C., Coley, C.W.
+  journal: Nat. Comput. Sci.
+  volume: 4
+  pages: 440-450
+  year: 2024
+  url: https://doi.org/10.1038/s43588-024-00639-y
+  doi: 10.1038/s43588-024-00639-y
+  preprint: arXiv:2311.02187
+  preprint_url: https://doi.org/10.48550/arXiv.2311.02187
+  preprint_year: 2023
+  preprint_site: arxiv
+  themes:
+    - design and optimization
 
 - title: "DNA-encoded library (DEL)-enabled discovery of proximity-inducing small molecules"
   authors: Mason, J. W., Hudson, L., Westphal, M. V., Tutter, A., Michaud, G., Shu, W., Ma, X., Coley, C. W., Clemons, P. A., Bonazzi, S., Berst, F., Zécri, F. J., Briner, K., Schreiber, S. L.
