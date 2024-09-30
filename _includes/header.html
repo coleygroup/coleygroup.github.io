@@ -14,12 +14,12 @@
 	</div>
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/people">People</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/research">Research</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/positions">Positions</a></li>
-		<li><a href="https://docs.google.com/document/d/1K10WS0Bey9AGr17bpiak-A1dhQrkv5BBsQrsrwQ-H2g/">Guide</a></li>
+		<li class="nav-item {% if page.permalink == '/' %}active {% endif %}"><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
+		<li class="nav-item {% if page.permalink == '/people' %}active {% endif %}"><a href="{{ site.url }}{{ site.baseurl }}/people">People</a></li>
+		<li class="nav-item {% if page.permalink == '/research' %}active {% endif %}"><a href="{{ site.url }}{{ site.baseurl }}/research">Research</a></li>
+		<li class="nav-item {% if page.permalink == '/publications' %}active {% endif %}"><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
+		<li class="nav-item {% if page.permalink == '/positions' %}active {% endif %}"><a href="{{ site.url }}{{ site.baseurl }}/positions">Positions</a></li>
+		<li class="nav-item"><a href="https://docs.google.com/document/d/1K10WS0Bey9AGr17bpiak-A1dhQrkv5BBsQrsrwQ-H2g/">Guide</a></li>
 	  </ul>
 	</div>
   </div>
