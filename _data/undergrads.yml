@@ -1,24 +1,36 @@
-- name: Ne Dassanayake
-  school: MIT
-- name: Ghazal Mirzazadeh
-  school: Georgia Tech
-- name: Giselle Brown
-  school: UCLA
-- name: Montgomery Bohde
-  school: Texas A&M
-- name: Jonathan Huang
-  school: MIT
+
 - name: Alexandra Volkova
-  school: MIT
-- name: Tony (Juncheng) Lu
-  school: Carnegie Mellon
+  photo: placeholder.png
+  info: UROP @ MIT
+  email: 
+  description:
+
+- name: Jonathan Huang
+  photo: placeholder.png
+  info: UROP @ MIT
+  email: 
+  description:
+
+- name: Montgomery Bohde
+  photo: placeholder.png
+  info: UROP @ Texas A&M
+  email: 
+  description:
+
+- name: Ne Dassanayake
+  photo: placeholder.png
+  info: UROP @ MIT
+  email: 
+  description:
+
+- name: Nicolas Manno
+  photo: placeholder.png
+  info: UROP @ MIT
+  email: 
+  description:
+
 - name: Ray Wang
-  school: MIT
-- name: Ron Shprints
-  school: MIT
-- name: Vlad Cherdantsev
-  school: MIT
-- name: Collin Lung
-  school: MIT
-- name: Alec Zhu
-  school: MIT
+  photo: placeholder.png
+  info: UROP @ MIT
+  email: 
+  description:
