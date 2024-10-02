@@ -44,6 +44,19 @@
     - predictive chemistry
     - automation
 
+- title: Syntax-Guided Procedural Synthesis of Molecules
+  authors: Sun, M., Lo, A., Gao, W., Guo, M., Thost, V., Chen, J., Coley, C.W., Matusik, W.
+  journal: arXiv
+  year: 2024
+  url: https://arxiv.org/abs/2409.05873
+  preprint: arXiv:2409.05873
+  preprint_url: https://arxiv.org/abs/2409.05873
+  preprint_year: 2024
+  preprint_site: arxiv
+  themes:
+    - predictive chemistry
+    - design and optimization
+
 - title: "Empowering natural product science with AI: leveraging multimodal data and knowledge graphs"
   authors: Meijer, D., Beniddir, M.A., Coley, C.W., Mejri, Y.M., Ozturk, M., van der Hooft, J.J.J., Medema, M.H., Skiredj, A.
   journal: Nat. Prod. Rep.
@@ -118,6 +131,7 @@
   journal: Digital Discov.
   year: 2024
   url: https://doi.org/10.1039/D4DD00091A
+  doi: 10.1039/D4DD00091A
   preprint: 10.26434/chemrxiv-2024-979fz
   preprint_url: https://doi.org/10.26434/chemrxiv-2024-979fz
   preprint_site: chemrxiv
@@ -133,6 +147,7 @@
   issue: 14
   pages: 5521-5534
   url: https://doi.org/10.1021/acs.jcim.4c00572
+  doi: 10.1021/acs.jcim.4c00572
   preprint: arXiv:2404.01462
   preprint_url: https://doi.org/10.48550/arXiv.2404.01462
   preprint_site: arxiv

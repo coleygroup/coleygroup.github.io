@@ -40,7 +40,7 @@ permalink: /publications
 <!-- START OF PAGE -->
 # Publications
 
-(Last updated September 6, 2024. See [Google Scholar](https://scholar.google.com/citations?hl=en&user=l015S80AAAAJ&view_op=list_works&sortby=pubdate) for most up-to-date publications)
+(Last updated September 15, 2024. See [Google Scholar](https://scholar.google.com/citations?hl=en&user=l015S80AAAAJ&view_op=list_works&sortby=pubdate) for most up-to-date publications)
 
 <!-- Display all possible research themes as filter buttons -->
 <p>
