@@ -12,10 +12,11 @@
   description:
 
 - name: Montgomery Bohde
-  photo: placeholder.png
+  photo: Montgomery_Bohde.JPG
   info: UROP @ Texas A&M
-  email: 
-  description:
+  email: mbohde@tamu.edu
+  linkedin: https://www.linkedin.com/in/montgomery-bohde/
+  description: Montgomery is studying Computer Science and Applied Math at Texas A&M University (B.S. 2026), where he is advised by Prof. Shuiwang Ji. His research interest is in graph neural networks and genenerative models with applications in AI for Science.
 
 - name: Ne Dassanayake
   photo: placeholder.png
