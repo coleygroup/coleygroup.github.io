@@ -1,9 +1,18 @@
 - name: Sourabh Choure
-  link: https://www.linkedin.com/in/sjchoure/
-  focus: Front-End
+  photo: placeholder.png
+  info: Front-End Development
+  email: sjchoure@mit.edu
+  linkedin: https://www.linkedin.com/in/sjchoure/
+  description:
 - name: Mun Hong Fong
-  link: https://www.linkedin.com/in/mun-hong-fong-189a311a3/
-  focus: Back-End
+  photo: placeholder.png
+  info: Back-End Development
+  email: fong410@mit.edu
+  linkedin: https://www.linkedin.com/in/mun-hong-fong-189a311a3/
+  description:
 - name: Huiqian Lin
-  link: https://www.linkedin.com/in/huiqian-lin
-  focus: DevOps & Project Management
+  photo: placeholder.png
+  info: DevOps & Project Management
+  email: linhq@mit.edu
+  linkedin: https://www.linkedin.com/in/huiqian-lin
+  description:
