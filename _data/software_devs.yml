@@ -5,14 +5,14 @@
   linkedin: https://www.linkedin.com/in/sjchoure/
   description:
 - name: Mun Hong Fong
-  photo: placeholder.png
+  photo: Mun_Hong_Fong.jpg
   info: Back-End Development
   email: fong410@mit.edu
   linkedin: https://www.linkedin.com/in/mun-hong-fong-189a311a3/
-  description:
+  description: Mun Hong graduated from Purdue University with B.S. in Computer Science, minor in Chemistry. He is interested in generative modeling, synthesis planning, and reaction outcome prediction.
 - name: Huiqian Lin
-  photo: placeholder.png
+  photo: Huiqian_Lin.png
   info: DevOps & Project Management
   email: linhq@mit.edu
   linkedin: https://www.linkedin.com/in/huiqian-lin
-  description:
+  description: Huiqian Lin is an experienced full-stack engineer focusing on Kubernetes, Cloud DevOps and CICD pipeline. She is also an Agile project manager. 

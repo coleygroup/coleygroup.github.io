@@ -1,21 +1,23 @@
 
 - name: Alexandra Volkova
-  photo: placeholder.png
+  photo: Alexandra_Volkova.png
   info: UROP @ MIT
-  email: 
-  description:
+  email: alevol26@mit.edu
+  linkedin: https://www.linkedin.com/in/alexandra-volkova-mit/
+  description: Alexandra is a junior studying Computer Science and Molecular Biollogy (6-7) and Finance (15-3) at MIT. She is interested in advancing drug design through intelligent selection of drug candidates for synthesis.
 
 - name: Jonathan Huang
-  photo: placeholder.png
+  photo: Jonathan_Huang.jpg
   info: UROP @ MIT
-  email: 
-  description:
+  email: jhuang25@mit.edu
+  description: Jonathan is an senior in EECS (6-2) and Biology (7) at MIT. He is interested in applying optimization techniques to efficiently explore combinatorial synthesis drug libraries.
 
 - name: Montgomery Bohde
-  photo: placeholder.png
-  info: UROP @ Texas A&M
-  email: 
-  description:
+  photo: Montgomery_Bohde.JPG
+  info: MSRP @ Texas A&M
+  email: mbohde@tamu.edu
+  linkedin: https://www.linkedin.com/in/montgomery-bohde/
+  description: Montgomery is studying Computer Science and Applied Math at Texas A&M University (B.S. 2026), where he is advised by Prof. Shuiwang Ji. His research interest is in graph neural networks and genenerative models with applications in AI for Science.
 
 - name: Ne Dassanayake
   photo: placeholder.png
@@ -35,5 +37,3 @@
   email: rxwangtw@mit.edu
   linkedin: https://www.linkedin.com/in/rui-xi-wang-3006661b8/
   description: Ray is a senior in 6-3(Math) and 18(Mathematics) at MIT. He is interested in using combinatorial algorithm and machine learing to improve mass-spectrum prediction model.
-
-  
