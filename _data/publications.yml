@@ -31,13 +31,27 @@
 #     - metabolomics
 #     - data
 
+- title: "ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design"
+  authors: Adams, K., Abeywardane, K.A., Coley, C.W.
+  journal: TBD
+  year: 2024
+  url: https://coley.mit.edu/publications/2024/ShEPhERD.pdf
+  preprint: TBD
+  preprint_url: https://coley.mit.edu/publications/2024/ShEPhERD.pdf
+  preprint_year: 2024
+  preprint_site: TBD
+  themes:
+    - molecular representation
+    - design and optimization
+
+
 - title: "Ideation and evaluation of novel multicomponent reactions via mechanistic network analysis and automation"
   authors: Mahjour, B.A., Lu, J., Fromer, J.C., Casetti, N., Coley, C.W.
   journal: chemrxiv
   year: 2024
-  url: https://doi.org/10.26434/chemrxiv-2024-qfjh9-v2
+  url: https://doi.org/10.26434/chemrxiv-2024-qfjh9-v3
   preprint: 10.26434/chemrxiv-2024-qfjh9-v2
-  preprint_url: https://doi.org/10.26434/chemrxiv-2024-qfjh9-v2
+  preprint_url: https://doi.org/10.26434/chemrxiv-2024-qfjh9-v3
   preprint_year: 2024
   preprint_site: chemrxiv
   themes:
@@ -687,7 +701,7 @@
     - predictive chemistry
 
 - title: "Reaction profiles for quantum chemistry-computed [3+2] cycloaddition reactions"
-  authors: Stuyver, T., Jorner, Kjell, Coley, C.W.
+  authors: Stuyver, T., Jorner, K., Coley, C.W.
   journal: Sci. Data
   volume: 10
   pages: 66
