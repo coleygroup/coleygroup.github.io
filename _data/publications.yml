@@ -618,7 +618,7 @@
 - title: "Prefix-tree decoding for predicting mass spectra from molecules"
   authors: Goldman, S., Bradshaw, J., Xin, J., Coley, C.W.
   journal: NeurIPS
-  year: 2024
+  year: 2023
   url: https://openreview.net/forum?id=NWEbeI2HNQ
   preprint: arXiv:2303.06470
   preprint_url: https://arxiv.org/abs/2303.06470
