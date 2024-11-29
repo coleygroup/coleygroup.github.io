@@ -62,13 +62,6 @@
   linkedin: https://www.linkedin.com/in/kevin-yu-854b09174/
   description: Kevin received his BS in Chemistry and CS from Caltech in 2022 and is now an SM student at MIT in Computational Science and Engineering. He is broadly interested in developing predictive tools and algorithms that can benefit synthetic chemists, with a focus on synthesis planning for complex molecules.
 
-- name: Suong Tran
-  photo: Suong_Tran.jpeg
-  info: PhD Student
-  email: suongtr@mit.edu
-  linkedin: https://www.linkedin.com/in/suong-tran-6925a8195/
-  description: Suong earned her BS in Chemistry and Data Analytics from Dickinson College in 2024. She is currently pursuing a PhD in Chemistry at MIT, with a focus on applying machine learning and data-driven approaches to synthesis planning.
-
 - name: Magdalena Lederbauer
   photo: Magdalena_Lederbauer.jpeg
   info: Visiting Graduate Student
@@ -111,6 +104,13 @@
   twitter: https://twitter.com/luost26
   linkedin: https://www.linkedin.com/in/shitong-luo-920129157/
   description: Shitong received his B.S. in Data Science from Peking University. He is now a PhD student in Electrical Engineering and Computer Science (EECS) at MIT. He is interested in how to bridge the gap between machine learning and experiments.
+
+- name: Suong Tran
+  photo: Suong_Tran.jpeg
+  info: PhD Student
+  email: suongtr@mit.edu
+  linkedin: https://www.linkedin.com/in/suong-tran-6925a8195/
+  description: Suong earned her BS in Chemistry and Data Analytics from Dickinson College in 2024. She is currently pursuing a PhD in Chemistry at MIT, with a focus on applying machine learning and data-driven approaches to synthesis planning.
 
 - name: Wenhao Gao
   photo: Wenhao_Gao.jpeg
