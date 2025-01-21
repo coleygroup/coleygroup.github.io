@@ -43,3 +43,21 @@
   info: UROP @ MIT
   email: natelgrw@mit.edu
   description: Nathan is a freshman studying EECS (6-5) at MIT. He is interested in exploring concepts in chemical informatics and machine learning through projects in devices and instrument automation.
+
+  - name: Michael Dennison
+  photo: Michael_Dennison.png
+  info: UROP @ MIT
+  email: mddennis@mit.edu
+  description:  Bio: Michael is a sophomore studying EECS (6-2) at MIT. He is interested in using machine learning and LLMs to streamline the extraction of insights for scalable chemical synthesis.
+
+  - name: Parker McClain
+  photo: Parker_McClain.png
+  info: UROP @ MIT
+  email: pmcclain@mit.edu
+  description: Parker is a freshman studying Mechanical and Biomedical Engineering (2A-20) at MIT. He is interested in the intersection of Chemistry and artificial intelligence.
+
+  - name: Joy Zhuo
+  photo: Joy_Zhuo.png
+  info: UROP @ MIT
+  email: joyzhuo@mit.edu
+  description: Joy is a freshman studying artificial intelligence (6-4) and mathematics (18) at MIT. She is interested in exploring approaches to optimize lab automation for multicomponent reaction search.
