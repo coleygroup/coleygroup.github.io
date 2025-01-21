@@ -31,15 +31,75 @@
 #     - metabolomics
 #     - data
 
+- title: "Designing single polymer chain nanoparticles to mimic biomolecular hydration frustration"
+  authors: Jin, T., Alexander-Katz, A., Coley, C.W. 
+  journal: ChemRxiv
+  year: 2024
+  url: https://doi.org/10.26434/chemrxiv-2024-w0dxw
+  preprint: 10.26434/chemrxiv-2024-w0dxw
+  preprint_url: https://doi.org/10.26434/chemrxiv-2024-w0dxw
+  preprint_year: 2024
+  preprint_site: chemrxiv
+  themes:
+    - design and optimization
+
+- title: "Comment on 'Molecular hypergraph neural networks'"
+  authors: Casetti, N., Nevatia, P., Chen, J., Schwaller, P., Coley, C.W. 
+  journal: J. Chem. Phys.
+  year: 2024
+  url: https://doi.org/10.1063/5.0239722
+  doi: 10.1063/5.0239722
+  volume: 161
+  issue: 207101
+  themes:
+    - molecular representation
+
+- title: "Anomeric Selectivity of Glycosylations Through a Machine Learning Lens"
+  authors: Faurschou, N.V., Friis, V., Raghavan, P., Pedersen, C.M., Coley, C.W.
+  journal: ChemRxiv
+  year: 2024
+  url: https://chemrxiv.org/engage/chemrxiv/article-details/673390225a82cea2fae7c23e
+  preprint: 10.26434/chemrxiv-2024-jw9dx
+  preprint_url: https://chemrxiv.org/engage/chemrxiv/article-details/673390225a82cea2fae7c23e
+  preprint_year: 2024
+  preprint_site: chemrxiv
+  themes:
+    - predictive chemistry
+
+- title: "Schedule Optimization for Chemical Library Synthesis"
+  authors: Ai, Q., Meng, F., Wang, R., Klein, J.C., Godfrey, A.G., Coley, C.W.
+  journal: ChemRxiv
+  year: 2024
+  url: https://chemrxiv.org/engage/chemrxiv/article-details/675f8491f9980725cf306daf
+  preprint: 10.26434/chemrxiv-2024-0n73z-v2
+  preprint_url: https://chemrxiv.org/engage/chemrxiv/article-details/675f8491f9980725cf306daf
+  preprint_year: 2024
+  preprint_site: chemrxiv
+  themes:
+    - automation
+
+- title: "Autonomous discovery of functional random heteropolymer blends through evolutionary formulation optimization"
+  authors: Wu, G., Jin, T., Alexander-Katz, A., Coley, C.W.
+  journal: ChemRxiv
+  year: 2024
+  url: https://chemrxiv.org/engage/chemrxiv/article-details/671123ff51558a15ef59f01a
+  preprint: 10.26434/chemrxiv-2024-nh0xn
+  preprint_url: https://chemrxiv.org/engage/chemrxiv/article-details/671123ff51558a15ef59f01a
+  preprint_year: 2024
+  preprint_site: chemrxiv
+  themes:
+    - design and optimization
+    - automation
+
 - title: "ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design"
   authors: Adams, K., Abeywardane, K.A., Coley, C.W.
-  journal: TBD
+  journal: arXiv
   year: 2024
-  url: https://coley.mit.edu/publications/2024/ShEPhERD.pdf
-  preprint: TBD
-  preprint_url: https://coley.mit.edu/publications/2024/ShEPhERD.pdf
+  url: https://doi.org/10.48550/arXiv.2411.04130
+  preprint: arxiv:2411.04130
+  preprint_url: https://doi.org/10.48550/arXiv.2411.04130
   preprint_year: 2024
-  preprint_site: TBD
+  preprint_site: arxiv
   themes:
     - molecular representation
     - design and optimization
