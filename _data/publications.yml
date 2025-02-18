@@ -31,6 +31,79 @@
 #     - metabolomics
 #     - data
 
+- title: "DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra"
+  authors: Bohde, M., Manjrekar, M., Wang, R., Ji, S., Coley, C.W. 
+  journal: arXiv
+  year: 2025
+  url: https://arxiv.org/abs/2502.09571
+  preprint: arXiv:2502.09571
+  preprint_url: https://arxiv.org/abs/2502.09571
+  preprint_year: 2025
+  preprint_site: arxiv
+  themes:
+    - metabolomics
+
+- title: "Higher-level Strategies for Computer-Aided Retrosynthesis"
+  authors: Roh, J., Joung, J.F., Yu, K., Tu, Z., Bartholomew, G.L., Santiago-Reyes, O.A., Fong, M.H., Sarpong, R., Reisman, S.E., Coley, C.W. 
+  journal: ChemRxiv
+  year: 2025
+  url: https://doi.org/10.26434/chemrxiv-2025-21zvt
+  preprint: 10.26434/chemrxiv-2025-21zvt
+  preprint_url: https://doi.org/10.26434/chemrxiv-2025-21zvt
+  preprint_year: 2025
+  preprint_site: chemrxiv
+  themes:
+    - predictive chemistry
+
+- title: "Identification of Antituberculars with Favorable Potency and Pharmacokinetics through Structure-Based and Ligand-Based Modeling"
+  authors: Warapande, V., Meng, F., Bozan, A. Graff, D.E., Fromer, J.C., Mughal, K., Mohideen, F.K., Shivangi, Paruchuri, S., Johnston, M.L., Sharma, P., Crea, T.R., Rudraraju, R.S., George, A., Folvar, C. Nelson, A.M., Neiditch, M.B., Zimmerman, M.D., Coley, C.W., Freundlich, J.S.
+  journal: bioRxiv
+  year: 2025
+  url: https://doi.org/10.1101/2025.02.03.636334
+  preprint: doi.org/10.1101/2025.02.03.636334
+  preprint_url: https://doi.org/10.1101/2025.02.03.636334
+  preprint_year: 2025
+  preprint_site: biorxiv
+  themes:
+    - design and optimization
+
+- title: "Sequence-Sensitivity in Functional Synthetic Polymer Properties"
+  authors: Jin, T., Coley, C.W., Alexander-Katz, A.
+  journal: Angew. Chem. Int. Ed.
+  year: 2025
+  url: https://doi.org/10.1002/anie.202415047
+  doi: 10.1002/anie.202415047
+  volume: 64
+  issue: e202415047
+  themes:
+    - molecular representation
+    - design and optimization
+
+- title: "Challenging reaction prediction models to generalize to novel chemistry"
+  authors: Bradshaw, J., Zhang, A., Mahjour, B., Graff, D.E., Segler, M.H.S., Coley, C.W.
+  journal: arXiv
+  year: 2025
+  url: https://arxiv.org/abs/2501.06669
+  preprint: arXiv:2501.06669v1
+  preprint_url: https://arxiv.org/abs/2501.06669
+  preprint_year: 2025
+  preprint_site: arxiv
+  themes:
+    - predictive chemistry
+
+- title: "ASKCOS: an open source software suite for synthesis planning"
+  authors: Tu, Z., Choure, S.J., Fong, M.H., Roh, J., Levin, I., Yu, K., Joung, J.F., Morgan, N., Li, S., Sun, X., Lin, H., Murnin, M., Liles, J.P., Struble, T.J., Fortunato, M.E., Liu, M., Green, W.H., Jensen, K.F., Coley, C.W.
+  journal: arXiv
+  year: 2025
+  url: https://arxiv.org/abs/2501.01835
+  preprint: arXiv:2501.01835v1
+  preprint_url: https://arxiv.org/abs/2501.01835
+  preprint_year: 2025
+  preprint_site: arxiv
+  themes:
+    - automation
+    - predictive chemistry
+
 - title: "Designing single polymer chain nanoparticles to mimic biomolecular hydration frustration"
   authors: Jin, T., Alexander-Katz, A., Coley, C.W. 
   journal: ChemRxiv
@@ -68,15 +141,30 @@
 
 - title: "Schedule Optimization for Chemical Library Synthesis"
   authors: Ai, Q., Meng, F., Wang, R., Klein, J.C., Godfrey, A.G., Coley, C.W.
-  journal: ChemRxiv
+  journal: Digital Discovery
   year: 2024
-  url: https://chemrxiv.org/engage/chemrxiv/article-details/675f8491f9980725cf306daf
+  url: https://doi.org/10.1039/D4DD00327F
+  doi: 10.1039/D4DD00327F
   preprint: 10.26434/chemrxiv-2024-0n73z-v2
   preprint_url: https://chemrxiv.org/engage/chemrxiv/article-details/675f8491f9980725cf306daf
   preprint_year: 2024
   preprint_site: chemrxiv
   themes:
     - automation
+
+- title: "Rapid prediction of conformationally-dependent DFT-level descriptors using graph neural networks for carboxylic acids and alkyl amines"
+  authors: Haas, B., Hardy, M., Sowndarya, S., Adams, K., Coley, C.W., Paton, R., Sigman, M.
+  journal: Digital Discovery
+  year: 2024
+  url: https://doi.org/10.1039/D4DD00284A
+  doi: 10.1039/D4DD00284A
+  preprint: 10.26434/chemrxiv-2024-m5bpn
+  preprint_url: https://doi.org/10.26434/chemrxiv-2024-m5bpn
+  preprint_site: chemrxiv
+  preprint_year: 2024
+  themes:
+    - molecular representation
+    - predictive chemistry
 
 - title: "Autonomous discovery of functional random heteropolymer blends through evolutionary formulation optimization"
   authors: Wu, G., Jin, T., Alexander-Katz, A., Coley, C.W.
@@ -304,19 +392,6 @@
   preprint_year: 2024
   themes:
     - molecular representation
-
-- title: "Rapid prediction of conformationally-dependent DFT-level descriptors using graph neural networks for carboxylic acids and alkyl amines"
-  authors: Haas, B., Hardy, M., Sowndarya, S., Adams, K., Coley, C.W., Paton, R., Sigman, M.
-  journal: chemrxiv
-  year: 2024
-  url: https://doi.org/10.26434/chemrxiv-2024-m5bpn
-  preprint: 10.26434/chemrxiv-2024-m5bpn
-  preprint_url: https://doi.org/10.26434/chemrxiv-2024-m5bpn
-  preprint_site: chemrxiv
-  preprint_year: 2024
-  themes:
-    - molecular representation
-    - predictive chemistry
 
 - title: "Effective protein-protein interaction exploration with PPIretrieval"
   authors: Hua, C., Coley, C.W., Wolf, G., Precup, D., Zheng, S.
