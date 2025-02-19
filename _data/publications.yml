@@ -31,6 +31,18 @@
 #     - metabolomics
 #     - data
 
+- title: "Electron flow matching for generative reaction mechanism prediction obeying conservation laws"
+  authors: Joung, J.F., Fong, M.H., Casetti, N., Liles, J.P., Dassanayake, N.S., Coley, C.W. 
+  journal: arXiv
+  year: 2025
+  url: https://arxiv.org/abs/2502.12979
+  preprint: arXiv:2502.12979
+  preprint_url: https://arxiv.org/abs/2502.12979
+  preprint_year: 2025
+  preprint_site: arxiv
+  themes:
+    - predictive chemistry
+
 - title: "DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra"
   authors: Bohde, M., Manjrekar, M., Wang, R., Ji, S., Coley, C.W. 
   journal: arXiv
