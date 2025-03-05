@@ -4,7 +4,7 @@
   info: UROP @ MIT
   email: alevol26@mit.edu
   linkedin: https://www.linkedin.com/in/alexandra-volkova-mit/
-  description: Alexandra is a junior studying Computer Science and Molecular Biollogy (6-7) and Finance (15-3) at MIT. She is interested in advancing drug design through intelligent selection of drug candidates for synthesis.
+  description: Alexandra is a junior studying Computer Science and Molecular Biology (6-7) and Finance (15-3) at MIT. She is interested in advancing drug design through intelligent selection of drug candidates for synthesis.
 
 - name: Jonathan Huang
   photo: Jonathan_Huang.jpg
@@ -12,12 +12,30 @@
   email: jhuang25@mit.edu
   description: Jonathan is an senior in EECS (6-2) and Biology (7) at MIT. He is interested in applying optimization techniques to efficiently explore combinatorial synthesis drug libraries.
 
+- name: Joy Zhuo
+  photo: Joy_Zhuo.jpg
+  info: UROP @ MIT
+  email: joyzhuo@mit.edu
+  description: Joy is a freshman studying artificial intelligence (6-4) and mathematics (18) at MIT. She is interested in exploring approaches to optimize lab automation for multicomponent reaction search. 
+
+- name: Michael Dennison
+  photo: Michael_Dennison.jpg
+  info: UROP @ MIT
+  email: mddennis@mit.edu
+  description: Michael is a sophomore studying EECS (6-2) at MIT. He is interested in using machine learning and LLMs to streamline the extraction of insights for scalable chemical synthesis.
+
 - name: Montgomery Bohde
   photo: Montgomery_Bohde.JPG
   info: MSRP @ Texas A&M
   email: mbohde@tamu.edu
   linkedin: https://www.linkedin.com/in/montgomery-bohde/
   description: Montgomery is studying Computer Science and Applied Math at Texas A&M University (B.S. 2026), where he is advised by Prof. Shuiwang Ji. His research interest is in graph neural networks and genenerative models with applications in AI for Science.
+
+- name: Nathan Leung
+  photo: Nathan_Leung.png
+  info: UROP @ MIT
+  email: natelgrw@mit.edu
+  description: Nathan is a freshman studying EECS (6-5) at MIT. He is interested in exploring concepts in chemical informatics and machine learning through projects in devices and instrument automation.
 
 - name: Ne Dassanayake
   photo: placeholder.png
@@ -31,9 +49,15 @@
   email: 
   description:
 
+- name: Parker McClain
+  photo: Parker_McClain.png
+  info: UROP @ MIT
+  email: pmcclain@mit.edu
+  description: Parker is a freshman studying Mechanical and Biomedical Engineering (2A-20) at MIT. He is interested in the intersection of Chemistry and artificial intelligence.
+
 - name: Ray Wang
   photo: Ray_Wang.JPG
   info: UROP @ MIT
   email: rxwangtw@mit.edu
   linkedin: https://www.linkedin.com/in/rui-xi-wang-3006661b8/
-  description: Ray is a senior in 6-3(Math) and 18(Mathematics) at MIT. He is interested in using combinatorial algorithm and machine learing to improve mass-spectrum prediction model.
+  description: Ray is a senior in 6-3 (Math) and 18 (Mathematics) at MIT. He is interested in using combinatorial algorithms and machine learning to improve mass-spectrum prediction models.

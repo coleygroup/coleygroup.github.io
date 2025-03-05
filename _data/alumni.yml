@@ -10,7 +10,7 @@
 
 - name: Itai Levin
   link: https://www.linkedin.com/in/itai-levin-03488b105/
-  previous: PhD 2024, MIT
+  previous: PhD 2024, MIT BE
   current: Co-Founder @ Decycle Bio
 
 - name: Qianxiang Ai
@@ -20,7 +20,7 @@
 
 - name: Samuel Goldman
   link: https://www.linkedin.com/in/samuel-goldman-918697105/
-  previous: PhD 2024, MIT
+  previous: PhD 2024, MIT CSB
   current: Associate @ MPM BioImpact
 
 - name: Guangqi Wu
@@ -45,7 +45,7 @@
 
 - name: David Graff
   link: https://www.linkedin.com/in/davidegraff/
-  previous: PhD 2023, MIT
+  previous: PhD 2023, Harvard CCB
   current: ML Scientist @ Atomwise
 
 - name: Christian Ulmer
@@ -82,3 +82,8 @@
   link: https://www.linkedin.com/in/aparajitadasgupta
   previous: Postdoctoral Associate
   current: Senior Scientist, Process Development @ Pfizer
+
+- name: Juncheng Lu
+  link: https://www.linkedin.com/in/juncheng-lu-248660277
+  previous: C-CAS Visiting Scholar @ MIT
+  current: Senior @ CMU

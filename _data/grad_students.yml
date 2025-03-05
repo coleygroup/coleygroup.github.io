@@ -29,7 +29,7 @@
   description: Jenna received her BS in Chemical Engineering from Tufts University in May 2021 and is now a PhD student at MIT in Chemical Engineering. She is interested in utilizing multi-objective optimization with synthetic cost considerations to accelerate molecular discovery.
 
 - name: Jihye Roh
-  photo: Jihye_Roh.jpeg
+  photo: Jihye_Roh.jpg
   info: PhD Student
   email: jroh99@mit.edu
   linkedin: http://www.linkedin.com/in/jihye-roh-77219a24a
@@ -62,6 +62,13 @@
   linkedin: https://www.linkedin.com/in/magdalena-lederbauer/
   twitter: https://twitter.com/maglederb
   description: Magdalena received her BSc in Chemistry from ETH Zurich and is finishing her MSc in Chemistry at ETH Zurich. She previously worked on Large Language Model agents in heterogeneous catalysis at EPFL and is currently interested in using machine learning for structure elucidation and spectroscopy.
+
+- name: Matthew Cox
+  photo: Matthew_Cox.jpeg
+  info: PhD Student
+  email: mcox340@mit.edu
+  linkedin: https://www.linkedin.com/in/mcox6782/
+  description: Matthew obtained his BS in Chemical Engineering from Caltech in 2024 and is now a PhD student in Chemical Engineering at MIT. He is interested in developing optimization and machine learning methods in the context of molecular design and discovery.
 
 - name: Mingrou Xie
   photo: Mingrou_Xie.jpeg
@@ -98,6 +105,13 @@
   linkedin: https://www.linkedin.com/in/shitong-luo-920129157/
   description: Shitong received his B.S. in Data Science from Peking University. He is now a PhD student in Electrical Engineering and Computer Science (EECS) at MIT. He is interested in how to bridge the gap between machine learning and experiments.
 
+- name: Suong Tran
+  photo: Suong_Tran.jpeg
+  info: PhD Student
+  email: suongtr@mit.edu
+  linkedin: https://www.linkedin.com/in/suong-tran-6925a8195/
+  description: Suong earned her BS in Chemistry and Data Analytics from Dickinson College in 2024. She is currently pursuing a PhD in Chemistry at MIT, with a focus on applying machine learning and data-driven approaches to synthesis planning.
+
 - name: Wenhao Gao
   photo: Wenhao_Gao.jpeg
   info: PhD Student
@@ -112,6 +126,13 @@
   email: xiaoqis@mit.edu
   linkedin: https://www.linkedin.com/in/xiaoqisun29/
   description: Xiaoqi graduated from UC Berkeley with a B.A. in Data Science and a B.S. in Chemical Engineering in 2022. As a PhD student in Chemical Engineering at MIT, she is interested in exploring autonomous data-driven synthesis and applying machine learning to reaction prediction problems.
+
+- name: Zahmiria Johnson
+  photo: Zahmiria_Johnson.jpg
+  info: PhD Student
+  email: zahmiria@mit.edu
+  linkedin: https://www.linkedin.com/in/zahmiria/
+  description: Zahmiria graduated from UC Berkeley in 2024 with a B.S. in Chemical Engineering. As a PhD student at MIT in Chemical Engineering co-advised by Katie Galloway, they are interested in bio-applied automation and small molecule control of synthetic biology circuits.
 
 - name: Zhengkai Tu
   photo: Zhengkai_Tu.jpg
