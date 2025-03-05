@@ -31,6 +31,31 @@
 #     - metabolomics
 #     - data
 
+- title: "Neural Graph Matching Improves Retrieval Augmented Generation in Molecular Machine Learning"
+  authors: Wang, R., Wang, R.X., Manjrekar, M., Coley, C.W.
+  journal: arXiv
+  year: 2025
+  url: https://arxiv.org/abs/2502.17874
+  preprint: arXiv:2502.17874
+  preprint_url: https://arxiv.org/abs/2502.17874
+  preprint_year: 2025
+  preprint_site: arxiv
+  themes:
+    - metabolomics
+    - molecular representation
+
+- title: "The impact of conformer quality on learned representations of molecular conformer ensembles"
+  authors: Adams, K., Coley, C.W.
+  journal: arXiv
+  year: 2025
+  url: https://arxiv.org/abs/2502.13220
+  preprint: arXiv:2502.13220
+  preprint_url: https://arxiv.org/abs/2502.13220
+  preprint_year: 2025
+  preprint_site: arxiv
+  themes:
+    - molecular representation
+
 - title: "Electron flow matching for generative reaction mechanism prediction obeying conservation laws"
   authors: Joung, J.F., Fong, M.H., Casetti, N., Liles, J.P., Dassanayake, N.S., Coley, C.W. 
   journal: arXiv
@@ -192,7 +217,7 @@
     - automation
 
 - title: "ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design"
-  authors: Adams, K., Abeywardane, K.A., Coley, C.W.
+  authors: Adams, K., Abeywardane, K.A., Fromer, J., Coley, C.W.
   journal: arXiv
   year: 2024
   url: https://doi.org/10.48550/arXiv.2411.04130
