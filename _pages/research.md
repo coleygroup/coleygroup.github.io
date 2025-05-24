@@ -37,7 +37,7 @@ One of the most important questions one must answer when searching for a molecul
 
 _Selected publications (screening/selection/non-generative):_
 <ul style="font-size: smaller">
-<li>Fromer, J., Volkova, A.D., Coley, C.W. "Optimal compound downselection to promote diversity and parallel chemistry". <i>arxiv:2503.13627</i> (2024)</li>
+<li>Fromer, J., Volkova, A.D., Coley, C.W. "Optimal compound downselection to promote diversity and parallel chemistry". <i>J. Chem. Inf. Model.</i> (2024)</li>
 <li>Fromer, J., Coley, C.W. "An algorithmic framework for synthetic cost-aware decision making in molecular design". <i>Nat. Comp. Sci.</i> (2024)</li>
 <li>Levin, I., Fortunato, M.E., Tan, K.L., Coley, C.W. "Computer-aided evaluation and exploration of chemical spaces constrained by reaction pathways". <i>AIChE J.</i> (2023)</li>
 <li>Fromer, J.C., Graff, D.E., Coley, C.W. "Pareto optimization to accelerate multi-objective virtual screening". <i>Patterns</i> (2024)</li>
@@ -48,7 +48,7 @@ _Selected publications (screening/selection/non-generative):_
 _Selected publications (generative design):_
 <ul style="font-size: smaller">
 <li>Adams, K., Abeywardane, K., Fromer, J., Coley, C.W. “ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design”. <i>ICLR [Oral]</i> (2025)</li>
-<li>Gao, W., Luo, S., Coley, C.W. “Generative artificial intelligence for navigating synthesizable chemical space”. <i>arxiv:2410.03494</i> (2024)</li>
+<li>Gao, W., Luo, S., Coley, C.W. “Generative artificial intelligence for navigating synthesizable chemical space”. <i>Proc. Natl. Acad. Sci. U. S. A.</i> (2024)</li>
 <li>Luo, S., Gao, W., Wu, Z., Peng, J. Coley, C.W., Ma, J. “Projecting molecules into synthesizable chemical spaces”. <i>ICML</i> (2024)</li>
 <li>Gao, W., Mercado, R., Coley, C. W. "Amortized tree generation for bottom-up synthesis planning and synthesizable molecular design". <i>ICLR</i> (2022)</li>
 <li>Adams, K., Coley, C. W. "Equivariant shape-conditioned generation of 3D molecular for ligand-based drug design". <i>ICLR</i> (2023)</li>
@@ -64,7 +64,7 @@ Several data-driven chemistry tools for synthesis planning are available in the 
 
 _Selected publications (retrosynthesis-focused):_
 <ul style="font-size: smaller">
-<li>Tu, Z., Choure, S.J., Fong, M.H., Roh, J., Levin, I., Yu, K., Joung, J.F., Morgan, N., Li, S.C-., Sun, X., Lin, H., Murnin, M., Liles, J.P., Struble, T.J., Fortunato, M.E., Liu, M., Green, W.H., Jensen, K.F., Coley, C.W. “ASKCOS: an open source software suite for synthesis planning”. <i>arxiv:2501.01835</i> (2025)</li>
+<li>Tu, Z., Choure, S.J., Fong, M.H., Roh, J., Levin, I., Yu, K., Joung, J.F., Morgan, N., Li, S.C-., Sun, X., Lin, H., Murnin, M., Liles, J.P., Struble, T.J., Fortunato, M.E., Liu, M., Green, W.H., Jensen, K.F., Coley, C.W. “ASKCOS: an open source software suite for synthesis planning”. <i>Acc. Chem. Res.</i> (2025)</li>
 <li>Roh, J., Joung, J.F., Yu, K., Tu, Z., Bartholomew, G.L., Santiago-Reyes, O.A., Fong, M.H., Sarpong, R., Reisman, S.E., Coley, C.W. “Higher-level strategies for computer-aided retrosynthesis”. <i>chemrxiv:10.26434/chemrxiv-2025-21zvt</i> (2025)</li>
 <li>Yu, K., Roh, J., Li, Z., Gao, W., Wang, R., Coley, C.W. “Double-ended synthesis planning with goal-constrained bidirectional search”. <i>NeurIPS [Spotlight]</i> (2024)</li>
 <li>Levin, I., Liu, M., Voigt, C.A., Coley, C.W. "Merging enzymatic and synthetic chemistry with computational synthesis planning". <i>Nat. Commun.</i> (2022)</li>
@@ -89,8 +89,8 @@ Small molecule metabolites mediate myriads of biological and environmental pheno
 
 _Selected publications:_
 <ul style="font-size: smaller">
-<li>Bohde, M., Manjrekar, M., Wang, R., Ji, S., Coley, C.W. “DiffMS: Diffusion generation of molecules conditioned on mass spectra”. <i>arxiv:2502.09571</i> (2025)</li>
-<li>Wang, R., Wang, R.-X., Manjrekar, M., Coley, C.W. “Neural graph matching improves retrieval augmented generation in molecular machine learning”. <i>arxiv:2502.17874</i> (2025)</li>
+<li>Bohde, M., Manjrekar, M., Wang, R., Ji, S., Coley, C.W. “DiffMS: Diffusion generation of molecules conditioned on mass spectra”. <i>ICML</i> (2025)</li>
+<li>Wang, R., Wang, R.-X., Manjrekar, M., Coley, C.W. “Neural graph matching improves retrieval augmented generation in molecular machine learning”. <i>ICML</i> (2025)</li>
 <li>Goldman, S., Xin, J. Provenzano, J., Coley, C.W. "MIST-CF: Chemical formula inference from tandem mass spectra". <i>J. Chem. Inf. Model.</i> (2023)</li>
 <li>Goldman, S., Li, J. Coley, C.W. "Generating molecular fragmentation graphs with autoregressive neural networks". <i>Anal. Chem.</i> (2023)</li>
 <li>Goldman, S., Bradshaw, J., Xin, J., Coley, C.W. "Prefix-tree decoding for predicting mass spectra from molecules". <i>NeurIPS</i> (2023)</li>
