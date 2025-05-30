@@ -12,18 +12,6 @@
   email: jhuang25@mit.edu
   description: Jonathan is an senior in EECS (6-2) and Biology (7) at MIT. He is interested in applying optimization techniques to efficiently explore combinatorial synthesis drug libraries.
 
-- name: Joy Zhuo
-  photo: Joy_Zhuo.jpg
-  info: UROP @ MIT
-  email: joyzhuo@mit.edu
-  description: Joy is a freshman studying artificial intelligence (6-4) and mathematics (18) at MIT. She is interested in exploring approaches to optimize lab automation for multicomponent reaction search. 
-
-- name: Michael Dennison
-  photo: Michael_Dennison.jpg
-  info: UROP @ MIT
-  email: mddennis@mit.edu
-  description: Michael is a sophomore studying EECS (6-2) at MIT. He is interested in using machine learning and LLMs to streamline the extraction of insights for scalable chemical synthesis.
-
 - name: Montgomery Bohde
   photo: Montgomery_Bohde.JPG
   info: MSRP @ Texas A&M
@@ -42,12 +30,6 @@
   info: UROP @ MIT
   email: 
   description:
-
-- name: Parker McClain
-  photo: Parker_McClain.png
-  info: UROP @ MIT
-  email: pmcclain@mit.edu
-  description: Parker is a freshman studying Mechanical and Biomedical Engineering (2A-20) at MIT. He is interested in the intersection of Chemistry and artificial intelligence.
 
 - name: Ray Wang
   photo: Ray_Wang.JPG
