@@ -89,6 +89,7 @@ Small molecule metabolites mediate myriads of biological and environmental pheno
 
 _Selected publications:_
 <ul style="font-size: smaller">
+<li>Wang, R., Manjrekar, M., Mahjour, B., Avila-Pacheco, J., Provenzano, J., Reynolds, E., Lederbauer, M., Mashin, E., Goldman, S.L., Wang, M., Weng, J.-K., Plata, D.L., Clish, C.B., Coley, C.W. “Neural spectral prediction for structure elucidation with tandem mass spectrometry” <i>bioRxiv:2025.05.28.656653</i> (2025)</li>
 <li>Bohde, M., Manjrekar, M., Wang, R., Ji, S., Coley, C.W. “DiffMS: Diffusion generation of molecules conditioned on mass spectra”. <i>ICML</i> (2025)</li>
 <li>Wang, R., Wang, R.-X., Manjrekar, M., Coley, C.W. “Neural graph matching improves retrieval augmented generation in molecular machine learning”. <i>ICML</i> (2025)</li>
 <li>Goldman, S., Xin, J. Provenzano, J., Coley, C.W. "MIST-CF: Chemical formula inference from tandem mass spectra". <i>J. Chem. Inf. Model.</i> (2023)</li>
@@ -121,10 +122,13 @@ As computational design strategies are increasingly able to make use of availabl
 
 _Selected publications:_
 <ul style="font-size: smaller">
+<li>Wu, G., Wang, R., Coley, C.W. “Optimization of robotic liquid handling as a capacitated vehicle routing problem” <i>arxiv:2506.02795</i> (2025)
+</li>
+<li>Ai, Q., Meng, F., Wang, R., Klein, J.C., Godfrey, A.G., Coley, C.W. “Schedule optimization for chemical library synthesis” <i>Digit. Dis.</i> (2025)</li>
 <li>Mahjour, B.A., Lu, J., Fromer, J.C., Casetti, N., Coley, C.W. “Ideation and evaluation of novel multicomponent reactions via mechanistic network analysis and automation”. <i>chemrxiv:10.26434/chemrxiv-2024-qfjh9</i> (2024)</li>
 <li>Wu, G., Jin, T., Alexander-Katz, A., Coley, C.W. “Autonomous discovery of functional random heteropolymer blends through evolutionary formulation optimization”. <i>chemrxiv:10.26434/chemrxiv-2024-nh0xn</i> (2024)</li>
 <li>Gao, W., Raghavan, P., Coley, C. W. "Autonomous platforms for data-driven organic synthesis". <i>Nat. Commun.</i> (2022)</li>
-<li>Wierenga, R.P., Golas, S., Ho, W., Coley, C.W., Elsvelt, K.M. "PyLabRobot: An open-source hardware agnostic interface for liquid-handling robots and accessories". <i>bioRxiv</i> (2023)</li>
+<li>Wierenga, R.P., Golas, S., Ho, W., Coley, C.W., Elsvelt, K.M. "PyLabRobot: An open-source hardware agnostic interface for liquid-handling robots and accessories". <i>Device</i> (2023)</li>
 </ul>
 <br/>
 
