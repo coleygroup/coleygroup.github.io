@@ -43,4 +43,10 @@
   info: UROP @ MIT
   email: syxcao@mit.edu
   linkedin: https://www.linkedin.com/in/sarah-cao-a5389b251/
-  description: Sarah studies Chemistry-Biology and Math with CS at MIT! She is interested in using generative models to navigate the chemical space through individual mechanistic steps. 
+  description: Sarah studies Chemistry-Biology and Math with CS at MIT! She is interested in using generative models to navigate the chemical space through individual mechanistic steps.
+
+- name: Greycen Ren
+  photo: Greycen_Ren.png
+  info: UROP @ MIT
+  email: greyren@mit.edu
+  description: Greycen is a senior in 6-7 and 18 at MIT. He's interested in computational methods with applications in biology and chemistry.  
