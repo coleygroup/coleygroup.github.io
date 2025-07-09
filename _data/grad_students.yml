@@ -41,19 +41,12 @@
   email: jpro@mit.edu
   description: Joules received their B.S. in Chemical Engineering and Global Studies at Rochester Institute of Technology and is now a PhD student at MIT in Chemical Engineering. Co-advised by Desirée Plata, Joules uses experimental and data-driven methods to better understand environmental degradation pathways of complex mixtures.
 
-- name: Keir Adams
-  photo: Keir_Adams.jpg
-  info: PhD Student
-  email: keir@mit.edu
-  linkedin: https://www.linkedin.com/in/keir-adams-584675167/
-  description: Keir received his B.S. in Chemistry and Molecular Engineering from the University of Chicago in 2020 and is now a PhD student in Chemical Engineering and Computation at MIT. His research focuses on advancing molecular representation for machine learning-assisted chemical discovery.
-
 - name: Kento Abeywardane
   photo: Kento_Abeywardane.jpeg
   info: PhD Student
   email: kento@mit.edu
   linkedin: https://www.linkedin.com/in/kentoabeywardane/
-  description: Kento received a B.S. in Chemical Engineering and an M.S. in Data-Enabled Computational Engineering and Sciences from Brown University. He joined the group in 2024 as a PhD student in Chemical Engineering and Computation at MIT and his research interest is in 3D ligand-based drug design using AI/ML.
+  description: Kento received a B.S. in Chemical Engineering and an M.S. in Data-Enabled Computational Engineering and Sciences from Brown University. He joined the group in 2024 as a PhD student in Chemical Engineering and Computation at MIT. His research interest is in 3D drug design using AI/ML.
 
 - name: Kevin Yu
   photo: Kevin_Yu.jpeg
@@ -62,13 +55,12 @@
   linkedin: https://www.linkedin.com/in/kevin-yu-854b09174/
   description: Kevin received his BS in Chemistry and CS from Caltech in 2022 and is now an SM student at MIT in Computational Science and Engineering. He is broadly interested in developing predictive tools and algorithms that can benefit synthetic chemists, with a focus on synthesis planning for complex molecules.
 
-- name: Magdalena Lederbauer
-  photo: Magdalena_Lederbauer.jpeg
-  info: Visiting Graduate Student
-  email: magled@mit.edu
-  linkedin: https://www.linkedin.com/in/magdalena-lederbauer/
-  twitter: https://twitter.com/maglederb
-  description: Magdalena received her BSc in Chemistry from ETH Zurich and is finishing her MSc in Chemistry at ETH Zurich. She previously worked on Large Language Model agents in heterogeneous catalysis at EPFL and is currently interested in using machine learning for structure elucidation and spectroscopy.
+- name: Matthew Cox
+  photo: Matthew_Cox.jpeg
+  info: PhD Student
+  email: mcox340@mit.edu
+  linkedin: https://www.linkedin.com/in/mcox6782/
+  description: Matthew obtained his BS in Chemical Engineering from Caltech in 2024 and is now a PhD student in Chemical Engineering at MIT. He is interested in developing optimization and machine learning methods in the context of molecular design and discovery.
 
 - name: Mingrou Xie
   photo: Mingrou_Xie.jpeg
@@ -126,6 +118,13 @@
   email: xiaoqis@mit.edu
   linkedin: https://www.linkedin.com/in/xiaoqisun29/
   description: Xiaoqi graduated from UC Berkeley with a B.A. in Data Science and a B.S. in Chemical Engineering in 2022. As a PhD student in Chemical Engineering at MIT, she is interested in exploring autonomous data-driven synthesis and applying machine learning to reaction prediction problems.
+
+- name: Zahmiria Johnson
+  photo: Zahmiria_Johnson.jpg
+  info: PhD Student
+  email: zahmiria@mit.edu
+  linkedin: https://www.linkedin.com/in/zahmiria/
+  description: Zahmiria graduated from UC Berkeley in 2024 with a B.S. in Chemical Engineering. As a PhD student at MIT in Chemical Engineering co-advised by Katie Galloway, they are interested in bio-applied automation and small molecule control of synthetic biology circuits.
 
 - name: Zhengkai Tu
   photo: Zhengkai_Tu.jpg

@@ -1,7 +1,27 @@
+- name: Sourabh Choure
+  link: https://www.linkedin.com/in/sjchoure/
+  previous: Software Developer, MIT
+  current: Software Development Engineer @ Amazon Web Services (AWS)
+
+- name: Magdalena Lederbauer
+  link: https://www.linkedin.com/in/magdalena-lederbauer/
+  previous: MS 2025, ETH Zurich
+  current: Visiting ML Scientist for Chemistry @ Entalpic
+
+- name: Keir Adams
+  link: https://www.linkedin.com/in/keir-adams-584675167/
+  previous: PhD 2025, MIT
+  current: ML Research Engineer @ D.E. Shaw Research
+
+- name: Joonyoung Joung
+  link: https://www.linkedin.com/in/joonyoung-francis-joung-66528b236/
+  previous: Posdoctoral Associate
+  current: Assistant Professor @ Kookmin University
+
 - name: Itai Levin
   link: https://www.linkedin.com/in/itai-levin-03488b105/
   previous: PhD 2024, MIT BE
-  current: TBA
+  current: Co-Founder @ Decycle Bio
 
 - name: Qianxiang Ai
   link: https://twitter.com/qaialex
@@ -26,7 +46,7 @@
 - name: John Bradshaw
   link: https://www.linkedin.com/in/bradshaw-john
   previous: Postdoctoral Associate
-  current: ML Scientist @ Genentech
+  current: ML Scientist @ Prescient Design, Genentech
 
 - name: Natasha Faurschou
   link: https://dk.linkedin.com/in/natasha-videcrantz-faurschou-480572140
@@ -36,7 +56,7 @@
 - name: David Graff
   link: https://www.linkedin.com/in/davidegraff/
   previous: PhD 2023, Harvard CCB
-  current: ML Scientist @ Atomwise
+  current: ML Scientist @ Atomwise &rarr; ML Scientist @ Prescient Design, Genentech
 
 - name: Christian Ulmer
   link: https://www.linkedin.com/in/ulmerchristian/
@@ -72,3 +92,8 @@
   link: https://www.linkedin.com/in/aparajitadasgupta
   previous: Postdoctoral Associate
   current: Senior Scientist, Process Development @ Pfizer
+
+- name: Juncheng Lu
+  link: https://www.linkedin.com/in/juncheng-lu-248660277
+  previous: C-CAS Visiting Scholar @ MIT
+  current: Senior @ CMU

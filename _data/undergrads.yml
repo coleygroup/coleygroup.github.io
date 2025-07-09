@@ -19,13 +19,13 @@
   linkedin: https://www.linkedin.com/in/montgomery-bohde/
   description: Montgomery is studying Computer Science and Applied Math at Texas A&M University (B.S. 2026), where he is advised by Prof. Shuiwang Ji. His research interest is in graph neural networks and genenerative models with applications in AI for Science.
 
-- name: Ne Dassanayake
-  photo: placeholder.png
+- name: Nathan Leung
+  photo: Nathan_Leung.png
   info: UROP @ MIT
-  email:
-  description:
+  email: natelgrw@mit.edu
+  description: Nathan is a freshman studying EECS (6-5) at MIT. He is interested in exploring concepts in chemical informatics and machine learning through projects in devices and instrument automation.
 
-- name: Nicolas Manno
+- name: Ne Dassanayake
   photo: placeholder.png
   info: UROP @ MIT
   email:
@@ -38,11 +38,18 @@
   linkedin: https://www.linkedin.com/in/rui-xi-wang-3006661b8/
   description: Ray is a senior in 6-3 (Math) and 18 (Mathematics) at MIT. He is interested in using combinatorial algorithms and machine learning to improve mass-spectrum prediction models.
 
-- name: Nathan Leung
-  photo: Nathan_Leung.png
+- name: Sarah Cao
+  photo: Sarah_Cao.jpeg
   info: UROP @ MIT
-  email: natelgrw@mit.edu
-  description: Nathan is a freshman studying EECS (6-5) at MIT. He is interested in exploring concepts in chemical informatics and machine learning through projects in devices and instrument automation.
+  email: syxcao@mit.edu
+  linkedin: https://www.linkedin.com/in/sarah-cao-a5389b251/
+  description: Sarah studies Chemistry-Biology and Math with CS at MIT! She is interested in using generative models to navigate the chemical space through individual mechanistic steps.
+
+- name: Greycen Ren
+  photo: Greycen_Ren.png
+  info: UROP @ MIT
+  email: greyren@mit.edu
+  description: Greycen is a senior in 6-7 and 18 at MIT. He's interested in computational methods with applications in biology and chemistry.  
 
 - name: Janet Guo
   photo: Janet_Guo.png

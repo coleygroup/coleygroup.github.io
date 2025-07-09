@@ -5,13 +5,6 @@
   linkedin: https://www.linkedin.com/in/babak-mahjour-288923b0/
   description: Babak completed his PhD in medicinal chemistry with Prof. Tim Cernak at the University of Michigan in 2023. He joined the Coley group soon after to continue studying chemical synthesis and lab automation, with an eye towards AI-driven translational research.
 
-- name: Joonyoung Joung
-  photo: Joonyoung_Joung.jpeg
-  info: Postdoctoral Associate
-  email: jjoung@mit.edu
-  linkedin: https://www.linkedin.com/in/joonyoung-francis-joung-66528b236/
-  description: Joonyoung received his Ph.D. degree in Physical Chemistry from Korea University in 2020. Then he stayed in the group as a Research Professor and Postdoctoral Associate before joining Coley group in September 2022. He is interested in developing machine learning methods to find the best process in process chemistry.
-
 - name: Jordan Liles
   photo: Jordan_Liles.jpg
   info: Postdoctoral Associate
@@ -25,3 +18,11 @@
   email: runzhong@mit.edu
   twitter: https://twitter.com/runzhong_wang
   description: Runzhong received his PhD in Computer Science at Shanghai Jiao Tong University in the summer of 2023. He joined the Coley Research Group shortly afterward. He is interested in the intersected topics of machine learning and combinatorial optimization, and their applications in computational metabolomics.
+
+- name: Jonas Rein
+  photo: Jonas_Rein.jpg
+  info: Postdoctoral Fellow (co-advised with Prof. Masha Elkin)
+  email: jrein@mit.edu
+  linkedin: https://www.linkedin.com/in/jonas-rein-68a59a23b
+  description: Jonas completed his PhD in Organic Chemistry at Cornell University with Prof. Song Lin in 2024. His postdoctoral research seeks to integrate organic chemistry with data-driven approaches to systematically identify gaps in the current landscape of organic synthesis and accelerate the discovery of innovative solutions in the laboratory.
+  
