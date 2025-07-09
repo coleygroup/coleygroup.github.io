@@ -1,0 +1,71 @@
+learning_resources:
+  - title: "Andrew White's Book"
+    description: "Deep Learning for Molecules and Materials"
+    url: "https://whitead.github.io/dmol-book/"
+    category: "Books"
+
+  - title: "Greg Landrum's RDKit Blog"
+    description: "Insights and tutorials on RDKit and cheminformatics"
+    url: "https://greglandrum.github.io/rdkit-blog/"
+    category: "Blogs"
+
+  - title: "SMARTSPlus"
+    description: "Interactive SMARTS pattern matching tool"
+    url: "https://smarts.plus/"
+    category: "Tools"
+
+  - title: "Distill Publications"
+    description: "Clear explanations of machine learning concepts"
+    url: "https://distill.pub/"
+    category: "Publications"
+
+  - title: "DeepChem Tutorials"
+    description: "Machine learning for drug discovery tutorials"
+    url: "https://deepchem.io/tutorials/the-basic-tools-of-the-deep-life-sciences/"
+    category: "Education"
+
+  - title: "Pat Walters' Practical Cheminformatics"
+    description: "Practical cheminformatics tutorials and insights"
+    url: "https://patwalters.github.io/year-archive/"
+    category: "Blogs"
+
+  - title: "Derek Lowe's In the Pipeline"
+    description: "Commentary on drug discovery and pharmaceutical industry"
+    url: "https://www.science.org/blogs/pipeline"
+    category: "Blogs"
+
+  - title: "ML4MolEng Problem Sets"
+    description: "Problem sets for the MIT ML4MolEng course"
+    url: "https://github.com/coleygroup/ML4MolEng"
+    category: "Education"
+
+  - title: "OpenRetro"
+    description: "An open source library for benchmarking one-step retrosynthesis"
+    url: "https://github.com/coleygroup/openretro"
+    category: "Software"
+
+  - title: "dl-chem-101"
+    description: "Deep learning for chemistry educational repository"
+    url: "https://github.com/coleygroup/dl-chem-101"
+    category: "Education"
+
+  - title: "AI4Chem"
+    description: "A course on AI for chemistry by the LIAC team at EPFL"
+    url: "https://schwallergroup.github.io/ai4chem_course/"
+    category: "Education"
+
+categories:
+  - name: "Books"
+    description: "Comprehensive textbooks and reference materials"
+  - name: "Blogs"
+    description: "Regular updates and insights from experts"
+  - name: "Tools"
+    description: "Interactive tools and utilities"
+  - name: "Publications"
+    description: "Academic journals and research platforms"
+  # - name: "Datasets"
+  #   description: "Curated data for research and development"
+  - name: "Software"
+    description: "Open-source software packages"
+  - name: "Education"
+    description: "Educational materials, courses, and tutorials"
