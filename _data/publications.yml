@@ -93,7 +93,7 @@
     - design and optimization
     - predictive chemistry
 
-- title: Procedural Synthesis of Molecules
+- title: Procedural Synthesis of Synthesizable Molecules
   authors: Sun, M., Lo, A., Gao, W., Guo, M., Chen, J., Coley, C.W., Matusik, W.
   journal: ICLR
   year: 2025
@@ -490,7 +490,7 @@
   journal: arxiv
   year: 2024
   url: https://arxiv.org/abs/2402.16882
-  preprint:	arXiv:2402.16882
+  preprint:  arXiv:2402.16882
   preprint_url: https://arxiv.org/abs/2402.16882
   preprint_site: arxiv
   preprint_year: 2024
@@ -1026,7 +1026,7 @@
   preprint_site: chemrxiv
   preprint_year: 2022
 
-- title: "Equivariant shape-conditioned generation of 3D molecular for ligand-based drug design"
+- title: "Equivariant shape-conditioned generation of 3D molecules for ligand-based drug design"
   authors: Adams, K., Coley, C. W.
   journal: ICLR
   year: 2023
@@ -1295,7 +1295,7 @@
   year: 2022
   url: https://doi.org/10.1371/journal.pcbi.1009853
   doi: 10.1371/journal.pcbi.1009853
-  preprint: 	arXiv:2109.03900
+  preprint:   arXiv:2109.03900
   preprint_url: https://doi.org/10.48550/arXiv.2109.03900
   preprint_site: arxiv
   preprint_year: 2021
