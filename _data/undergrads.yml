@@ -28,7 +28,7 @@
 - name: Ne Dassanayake
   photo: placeholder.png
   info: UROP @ MIT
-  email: 
+  email:
   description:
 
 - name: Ray Wang
@@ -50,3 +50,9 @@
   info: UROP @ MIT
   email: greyren@mit.edu
   description: Greycen is a senior in 6-7 and 18 at MIT. He's interested in computational methods with applications in biology and chemistry.  
+
+- name: Janet Guo
+  photo: Janet_Guo.png
+  info: UROP @ MIT
+  email: janetguo@mit.edu
+  description: Janet is a junior majoring in 6-4 (AI and Decision Making) and minoring in 7 (Biology) at MIT. She is interested in developing automated workflows for conditional generation of small molecules.
