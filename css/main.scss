@@ -233,3 +233,85 @@ pubtit {
   height: auto;
   margin-right: 15px;
 }
+
+/* -------------------------------------------------------------
+   Responsive tweaks for carousel on narrow screens
+   ------------------------------------------------------------- */
+@media (max-width: 991px) {
+  /* Slightly smaller screens (tablets / small laptops) */
+  .image-container {
+    height: 300px;
+  }
+  .slide-title {
+    font-size: 28px;
+  }
+  .slide-desc {
+    font-size: 18px;
+  }
+
+  /* Overlay captions on the image so they cannot be pushed out of view */
+  .carousel-inner .item {
+    position: relative; /* ensure absolute captions are positioned correctly */
+  }
+  .slide-caption {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 97%;
+    background: rgba(255, 255, 255, 0.85);
+    border-radius: 4px;
+    padding: 4px 6px;
+  }
+
+  /* Give a bit more space below the fixed navbar */
+  body {
+    padding-top: 85px;
+  }
+}
+
+@media (max-width: 767px) {
+  /* Mobile phones */
+  .carousel {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .image-container {
+    height: 220px; /* Reduce fixed height so the carousel isn’t overly tall */
+  }
+
+  .slide-title {
+    font-size: 20px;
+  }
+
+  .slide-desc {
+    font-size: 14px;
+  }
+
+  /* Make arrow controls smaller so they don’t crowd content */
+  .carousel-control.left::after,
+  .carousel-control.right::after {
+    font-size: 32px;
+  }
+
+  /* Ensure captions span full width so long titles aren’t clipped */
+  .slide-caption {
+    width: 100%;
+    padding: 5px 10px 0;
+  }
+  .slide-title,
+  .slide-desc {
+    word-wrap: break-word;
+  }
+
+  /* Tweak overlay for small phones */
+  .slide-caption {
+    top: 8px;
+    width: 97%;
+  }
+
+  body {
+    padding-top: 95px;
+  }
+}
