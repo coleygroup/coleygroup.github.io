@@ -1,88 +1,18 @@
 
-- title: ASKCOS
+- title: ASKCOS (Automated System for Knowledge-based Continuous Organic Synthesis)
   image: Logo_askcos.png
-  description: ASKCOS (Automated System for Knowledge-based Continuous Organic Synthesis) is an open source software suite hosting several data-driven chemistry tools for synthesis planning. It has seen use by 35,000+ chemists and is deployed at 15+ pharmaceutical and chemical companies. At the above link, we host a free-to-use web app deployment of ASKCOS.
+  description: ASKCOS is an open source software suite hosting several data-driven chemistry tools for synthesis planning. It has seen use by 35,000+ chemists and is deployed at 15+ pharmaceutical and chemical companies. At the above link, we host a free-to-use web app deployment of ASKCOS.
   link:
     url: https://askcos.mit.edu
 
-- title: "FlowER"
-  image: Logo_flower.png
-  description: FlowER uses flow matching to model chemical reaction as a process of electron redistribution, conceptually aligns with arrow-pushing formalisms. It aims to capture the probabilistic nature of reactions with mass conservation where multiple outcomes are reached through branching mechanistic networks evolving in time.
-  link:
-    url: https://github.com/FongMunHong/FlowER
-
-- title: "Tandem mass spectra prediction"
-  image: Logo_iceberg.png
-  description: Implementations for the following spectrum simulator models predicting molecular tandem mass spectra from molecules (1) ICEBERG (2) MARASON (3) SCARF. These models predict the fragmentation patterns of molecules from molecular graphs or formulas to improve spectra prediction.
-  link:
-    url: https://github.com/coleygroup/ms-pred
-
-- title: "Higher-Level Retrosynthesis"
-  image: Logo_higherlevelretro.png
-  description: Higher-Level Retrosynthesis introduces a novel framework for computer-aided retrosynthesis that focuses on the broader retrosynthetic strategy. We abstract the detailed substructures in the intermediates of a synthetic pathway that do not appear in the target product, allowing our algorithm to emphasize the general, higher-level strategies instead of considering the specifics of chemically-equivalent functional groups.
-  link:
-    url: https://github.com/jihye-roh/higherlev_retro
-
-- title: SynFormer
-  image: Logo_synformer.png
-  description: SynFormer is a generative artificial intelligence model for navigating synthesizable chemical space. It is designed to generate molecules along with their synthetic routes in a scalable manner. It enables (1) local chemical space exploration, where the model generates synthesizable analogs of a reference molecule, and (2) global chemical space exploration, where the model aims to identify optimal molecules according to a black-box property prediction oracle.
-  link:
-    url: https://github.com/coleygroup/synformer
-
-- title: ShEPhERD
-  image: Logo_shepherd.png
-  description: ShEPhERD is a generative diffusion model for generating molecules conditioned on explicit representations of shape, electrostatics, and pharmacophores. It is applicable to bioisosteric drug design such as natural product ligand hopping, bioactive hit diversification, and bioisosteric fragment merging.
-  link:
-    url: https://github.com/coleygroup/shepherd
-
-- title: "Virtual Flask"
-  image: Logo_virtualflask.png
-  description: The Virtual Flask is a cheminformatic application designed to generate reaction networks given a set of initial molecules and a corpus of templates and enables reaction prediction. A suite of supporting tools facilitate the analysis and visualization of generated chemical reaction data. This guide provides detailed instructions for setting up and running the Virtual Flask locally for development purposes. Both the Corpus and Analysis dashboards can be hosted locally and run simultaneously.
-  link:
-    url: https://github.com/coleygroup/virtual_flask
-
-- title: DiffMS
-  image: Logo_diffms.png
-  description: DiffMS is a generative discrete graph diffusion model for structure elucidation from mass spectra. It is a formula-restricted encoder-decoder generative network that achieves state-of-the-art performance on this task. The encoder utilizes a transformer architecture and models mass spectra domain knowledge such as peak formulae and neutral losses, and the decoder is a discrete graph diffusion model restricted by the heavy-atom composition of a known chemical formula. 
-  link:
-    url: https://github.com/coleygroup/diffms
-
-- title: DESP
-  image: Logo_desp.png
-  description: DESP is a workflow for double-ended synthesis planning with goal-constrained bidirectional search. It is designed to find the shortest path between a target product and a starting material, while also ensuring that the path is feasible and meets certain design constraints.
-  link:
-    url: https://github.com/coleygroup/desp
-
-- title: "ContraScope"
-  image: Logo_contrascope.png
-  description: ContraScope introduces a novel pre-training strategy, substrate scope contrastive learning, which learns atomic representations tailored to chemical reactivity. This method considers the grouping of substrates and their yields in published substrate scope tables as a measure of their similarity or dissimilarity in terms of chemical reactivity.
-  link:
-    url: https://github.com/wenhao-gao/substrate_scope_contrastive_learning
-
-- title: "SPARROW"
-  image: Logo_sparrow.png
-  description: A workflow to simultaneously select molecules and their synthetic routes for lead optimization and design-make-test cycles. This optimization approach aims to minimize synthetic cost while selecting the molecules that are most likely to fulfill design constraints. More details about SPARROW can be found in our preprint.
-  link:
-    url: https://github.com/coleygroup/sparrow
-
-- title: "RDCanon"
+- title: "RDCanon: A Python Package for Canonicalizing the Order of Tokens in SMARTS Queries"
   image: Logo_rdcanon.png
   description: RDCanon is a package designed for canonicalizing SMARTS and Reaction SMARTS templates. It reorders SMARTS to optimize querying speed. This optimization is invariant of atom mapping.
   link:
     url: https://github.com/coleygroup/rdcanon
 
-- title: "Graph2Smiles"
-  description: Graph2Smiles is a graph-to-sequence model that predicts the SMILES string of a reaction product given a reaction template and a reactant molecule for one-step retrosynthesis. 
+- title: "SPARROW"
+  image:
+  description: A workflow to simultaneously select molecules and their synthetic routes for lead optimization and design-make-test cycles. This optimization approach aims to minimize synthetic cost while selecting the molecules that are most likely to fulfill design constraints. More details about SPARROW can be found in our preprint.
   link:
-    url: https://github.com/coleygroup/Graph2SMILES
-
-- title: "PyScreener"
-  description: A pythonic interface to high-throughput virtual screening software. It was designed to have a minimal interface under the principal that a high-throughput virtual screen is intended to be a broad strokes technique to gauge ligand favorability. It supports Vina, Quick-Vina, Smina, Psovina, and DOCK6.
-  link:
-    url: https://github.com/coleygroup/pyscreener
-
-- title: "MolPAL"
-  image: Logo_molpal.png
-  description: MolPAL is a software for the accelerated discovery of compounds in high-throughput virtual screening environments. Bayesian optimization algorithms for docking-based virtual screening decreases the computational cost of using docking to identify the majority of top-scoring compounds in virtual libraries by over an order of magnitude, aided by surrogate machine learning models that prioritize the screening of molecules that are associated with better docking scores.
-  link:
-    url: https://github.com/coleygroup/molpal
+    url: https://github.com/coleygroup/sparrow

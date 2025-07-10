@@ -31,54 +31,6 @@
 #     - metabolomics
 #     - data
 
-
-- title: "Optimization of robotic liquid handling as a capacitated vehicle routing problem"
-  authors: Wu, G., Wang, R., Coley, C.W.
-  journal: arXiv
-  year: 2025
-  url: https://doi.org/10.48550/arXiv.2506.02795
-  preprint: arXiv:2506.02795
-  preprint_url: https://arxiv.org/abs/2506.02795
-  preprint_year: 2025
-  preprint_site: arxiv
-  themes:
-    - design and optimization
-    - automation
-
-- title: "Optimal compound downselection to promote diversity and parallel chemistry"
-  authors: Fromer, J.C., Volkova, A.D., Coley, C.W.
-  journal: J. Chem. Inf. Model.
-  year: 2025
-  url: https://doi.org/10.1021/acs.jcim.5c00606
-  doi: 10.1021/acs.jcim.5c00606
-  volume: 65
-  issue: 12
-  pages: 5989-5997
-  preprint: arXiv:2503.13627
-  preprint_url: https://arxiv.org/abs/2503.13627
-  preprint_year: 2025
-  preprint_site: arxiv
-  themes:
-    - design and optimization
-    - predictive chemistry
-
-- title: "ASKCOS: an open source software suite for synthesis planning"
-  authors: Tu, Z., Choure, S.J., Fong, M.H., Roh, J., Levin, I., Yu, K., Joung, J.F., Morgan, N., Li, S., Sun, X., Lin, H., Murnin, M., Liles, J.P., Struble, T.J., Fortunato, M.E., Liu, M., Green, W.H., Jensen, K.F., Coley, C.W.
-  journal: Acc. Chem. Res.
-  url: https://doi.org/10.1021/acs.accounts.5c00155
-  doi: 10.1021/acs.accounts.5c00155
-  volume: 58
-  issue: 11
-  pages: 1764-1775
-  year: 2025
-  preprint: arXiv:2501.01835v1
-  preprint_url: https://arxiv.org/abs/2501.01835
-  preprint_year: 2025
-  preprint_site: arxiv
-  themes:
-    - automation
-    - predictive chemistry
-
 - title: "Batched Bayesian optimization by Maximizing the Probability of Including the Optimum"
   authors: Fromer, J., Wang, R., Manjrekar, M., Tripp, A., Hernández-Lobato, J.M., Coley, C.W.
   journal: J. Chem. Inf. Model.
@@ -116,6 +68,19 @@
     - metabolomics
     - design and optimization
 
+
+- title: "Optimal compound downselection to promote diversity and parallel chemistry"
+  authors: Fromer, J.C., Volkova, A.D., Coley, C.W.
+  journal: arXiv
+  year: 2025
+  url: https://doi.org/10.48550/arXiv.2503.13627
+  preprint: arXiv:2503.13627
+  preprint_url: https://arxiv.org/abs/2503.13627
+  preprint_year: 2025
+  preprint_site: arxiv
+  themes:
+    - design and optimization
+    - predictive chemistry
 
 - title: "Challenging Reaction Prediction Models to Generalize to Novel Chemistry"
   authors: Bradshaw, J., Zhang, A., Mahjour, B., Graff, D.E., Segler, M.H.S., Coley, C.W.
@@ -245,6 +210,19 @@
   themes:
     - molecular representation
     - design and optimization
+
+- title: "ASKCOS: an open source software suite for synthesis planning"
+  authors: Tu, Z., Choure, S.J., Fong, M.H., Roh, J., Levin, I., Yu, K., Joung, J.F., Morgan, N., Li, S., Sun, X., Lin, H., Murnin, M., Liles, J.P., Struble, T.J., Fortunato, M.E., Liu, M., Green, W.H., Jensen, K.F., Coley, C.W.
+  journal: arXiv
+  year: 2025
+  url: https://arxiv.org/abs/2501.01835
+  preprint: arXiv:2501.01835v1
+  preprint_url: https://arxiv.org/abs/2501.01835
+  preprint_year: 2025
+  preprint_site: arxiv
+  themes:
+    - automation
+    - predictive chemistry
 
 - title: "Comment on 'Molecular hypergraph neural networks'"
   authors: Casetti, N., Nevatia, P., Chen, J., Schwaller, P., Coley, C.W. 

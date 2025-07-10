@@ -137,7 +137,7 @@ pubtit {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.10); /* subtle 10% tint */
+  background: rgba(0, 0, 0, 0.6); /* Black with 40% opacity */
 }
 
 .carousel-caption {
@@ -157,73 +157,12 @@ pubtit {
   bottom: -10px; /* Adjust this value to move indicators down */
 }
 
+.image-container {
+  display: inline-block;
+}
+
 .carousel-inner .item {
   text-align: center;
-}
-
-/* Custom arrow icons for carousel controls */
-.carousel-control .glyphicon {
-  display: none; /* hide default bootstrap glyph */
-}
-
-.carousel-control.left::after,
-.carousel-control.right::after {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  font-size: 48px;
-  font-weight: 300;
-  color: #fff;
-  text-shadow: 0 1px 2px rgba(0,0,0,0.6);
-}
-
-.carousel-control.left::after  {
-  content: "\2039";
-  left: 20px;                  /* 20px from the very edge */
-  transform: translateY(-50%); /* vertical centering only */
-}
-.carousel-control.right::after {
-  content: "\203A";
-  right: 20px;                 /* 20px from the very edge */
-  transform: translateY(-50%);
-}
-
-/* Unified rules: fixed-height box, flex-center, responsive shrink, NO cropping */
-.image-container {
-  width: 100%;
-  height: 400px;           /* keep carousel a consistent height */
-  display: flex;
-  justify-content: center; /* horizontal centering */
-  align-items: center;      /* vertical centering */
-  position: relative; /* create stacking context for ::after */
-}
-
-.image-container img {
-  max-width: 95%;         /* never overflow horizontally */
-  max-height: 95%;        /* never overflow vertically */
-  width: auto !important;  /* override inline height if present */
-  height: auto !important; /*  "  "    "     "      "   */
-}
-
-/* Styling for the new caption block placed above images */
-.slide-caption {
-  text-align: center;
-  padding: 10px 15px 0;
-  position: relative; z-index: 2;
-}
-
-.slide-title {
-  font-size: 32px;
-  font-weight: 600;
-  margin: 0;
-  color: #000000;
-}
-
-.slide-desc {
-  font-size: 22px;
-  font-weight: 300;
-  margin: 5px 0 0;
-  color: #000000;
 }
 
 /* Software / Resources */
