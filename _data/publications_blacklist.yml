@@ -1,0 +1,17 @@
+# Publications blacklist
+# Papers that should NOT be included on the website
+# Add DOIs, ArXiv IDs, or normalized titles to exclude them from suggestions
+
+blacklisted_dois:
+  - "10.1021/acs.jcim.9b01076"  # Correction to original paper, not standalone article
+
+blacklisted_arxiv_ids:
+  # Example: "2023.12345"
+
+blacklisted_titles:
+  # Note: These are matched against normalized titles (lowercase, no punctuation)
+
+# Reasons for blacklisting (optional, for documentation):
+# - Duplicate/superseded work
+# - Personal/non-academic content
+# - Not relevant to the research group (?)
