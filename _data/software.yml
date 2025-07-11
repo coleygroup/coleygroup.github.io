@@ -1,121 +1,177 @@
+# - title: software
+#   image: logo.png (optional)
+#   description: Couple sentences about the software.
+#   links:
+#     - label: "label"
+#       url: url
+#     - label: "optionally add more labels"
+#       url: url
+#   themes:
+#     - molecular representation
+#     - design and optimization
+#     - predictive chemistry
+#     - automation
+#     - metabolomics
+#     - data
 
 - title: ASKCOS
   image: Logo_askcos.png
   description: ASKCOS (Automated System for Knowledge-based Continuous Organic Synthesis) is an open source software suite hosting several data-driven chemistry tools for synthesis planning. It has seen use by 35,000+ chemists and is deployed at 15+ pharmaceutical and chemical companies. At the above link, we host a free-to-use web app deployment of ASKCOS.
-  link:
-    url: https://askcos.mit.edu
+  links:
+    - label: "Web App"
+      url: https://askcos.mit.edu
+    - label: "Documentation"
+      url: https://askcos-docs.mit.edu/
+    - label: "GitLab"
+      url: https://gitlab.com/mlpds_mit/askcosv2
   themes:
-    - automation
     - predictive chemistry
 
 - title: "FlowER"
   image: Logo_flower.png
-  description: FlowER uses flow matching to model chemical reaction as a process of electron redistribution, conceptually aligns with arrow-pushing formalisms. It aims to capture the probabilistic nature of reactions with mass conservation where multiple outcomes are reached through branching mechanistic networks evolving in time.
-  link:
-    url: https://github.com/FongMunHong/FlowER
+  description: FlowER uses generative flow matching to model chemical reaction as a process of electron redistribution, conceptually aligns with arrow-pushing formalisms. It aims to capture the probabilistic nature of reactions with mass conservation where multiple outcomes are reached through branching mechanistic networks evolving in time.
+  links:
+    - label: "GitHub"
+      url: https://github.com/FongMunHong/FlowER
   themes:
     - molecular representation
     - predictive chemistry
 
-- title: "Tandem mass spectra prediction"
+- title: "ICEBERG"
   image: Logo_iceberg.png
-  description: Implementations for the following spectrum simulator models predicting molecular tandem mass spectra from molecules (1) ICEBERG (2) MARASON (3) SCARF. These models predict the fragmentation patterns of molecules from molecular graphs or formulas to improve spectra prediction.
-  link:
-    url: https://github.com/coleygroup/ms-pred
+  description: ICEBERG is a geometric deep learning model that simulates collision-induced dissociation in mass spectrometry to generate chemically plausible fragments and their relative intensities with awareness of collision energies and polarities. We utilize ICEBERG predictions to facilitate structure elucidation by ranking a set of candidate structures based on the similarity between their predicted in silico MS/MS spectra and an experimental MS/MS spectrum of interest.
+  links:
+    - label: "GitHub"
+      url: https://github.com/coleygroup/ms-pred
   themes:
     - metabolomics
-    - predictive chemistry
+
+- title: DiffMS
+  image: Logo_diffms.png
+  description: DiffMS is a generative discrete graph diffusion model for structure elucidation from mass spectra. It is a formula-restricted encoder-decoder generative network that achieves state-of-the-art performance on this task. The encoder utilizes a transformer architecture and models mass spectra domain knowledge such as peak formulae and neutral losses, and the decoder is a discrete graph diffusion model restricted by the heavy-atom composition of a known chemical formula. 
+  links:
+    - label: "GitHub"
+      url: https://github.com/coleygroup/diffms
+  themes:
+    - metabolomics
+    - molecular representation
+
+- title: "MARASON"
+  description: MARASON is a retrieval-augmented mass spectrum simulator with neural graph matching. We retrieve reference structures and spectra from a reference library based on similarity to the target structure. It is a novel model that incorporates neural graph matching to enhance a fragmentation-based neural network to improve Retrieval Augmented Generation.
+  links:
+    - label: "GitHub"
+      url: https://github.com/coleygroup/ms-pred
+  themes:
+    - metabolomics
+
+- title: "MIST-CF"
+  description: MIST-CF (Metabolite Inference with Spectrum Transformers - Chemical Formula) is an extension of the MIST framework that infers precursor chemical formulae directly from tandem mass spectra in a de novo setting. Using a transformer-based energy model, it ranks candidate formulae without requiring reference spectral databases.
+  links:
+    - label: "GitHub"
+      url: https://github.com/samgoldman97/mist-cf
+  themes:
+    - metabolomics
 
 - title: "Higher-Level Retrosynthesis"
   image: Logo_higherlevelretro.png
   description: Higher-Level Retrosynthesis introduces a novel framework for computer-aided retrosynthesis that focuses on the broader retrosynthetic strategy. We abstract the detailed substructures in the intermediates of a synthetic pathway that do not appear in the target product, allowing our algorithm to emphasize the general, higher-level strategies instead of considering the specifics of chemically-equivalent functional groups.
-  link:
-    url: https://github.com/jihye-roh/higherlev_retro
+  links:
+    - label: "GitHub"
+      url: https://github.com/jihye-roh/higherlev_retro
   themes:
     - predictive chemistry
 
 - title: SynFormer
   image: Logo_synformer.png
   description: SynFormer is a generative artificial intelligence model for navigating synthesizable chemical space. It is designed to generate molecules along with their synthetic routes in a scalable manner. It enables (1) local chemical space exploration, where the model generates synthesizable analogs of a reference molecule, and (2) global chemical space exploration, where the model aims to identify optimal molecules according to a black-box property prediction oracle.
-  link:
-    url: https://github.com/coleygroup/synformer
+  links:
+    - label: "GitHub"
+      url: https://github.com/coleygroup/synformer
   themes:
     - design and optimization
-    - predictive chemistry
+    - molecular representation
 
 - title: ShEPhERD
   image: Logo_shepherd.png
   description: ShEPhERD is a generative diffusion model for generating molecules conditioned on explicit representations of shape, electrostatics, and pharmacophores. It is applicable to bioisosteric drug design such as natural product ligand hopping, bioactive hit diversification, and bioisosteric fragment merging.
-  link:
-    url: https://github.com/coleygroup/shepherd
+  links:
+    - label: "GitHub"
+      url: https://github.com/coleygroup/shepherd
   themes:
     - molecular representation
     - design and optimization
 
+- title: "RDChiral"
+  description: RDChiral is a tool for RDKit's RunReactants to improve stereochemistry handling.
+  links:
+    - label: "GitHub"
+      url: https://github.com/connorcoley/rdchiral
+  themes:
+    - molecular representation
+    - predictive chemistry
+
+- title: "RDCanon"
+  image: Logo_rdcanon.png
+  description: RDCanon is a package designed for canonicalizing SMARTS and Reaction SMARTS templates. It reorders SMARTS to optimize querying speed such as for database search. This optimization is invariant of atom mapping.
+  links:
+    - label: "GitHub"
+      url: https://github.com/coleygroup/rdcanon
+  themes:
+    - data
+    - predictive chemistry
+
 - title: "Virtual Flask"
   image: Logo_virtualflask.png
   description: The Virtual Flask is a cheminformatic application designed to generate reaction networks given a set of initial molecules and a corpus of templates and enables reaction prediction. A suite of supporting tools facilitate the analysis and visualization of generated chemical reaction data. This guide provides detailed instructions for setting up and running the Virtual Flask locally for development purposes. Both the Corpus and Analysis dashboards can be hosted locally and run simultaneously.
-  link:
-    url: https://github.com/coleygroup/virtual_flask
+  links:
+    - label: "GitHub"
+      url: https://github.com/coleygroup/virtual_flask
   themes:
     - automation
-    - predictive chemistry
-
-- title: DiffMS
-  image: Logo_diffms.png
-  description: DiffMS is a generative discrete graph diffusion model for structure elucidation from mass spectra. It is a formula-restricted encoder-decoder generative network that achieves state-of-the-art performance on this task. The encoder utilizes a transformer architecture and models mass spectra domain knowledge such as peak formulae and neutral losses, and the decoder is a discrete graph diffusion model restricted by the heavy-atom composition of a known chemical formula. 
-  link:
-    url: https://github.com/coleygroup/diffms
-  themes:
-    - metabolomics
-    - molecular representation
-
-- title: DESP
-  image: Logo_desp.png
-  description: DESP is a workflow for double-ended synthesis planning with goal-constrained bidirectional search. It is designed to find the shortest path between a target product and a starting material, while also ensuring that the path is feasible and meets certain design constraints.
-  link:
-    url: https://github.com/coleygroup/desp
-  themes:
-    - predictive chemistry
-
-- title: "ContraScope"
-  image: Logo_contrascope.png
-  description: ContraScope introduces a novel pre-training strategy, substrate scope contrastive learning, which learns atomic representations tailored to chemical reactivity. This method considers the grouping of substrates and their yields in published substrate scope tables as a measure of their similarity or dissimilarity in terms of chemical reactivity.
-  link:
-    url: https://github.com/wenhao-gao/substrate_scope_contrastive_learning
-  themes:
-    - molecular representation
     - predictive chemistry
 
 - title: "SPARROW"
   image: Logo_sparrow.png
   description: A workflow to simultaneously select molecules and their synthetic routes for lead optimization and design-make-test cycles. This optimization approach aims to minimize synthetic cost while selecting the molecules that are most likely to fulfill design constraints. More details about SPARROW can be found in our preprint.
-  link:
-    url: https://github.com/coleygroup/sparrow
+  links:
+    - label: "GitHub"
+      url: https://github.com/coleygroup/sparrow
   themes:
     - design and optimization
     - predictive chemistry
 
-- title: "RDCanon"
-  image: Logo_rdcanon.png
-  description: RDCanon is a package designed for canonicalizing SMARTS and Reaction SMARTS templates. It reorders SMARTS to optimize querying speed. This optimization is invariant of atom mapping.
-  link:
-    url: https://github.com/coleygroup/rdcanon
+- title: "qPO"
+  image: Logo_qpo.png
+  description: qPO (multipoint Probability of Optimality) is an acquisition strategy for discrete optimization that is motivated by pure exploitation. It maximizes the probability that the batch includes the true optimum, which is expressed as the sum over individual acquisition scores and thereby circumvents the combinatorial challenge of optimizing a batch acquisition function
+  links:
+    - label: "GitHub"
+      url: https://github.com/jenna-fromer/qPO
   themes:
-    - data
+    - predictive chemistry
+    - design and optimization
+    - automation
+
+- title: "EASIE"
+  description: EASIE (Exploration of chemical Analog Space, Implicitly and Explicitly) is a computational workflow to (1) score and select retrosynthetic pathways on the basis of perceived route diversifiability, (2) estimate property distributions of the resulting enumerated space to inform or constrain reactant selection, and (3) enumerate synthetic pathway-constrained analogs via selection of suitable alternative reactants.
+  links:
+    - label: "GitHub"
+      url: https://github.com/itai-levin/easie
+  themes:
     - predictive chemistry
 
-- title: "Graph2Smiles"
-  description: Graph2Smiles is a graph-to-sequence model that predicts the SMILES string of a reaction product given a reaction template and a reactant molecule for one-step retrosynthesis. 
-  link:
-    url: https://github.com/coleygroup/Graph2SMILES
+- title: "PMO"
+  description: PMO (Practical Molecular Optimization) is a open-source benchmark to facilitate the transparent and reproducible evaluation of algorithmic advances in molecular optimization. This repository supports 25 molecular design algorithms on 23 tasks with a particular focus on sample efficiency (oracle calls).
+  links:
+    - label: "GitHub"
+      url: https://github.com/wenhao-gao/mol_opt
   themes:
-    - predictive chemistry
+    - design and optimization
 
 - title: "PyScreener"
   description: A pythonic interface to high-throughput virtual screening software. It was designed to have a minimal interface under the principal that a high-throughput virtual screen is intended to be a broad strokes technique to gauge ligand favorability. It supports Vina, Quick-Vina, Smina, Psovina, and DOCK6.
-  link:
-    url: https://github.com/coleygroup/pyscreener
+  links:
+    - label: "GitHub"
+      url: https://github.com/coleygroup/pyscreener
   themes:
     - automation
     - molecular representation
@@ -123,7 +179,113 @@
 - title: "MolPAL"
   image: Logo_molpal.png
   description: MolPAL is a software for the accelerated discovery of compounds in high-throughput virtual screening environments. Bayesian optimization algorithms for docking-based virtual screening decreases the computational cost of using docking to identify the majority of top-scoring compounds in virtual libraries by over an order of magnitude, aided by surrogate machine learning models that prioritize the screening of molecules that are associated with better docking scores.
-  link:
-    url: https://github.com/coleygroup/molpal
+  links:
+    - label: "GitHub"
+      url: https://github.com/coleygroup/molpal
   themes:
     - design and optimization
+
+- title: "Graph2Smiles"
+  description: Graph2Smiles is a graph-to-sequence model that predicts the SMILES string of a reaction product given a reaction template and a reactant molecule for one-step retrosynthesis. 
+  links:
+    - label: "GitHub"
+      url: https://github.com/coleygroup/Graph2SMILES
+  themes:
+    - predictive chemistry
+
+- title: "ROGI (-XD)"
+  description: ROGI is a quantitative metric for describing the roughness of molecular property landscapes, inspired by fractal dimension, which helps characterize the presence of activity cliffs and correlates with the out-of-sample error of machine learning models in molecular property prediction. ROGI-XD extends this framework to evaluate the roughness of learned representations from chemical foundation models, enabling assessment of how well these models capture the geometric complexity of molecular property landscapes.  
+  links:
+    - label: "GitHub (ROGI)"
+      url: https://github.com/coleygroup/rogi
+    - label: "GitHub (ROGI-XD)"
+      url: https://github.com/coleygroup/rogi-xd
+  themes:
+    - molecular representation
+
+# - title: DESP
+#   image: Logo_desp.png
+#   description: DESP is a workflow for double-ended synthesis planning with goal-constrained bidirectional search. It is designed to find the shortest path between a target product and a starting material, while also ensuring that the path is feasible and meets certain design constraints.
+#   links:
+#     - label: "GitHub"
+#       url: https://github.com/coleygroup/desp
+#   themes:
+#     - predictive chemistry
+
+# - title: "ContraScope"
+#   image: Logo_contrascope.png
+#   description: ContraScope introduces a novel pre-training strategy, substrate scope contrastive learning, which learns atomic representations tailored to chemical reactivity. This method considers the grouping of substrates and their yields in published substrate scope tables as a measure of their similarity or dissimilarity in terms of chemical reactivity.
+#   links:
+#     - label: "GitHub"
+#       url: https://github.com/wenhao-gao/substrate_scope_contrastive_learning
+#   themes:
+#     - molecular representation
+#     - predictive chemistry
+
+
+- title: "Polymer Chemprop"
+  description: Polymer Chemprop adapts the Chemprop message-passing neural network architecture for predicting polymer properties. It supports training and evaluation workflows tailored to polymer datasets, enabling accurate property prediction and materials design.
+  links:
+    - label: "GitHub"
+      url: https://github.com/coleygroup/polymer-chemprop
+  themes:
+    - molecular representation
+    - predictive chemistry
+
+- title: "Library Synthesis Tools"
+  description: libsyn_tools is a set of Python utilities for designing and analyzing library synthesis campaigns, including enumeration, plate mapping, and data processing workflows.
+  links:
+    - label: "GitHub"
+      url: https://github.com/qai222/libsyn_tools
+  themes:
+    - automation
+    - design and optimization
+
+- title: "Pipette Scheduling"
+  description: CVRP Pipette Scheduling formulates high-throughput liquid-handling operations as a capacitated vehicle routing problem to minimize execution time on multi-channel pipetting robots.
+  links:
+    - label: "GitHub"
+      url: https://github.com/wuRoy/CVRP_pipette_scheduling
+  themes:
+    - automation
+
+- title: "QM-augmented GNN"
+  description: QM-augmented GNN integrates quantum-mechanical descriptors with graph neural networks to improve molecular property prediction and reaction-barrier estimation. The repository provides code to featurize molecules with QM calculations and train augmented models.
+  links:
+    - label: "GitHub"
+      url: https://github.com/coleygroup/QM-augmented_GNN
+  themes:
+    - molecular representation
+    - predictive chemistry
+
+
+- title: "SCARF"
+  description: SCARF (Prefix-Tree Decoding for Predicting Mass Spectra from Molecules) uses an intermediate strategy for predicting mass spectra from molecules by treating mass spectra as sets of molecular formulae. After first encoding an input molecular graph, we decode a set of molecular subformulae, each of which specify a predicted peak in the mass spectrum, the intensities of which are predicted by a second model. The model has been depreciated in favor of a new model "ICEBERG".
+  links:
+    - label: "GitHub"
+      url: https://github.com/samgoldman97/ms-pred
+  themes:
+    - metabolomics
+  deprecated: true
+
+- title: "SynNet"
+  image: Logo_synnet.png
+  description: SynNet is an amortized approach to generate synthetic pathways as a Markov decision process conditioned on a target molecular embedding. This approach allows us to conduct synthesis planning in a bottom-up manner and design synthesizable molecules by decoding from optimized conditional codes. The approach leverages neural networks to probabilistically model the synthetic trees, one reaction step at a time, according to reactivity rules encoded in a discrete action space of reaction templates. The model has been depreciated in favor of a new model "SynFormer".
+  links:
+    - label: "GitHub"
+      url: https://github.com/wenhao-gao/SynNet
+  themes:
+    - design and optimization
+    - molecular representation
+  deprecated: true
+
+- title: "SQUID"
+  image: Logo_squid.png
+  description: SQUID is a multimodal 3D generative model that enables shape-conditioned 3D molecular design by equivariantly encoding molecular shape and variationally encoding chemical identity. We ensure local geometric and chemical validity of generated molecules by using autoregressive fragment-based generation with heuristic bonding geometries, allowing the model to prioritize the scoring of rotatable bonds to best align the growing conformational structure to the target shape. The model has been depreciated in favor of a new model "ShEPhERD".
+  links:
+    - label: "GitHub"
+      url: https://github.com/keiradams/SQUID
+  themes:
+    - molecular representation
+    - design and optimization
+  deprecated: true
