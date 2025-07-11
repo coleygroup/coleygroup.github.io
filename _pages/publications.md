@@ -105,7 +105,7 @@ permalink: /publications
       publicationItems.forEach(item => {
         const itemThemes = item.getAttribute('data-themes').split(',');
 
-        if (activeThemes.length === 0 || activeThemes.some(theme => itemThemes.includes(theme))) {
+        if (activeThemes.length === 0 || activeThemes.every(theme => itemThemes.includes(theme))) {
           item.style.display = 'block';
         } else {
           item.style.display = 'none';
