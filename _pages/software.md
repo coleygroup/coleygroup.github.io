@@ -18,11 +18,15 @@ permalink: /software
       margin-right: 5px;
       cursor: pointer;
   }
+  .software-item.deprecated {
+      filter: grayscale(100%);
+      opacity: 0.7;
+  }
 </style>
 
 # Software
 
-We are generally committed to providing open-source software and tools for the scientific community. Our group Github organization can be found [here](https://github.com/coleygroup), and we highlight a number of software tools below.
+#### We are generally committed to providing open-source software and tools for the scientific community. Our group Github organization can be found [here](https://github.com/coleygroup), and we highlight a number of software tools below.
 
 <!-- Display all possible research themes as filter buttons -->
 <p>
@@ -40,16 +44,15 @@ We are generally committed to providing open-source software and tools for the s
 <div class="row">
 {% endif %}
 
-<div class="software-item col-sm-6 clearfix" data-themes="{{ tool.themes | join: ',' }}">
+<div class="software-item col-sm-6 clearfix {% if tool.deprecated %}deprecated{% endif %}" data-themes="{{ tool.themes | join: ',' }}">
  <div class="well">
-  {% if tool.image %}<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/{{ tool.image }}" class="software-img" width="33%" style="float: left" />{% endif %}
+  {% if tool.image %}<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/{{ tool.image }}" class="software-img" style="float:left;" />{% endif %}
   <pubtit>{{ tool.title }}</pubtit>
-  <br/>
-  <i> <a href="{{ tool.link.url }}"> {{ tool.link.url }} </a> </i>
+  <div style="clear: both;"></div>
+  {% if tool.links -%}{% for l in tool.links -%}<strong>{{ l.label }}:</strong> <a href="{{ l.url }}">{{ l.url }}</a><br/>{%- endfor -%}{% elsif tool.link -%}<a href="{{ tool.link.url }}">{{ tool.link.url }}</a>{%- endif %}
   <hr>
   <p>{{ tool.description }}</p>
   <p><em>{{ tool.authors }}</em></p>
-  <p><strong><a href="{{ tool.link.url }}">{{ tool.link.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ tool.news1 }}</strong></p>
   <p> {{ tool.news2 }}</p>
   {% if tool.themes %}{% for theme in tool.themes %}{% assign theme_data = themes | where: "name", theme | first %}{% if theme_data %}<span class="badge badge-pill badge-pill-custom" style="background-color: {{ theme_data.color }}">{{ theme }}</span>{% endif %}{% endfor %}
@@ -68,6 +71,51 @@ We are generally committed to providing open-source software and tools for the s
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
+{% endif %}
+
+<hr>
+
+## Open software that we contribute to
+
+{% assign contributed = site.data.contributed_software %}
+{% if contributed and contributed.size > 0 %}
+{% assign number_printed = 0 %}
+{% for tool in contributed %}
+
+{% assign even_odd_contrib = number_printed | modulo: 2 %}
+
+{% if even_odd_contrib == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="software-item col-sm-6 clearfix" data-themes="{{ tool.themes | join: ',' }}">
+ <div class="well">
+  {% if tool.image %}<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/{{ tool.image }}" class="software-img" style="float:left;" />{% endif %}
+  <pubtit>{{ tool.title }}</pubtit>
+  <div style="clear: both;"></div>
+  {% if tool.links -%}{% for l in tool.links -%}<strong>{{ l.label }}:</strong> <a href="{{ l.url }}">{{ l.url }}</a><br/>{%- endfor -%}{% elsif tool.link -%}<a href="{{ tool.link.url }}">{{ tool.link.url }}</a>{%- endif %}
+  <hr>
+  <p>{{ tool.description }}</p>
+  <p><em>{{ tool.authors }}</em></p>
+  <p class="text-danger"><strong> {{ tool.news1 }}</strong></p>
+  <p> {{ tool.news2 }}</p>
+  {% if tool.themes %}{% for theme in tool.themes %}{% assign theme_data = themes | where: "name", theme | first %}{% if theme_data %}<span class="badge badge-pill badge-pill-custom" style="background-color: {{ theme_data.color }}">{{ theme }}</span>{% endif %}{% endfor %}
+  {% endif %}
+ </div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd_contrib == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd_contrib = number_printed | modulo: 2 %}
+{% if even_odd_contrib == 1 %}
+</div>
+{% endif %}
 {% endif %}
 
 <!-- JavaScript for filtering software items -->
