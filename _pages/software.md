@@ -26,7 +26,7 @@ permalink: /software
 
 # Software
 
-#### We are generally committed to providing open-source software and tools for the scientific community. Our group Github organization can be found [here](https://github.com/coleygroup), and we highlight a number of software tools below.
+We are committed to providing open-source software and tools for the scientific community. Our group Github organization can be found [here](https://github.com/coleygroup). Below, we highlight a number of software tools from our publications. Older software tools that we believe have been fully supplanted by more recent ones are greyed out. 
 
 <!-- Display all possible research themes as filter buttons -->
 <p>
@@ -34,6 +34,7 @@ permalink: /software
   **Research Themes:** (select to filter)
   {% for theme in themes %}<span class="badge badge-pill badge-pill-custom filter-button" data-theme="{{ theme.name }}" data-color="{{ theme.color }}" data-darker-color="{{ theme.darker_color }}" style="background-color: {{ theme.color }}">{{ theme.name }}</span>{% endfor %}
 </p>
+---
 
 {% assign number_printed = 0 %}
 {% for tool in site.data.software %}
