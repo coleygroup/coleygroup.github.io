@@ -26,7 +26,7 @@ permalink: /software
 
 # Software
 
-We are committed to providing open-source software and tools for the scientific community. Our group Github organization can be found [here](https://github.com/coleygroup). Below, we highlight a number of software tools from our publications. Older software tools that we believe has been fully supplanted by more recent ones are greyed out. 
+We are committed to providing open-source software and tools for the scientific community. Our group Github organization can be found [here](https://github.com/coleygroup). Below, we highlight a number of software tools from our publications. Older software tools that we believe have been fully supplanted by more recent ones are greyed out. 
 
 <!-- Display all possible research themes as filter buttons -->
 <p>
