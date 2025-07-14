@@ -31,6 +31,18 @@
 #     - metabolomics
 #     - data
 
+- title: "Data-Driven Recommendation of Agents, Temperature, and Equivalence Ratios for Organic Synthesis"
+  authors: Sun, X., Liu, J., Majour, B., Jensen, K.F., Coley, C.W.
+  journal: ChemRxiv
+  year: 2025
+  url: https://doi.org/10.26434/chemrxiv-2025-4wzkh
+  preprint: 10.26434/chemrxiv-2025-4wzkh
+  preprint_url: https://chemrxiv.org/engage/chemrxiv/article-details/686809c0c1cb1ecda020efc1
+  preprint_year: 2025
+  preprint_site: chemrxiv
+  themes:
+    - predictive chemistry
+    - data
 
 - title: "Optimization of robotic liquid handling as a capacitated vehicle routing problem"
   authors: Wu, G., Wang, R., Coley, C.W.
@@ -477,11 +489,25 @@
   journal: J. Chem. Inf. Model.
   volume: 64
   issue: 8
-  pages: 2948–2954
+  pages: 2948-2954
   year: 2024
   url: https://doi.org/10.1021/acs.jcim.4c00138
   doi: 10.1021/acs.jcim.4c00138
   themes:
+    - predictive chemistry
+    - data
+
+- title: "Beyond Major Product Prediction: Reproducing Reaction Mechanisms with Machine Learning Models Trained on a Large-Scale Mechanistic Dataset"
+  authors: Joung, J.F., Fong, M.H., Roh, J., Tu, Z., Bradshaw, J., Coley, C.W.
+  journal: arXiv
+  year: 2024
+  url: https://doi.org/10.48550/arXiv.2403.04580
+  preprint: arXiv:2403.04580
+  preprint_url: https://arxiv.org/abs/2403.04580
+  preprint_site: arxiv
+  preprint_year: 2024
+  themes:
+    - molecular representation
     - predictive chemistry
     - data
 
@@ -936,7 +962,7 @@
   authors: Goldman, S., Wohlwend, J., Stražar, M., Haroush, G., Xavier, R.J., Coley, C.W.
   journal: Nat. Mach. Intell.
   volume: 5
-  pages: 965–979
+  pages: 965-979
   year: 2022
   url: https://doi.org/10.1038/s42256-023-00708-3
   doi: 10.1038/s42256-023-00708-3
@@ -1137,7 +1163,7 @@
   journal: J. Chem. Inf. Model.
   volume: 62
   issue: 16
-  pages: 3854–3862
+  pages: 3854-3862
   year: 2022
   url: https://doi.org/10.1021/acs.jcim.2c00554
   doi: 10.1021/acs.jcim.2c00554
@@ -1145,6 +1171,18 @@
   preprint_url: https://doi.org/10.48550/arXiv.2205.01753
   preprint_site: arxiv
   preprint_year: 2022
+  themes:
+    - design and optimization
+
+- title: "Machine Learning on DNA-Encoded Library Count Data Using an Uncertainty-Aware Probabilistic Loss Function"
+  authors: Lim, K. S., Reidenbach, A. G., Hua, B. K., Mason, J. W., Gerry, C. J., Clemons, P. A., Coley, C. W.
+  journal: J. Chem. Inf. Model.
+  volume: 62
+  issue: 10
+  pages: 2316-2331
+  year: 2022
+  doi: 10.1021/acs.jcim.2c00041
+  url: https://doi.org/10.1021/acs.jcim.2c00041
   themes:
     - design and optimization
 
