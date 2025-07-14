@@ -8,7 +8,7 @@ blacklisted_dois:
   - "10.48550/arXiv.2307.08423" # Massive review
 
 blacklisted_arxiv_ids:
-  # Example: "2023.12345"
+  - "2403.04580" # duplicate already in publications.yml
 
 blacklisted_titles:
   # Note: These are matched against normalized titles (lowercase, no punctuation)

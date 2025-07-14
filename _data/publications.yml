@@ -387,7 +387,7 @@
   year: 2024
   url: https://doi.org/10.1002/anie.202411296
   doi: 10.1002/anie.202411296
-  preprint: arXiv:2403.04580  
+  preprint: arXiv:2403.04580
   preprint_url: https://doi.org/10.48550/arXiv.2403.04580
   preprint_year: 2024
   preprint_site: arxiv
@@ -494,20 +494,6 @@
   url: https://doi.org/10.1021/acs.jcim.4c00138
   doi: 10.1021/acs.jcim.4c00138
   themes:
-    - predictive chemistry
-    - data
-
-- title: "Beyond Major Product Prediction: Reproducing Reaction Mechanisms with Machine Learning Models Trained on a Large-Scale Mechanistic Dataset"
-  authors: Joung, J.F., Fong, M.H., Roh, J., Tu, Z., Bradshaw, J., Coley, C.W.
-  journal: arXiv
-  year: 2024
-  url: https://doi.org/10.48550/arXiv.2403.04580
-  preprint: arXiv:2403.04580
-  preprint_url: https://arxiv.org/abs/2403.04580
-  preprint_site: arxiv
-  preprint_year: 2024
-  themes:
-    - molecular representation
     - predictive chemistry
     - data
 
