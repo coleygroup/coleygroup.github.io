@@ -31,6 +31,18 @@
 #     - metabolomics
 #     - data
 
+- title: "Anticipating the Selectivity of Cyclization Reaction Pathways with Neural Network Potentials"
+  authors: Nicholas Casetti, Dylan Anstine, Olexandr Isayev, Connor W. Coley
+  journal: arXiv
+  year: 2025
+  url: https://doi.org/10.48550/arXiv.2507.10400
+  preprint: arXiv:2507.10400
+  preprint_url: https://doi.org/10.48550/arXiv.2507.10400
+  preprint_year: 2025
+  preprint_site: arxiv
+  themes:
+    - predictive chemistry
+
 - title: "Data-Driven Recommendation of Agents, Temperature, and Equivalence Ratios for Organic Synthesis"
   authors: Sun, X., Liu, J., Majour, B., Jensen, K.F., Coley, C.W.
   journal: ChemRxiv
