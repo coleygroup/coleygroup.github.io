@@ -26,10 +26,11 @@
   description: Nathan is a freshman studying EECS (6-5) at MIT. He is interested in exploring concepts in chemical informatics and machine learning through projects in devices and instrument automation.
 
 - name: Ne Dassanayake
-  photo: placeholder.png
+  photo: Ne_Dassanayake.jpeg
   info: UROP @ MIT
-  email:
-  description:
+  email: nedassa@mit.edu
+  linkedin: https://www.linkedin.com/in/nethaka-dassanayake-b48726258/
+  description: Ne is a senior studying 6-3 and 8 at MIT. He is interested in the application of generative modeling to both drug design and reaction mechanisms.
 
 - name: Ray Wang
   photo: Ray_Wang.JPG
