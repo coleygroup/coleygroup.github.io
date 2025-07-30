@@ -31,6 +31,21 @@
 #     - metabolomics
 #     - data
 
+- title: "Autonomous discovery of functional random heteropolymer blends through evolutionary formulation optimization"
+  authors: Wu, G., Jin, T., Alexander-Katz, A., Coley, C.W.
+  journal: Matter
+  year: 2025
+  url: https://doi.org/10.1016/j.matt.2025.102336
+  doi: 10.1016/j.matt.2025.102336
+  pages: 102336
+  preprint: 10.26434/chemrxiv-2024-nh0xn
+  preprint_url: https://chemrxiv.org/engage/chemrxiv/article-details/671123ff51558a15ef59f01a
+  preprint_year: 2025
+  preprint_site: chemrxiv
+  themes:
+    - design and optimization
+    - automation
+
 - title: "Anticipating the Selectivity of Cyclization Reaction Pathways with Neural Network Potentials"
   authors: Nicholas Casetti, Dylan Anstine, Olexandr Isayev, Connor W. Coley
   journal: arXiv
@@ -319,19 +334,6 @@
   themes:
     - molecular representation
     - predictive chemistry
-
-- title: "Autonomous discovery of functional random heteropolymer blends through evolutionary formulation optimization"
-  authors: Wu, G., Jin, T., Alexander-Katz, A., Coley, C.W.
-  journal: ChemRxiv
-  year: 2024
-  url: https://chemrxiv.org/engage/chemrxiv/article-details/671123ff51558a15ef59f01a
-  preprint: 10.26434/chemrxiv-2024-nh0xn
-  preprint_url: https://chemrxiv.org/engage/chemrxiv/article-details/671123ff51558a15ef59f01a
-  preprint_year: 2024
-  preprint_site: chemrxiv
-  themes:
-    - design and optimization
-    - automation
 
 - title: "ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design"
   authors: Adams, K., Abeywardane, K.A., Fromer, J., Coley, C.W.
