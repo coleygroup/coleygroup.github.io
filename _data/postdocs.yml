@@ -26,3 +26,10 @@
   linkedin: https://www.linkedin.com/in/jonas-rein-68a59a23b
   description: Jonas completed his PhD in Organic Chemistry at Cornell University with Prof. Song Lin in 2024. His postdoctoral research seeks to integrate organic chemistry with data-driven approaches to systematically identify gaps in the current landscape of organic synthesis and accelerate the discovery of innovative solutions in the laboratory.
   
+- name: Justin Bui
+  photo: Justin_Bui.jpg
+  info: Postdoctoral Associate
+  email: jcbui@mit.edu
+  linkedin: https://www.linkedin.com/in/justincbui/
+  twitter: https://x.com/JustinBui888
+  description: Justin received his Ph.D. in Chemical Engineering at UC Berkeley working with Dr. Adam Weber and Prof. Alexis Bell in 2024 where he used continuum modeling to resolve coupled transport and kinetics in electro-membrane and electrocatalytic systems. Afterwards, he spent a year as a postdoc at Caltech, working with Prof. Karthish Manthiram to develop flow reactors for electrochemical ammonia synthesis. At MIT, Justin is continuing his postdoc research co-advised by Profs. Klavs Jensen and Connor Coley, working to develop ML tools to identify and optimize organic reactions that can be performed electrochemically.
