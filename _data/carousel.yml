@@ -19,8 +19,8 @@
 - title: FlowER
   description: Electron flow matching for generative reaction mechanism prediction obeying conservation laws
   image: /images/carouselpic/flower.png
-  link: https://arxiv.org/abs/2502.12979
-  date: 2025-03-15
+  link: https://www.nature.com/articles/s41586-025-09426-9#citeas
+  date: 2025-08-20
 
 - title: ContraScope
   description: Revealing the Relationship between Publication Bias and Chemical Reactivity with Contrastive Learning
