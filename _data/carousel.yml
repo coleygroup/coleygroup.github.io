@@ -17,7 +17,7 @@
   date: 2025-06-01 
 
 - title: FlowER
-  description: Electron flow matching for generative reaction mechanism prediction obeying conservation laws
+  description: Electron flow matching for generative reaction mechanism prediction
   image: /images/carouselpic/flower.png
   link: https://www.nature.com/articles/s41586-025-09426-9#citeas
   date: 2025-08-20
