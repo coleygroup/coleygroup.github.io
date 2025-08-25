@@ -31,6 +31,19 @@
 #     - metabolomics
 #     - data
 
+- title: "Electron flow matching for generative reaction mechanism prediction"
+  authors: Joung, J.F., Fong, M.H., Casetti, N., Liles, J.P., Dassanayake, N.S., Coley, C.W. 
+  journal: Nature
+  year: 2025
+  url: https://www.nature.com/articles/s41586-025-09426-9
+  doi: 10.1038/s41586-025-09426-9
+  preprint: arXiv:2502.12979
+  preprint_url: https://arxiv.org/abs/2502.12979
+  preprint_year: 2025
+  preprint_site: arxiv
+  themes:
+    - predictive chemistry
+
 - title: "Autonomous discovery of functional random heteropolymer blends through evolutionary formulation optimization"
   authors: Wu, G., Jin, T., Alexander-Katz, A., Coley, C.W.
   journal: Matter
@@ -224,18 +237,6 @@
   preprint_site: arxiv
   themes:
     - molecular representation
-
-- title: "Electron flow matching for generative reaction mechanism prediction obeying conservation laws"
-  authors: Joung, J.F., Fong, M.H., Casetti, N., Liles, J.P., Dassanayake, N.S., Coley, C.W. 
-  journal: arXiv
-  year: 2025
-  url: https://arxiv.org/abs/2502.12979
-  preprint: arXiv:2502.12979
-  preprint_url: https://arxiv.org/abs/2502.12979
-  preprint_year: 2025
-  preprint_site: arxiv
-  themes:
-    - predictive chemistry
 
 - title: "DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra"
   authors: Bohde, M., Manjrekar, M., Wang, R., Ji, S., Coley, C.W. 
