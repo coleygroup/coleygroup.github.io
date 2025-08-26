@@ -13,14 +13,6 @@
   linkedin: https://www.linkedin.com/in/anji-zhang/
   description: Anji graduated from the University of Toronto with a B.S. in Chemistry, where she worked on reaction methodology and automation. She is now pursuing her PhD in Chemistry at MIT as a co-advised student with Timothy Jamison, where her research focuses on using machine learning for reaction outcome prediction and data-driven reaction optimization.
 
-- name: Herry (Tianyi) Jin
-  photo: Herry_Jin.jpg
-  info: PhD Student
-  email: herryjin@mit.edu
-  twitter: https://twitter.com/HerryJin
-  linkedin: https://www.linkedin.com/in/tianyi-herry-jin-007237127/
-  description: Herry received his B.S. in Chemical Engineering and Mathematics from UW-Madison in 2020 and now is a PhD student at MIT in Chemical Engineering, co-advised with Alfredo Alexander-Katz. He is interested in using machine learning and molecular modeling to promote enzyme stability via random copolymers.
-
 - name: Jenna Fromer
   photo: Jenna_Fromer.jpeg
   info: PhD Student
@@ -96,14 +88,6 @@
   email: suongtr@mit.edu
   linkedin: https://www.linkedin.com/in/suong-tran-6925a8195/
   description: Suong earned her BS in Chemistry and Data Analytics from Dickinson College in 2024. She is currently pursuing a PhD in Chemistry at MIT, with a focus on applying machine learning and data-driven approaches to synthesis planning.
-
-- name: Wenhao Gao
-  photo: Wenhao_Gao.jpeg
-  info: PhD Student
-  email: whgao@mit.edu
-  twitter: https://twitter.com/WenhaoGao1
-  linkedin: https://www.linkedin.com/in/wenhao-gao-5bba5817b/
-  description: Wenhao received his B.S. in Chemistry from Peking University and his M.S. in Chemical and Biomolecular Engineering from Johns Hopkins University. He joined the group in 2020 and his research interest focuses on using artificial intelligence and robotic automation to accelerate biological and chemical discovery processes.
 
 - name: Xiaoqi Sun
   photo: Xiaoqi_Sun.jpeg
