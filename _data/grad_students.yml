@@ -42,10 +42,10 @@
 
 - name: Kevin Yu
   photo: Kevin_Yu.jpeg
-  info: SM Student
+  info: PhD Student
   email: kyu3@mit.edu
   linkedin: https://www.linkedin.com/in/kevin-yu-854b09174/
-  description: Kevin received his BS in Chemistry and CS from Caltech in 2022 and is now an SM student at MIT in Computational Science and Engineering. He is broadly interested in developing predictive tools and algorithms that can benefit synthetic chemists, with a focus on synthesis planning for complex molecules.
+  description: Kevin received his BS in Chemistry and CS from Caltech in 2022 and an SM in Computational Science and Engineering from MIT. He is now a PhD student at MIT in Electrical Engineering and Computer Science. In addition to predictive chemistry methods, especially for synthesis planning, he is interested in how machine learning and cheminformatics can be leveraged for generating scientific insight or accelerating reaction discovery and development.
 
 - name: Matthew Cox
   photo: Matthew_Cox.jpeg
