@@ -9,6 +9,7 @@ blacklisted_dois:
 
 blacklisted_arxiv_ids:
   - "2403.04580" # duplicate already in publications.yml
+  - "2502.12979" # duplicate already in publications.yml
 
 blacklisted_titles:
   # Note: These are matched against normalized titles (lowercase, no punctuation)
