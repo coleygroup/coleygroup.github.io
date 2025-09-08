@@ -31,6 +31,31 @@
 #     - metabolomics
 #     - data
 
+- title: "Data-Driven Recommendation of Agents, Temperature, and Equivalence Ratios for Organic Synthesis"
+  authors: Sun, X., Liu, J., Majour, B., Jensen, K.F., Coley, C.W.
+  journal: Chem. Sci
+  doi: 10.1039/D5SC04957A
+  year: 2025
+  url: https://doi.org/10.1039/D5SC04957A
+  preprint: 10.26434/chemrxiv-2025-4wzkh
+  preprint_url: https://chemrxiv.org/engage/chemrxiv/article-details/686809c0c1cb1ecda020efc1
+  preprint_year: 2025
+  preprint_site: chemrxiv
+  themes:
+    - predictive chemistry
+    - data
+
+- title: "The Future of Artificial Intelligence and the Mathematical and Physical  Sciences (AI+MPS)"
+  authors: Ferguson, et al
+  journal: arXiv
+  year: 2025
+  doi: 10.48550/arXiv.2509.02661
+  url: https://doi.org/10.48550/arXiv.2509.02661
+  preprint: arXiv:2509.02661
+  preprint_url: https://arxiv.org/abs/2509.02661
+  preprint_site: arxiv
+  preprint_year: 2025
+
 - title: "Electron flow matching for generative reaction mechanism prediction"
   authors: Joung, J.F., Fong, M.H., Casetti, N., Liles, J.P., Dassanayake, N.S., Coley, C.W. 
   journal: Nature
@@ -70,19 +95,6 @@
   preprint_site: arxiv
   themes:
     - predictive chemistry
-
-- title: "Data-Driven Recommendation of Agents, Temperature, and Equivalence Ratios for Organic Synthesis"
-  authors: Sun, X., Liu, J., Majour, B., Jensen, K.F., Coley, C.W.
-  journal: ChemRxiv
-  year: 2025
-  url: https://doi.org/10.26434/chemrxiv-2025-4wzkh
-  preprint: 10.26434/chemrxiv-2025-4wzkh
-  preprint_url: https://chemrxiv.org/engage/chemrxiv/article-details/686809c0c1cb1ecda020efc1
-  preprint_year: 2025
-  preprint_site: chemrxiv
-  themes:
-    - predictive chemistry
-    - data
 
 - title: "Optimization of robotic liquid handling as a capacitated vehicle routing problem"
   authors: Wu, G., Wang, R., Coley, C.W.
