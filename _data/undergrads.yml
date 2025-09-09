@@ -44,7 +44,7 @@
   photo: Greycen_Ren.png
   info: UROP @ MIT
   email: greyren@mit.edu
-  description: Greycen is a senior in 6-7 and 18 at MIT. He's interested in computational methods with applications in biology and chemistry.  
+  description: Greycen is a senior in 6-7 and 18 at MIT. He's interested in computational methods with applications in biology and chemistry.
 
 - name: Janet Guo
   photo: Janet_Guo.png
@@ -57,3 +57,9 @@
   info: UROP @ MIT
   email: phoenixw@mit.edu
   description: Phoenix is a junior in 6-4 (AI and Decision Making) at MIT. He is interested in developing computer aided synthesis planning tools for organic chemistry.
+
+- name: Gozel Dovranova
+  photo: Gozel_Dovranova.jpg
+  info: UROP @ MIT
+  email: gozel@mit.edu
+  description: Gozel is a senior double majoring in 10 (Chemical Engineering) and 6-4 (AI and Decision Making). She is interested in the application of machine learning to synthesis prediction in organic chemistry.
