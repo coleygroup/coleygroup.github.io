@@ -31,6 +31,18 @@
 #     - metabolomics
 #     - data
 
+- title: "Neural Spectral Prediction for Structure Elucidation with Tandem Mass Spectrometry"
+  authors: Wang, R., Manjrekar, M., Mahjour, B., Avila-Pacheco, J., Provenzano, J., Reynolds, E., Lederbauer, M., Mashin, E., Goldman, S., Wang, M., Weng, J.K., Plata, D.L., Clish, C.B., Coley, C.W.
+  journal: bioRxiv
+  year: 2025
+  url: https://doi.org/10.1101/2025.05.28.656653
+  preprint: bioRxiv:2025.05.28.656653
+  preprint_url: https://www.biorxiv.org/content/10.1101/2025.05.28.656653v1
+  preprint_site: biorxiv
+  preprint_year: 2025
+  themes:
+    - metabolomics
+
 - title: "Data-Driven Recommendation of Agents, Temperature, and Equivalence Ratios for Organic Synthesis"
   authors: Sun, X., Liu, J., Majour, B., Jensen, K.F., Coley, C.W.
   journal: Chem. Sci
@@ -98,9 +110,10 @@
 
 - title: "Optimization of robotic liquid handling as a capacitated vehicle routing problem"
   authors: Wu, G., Wang, R., Coley, C.W.
-  journal: arXiv
+  journal: Digital Discovery
   year: 2025
-  url: https://doi.org/10.48550/arXiv.2506.02795
+  doi: 10.1039/D5DD00233H
+  url: https://doi.org/10.1039/D5DD00233H
   preprint: arXiv:2506.02795
   preprint_url: https://arxiv.org/abs/2506.02795
   preprint_year: 2025
