@@ -31,6 +31,15 @@
 #     - metabolomics
 #     - data
 
+- title: "A generative deep learning approach to de novo antibiotic design"
+  authors: Krishnan, A., Valeri, J.A., Jin, W., Donghia, N.M., Sieben, L., Luttens, A., Zhang, Y., Modaresi, S.M., Hennes, A., Fromer, J., Bandyopadhyay, P., Chen, J.C., Rehman, D., Desai, R., Edwards, P., Lach, R.S., Aschtgen, M.-S., Gaborieau, M., Gaetani, M., Palace, S.G., Omori, S., Khonde, L., Moroz, Y.S., Blough, B., Jin, C., Loh, E., Grad, Y.H., Saei, A.A., Coley, C.W., Wong, F., Collins, J.J.
+  jouranl: Cell
+  year: 2025
+  url: https://doi.org/10.1016/j.cell.2025.07.033
+  doi: 10.1016/j.cell.2025.07.033
+  themes:
+    - design and optimization
+
 - title: "Neural Spectral Prediction for Structure Elucidation with Tandem Mass Spectrometry"
   authors: Wang, R., Manjrekar, M., Mahjour, B., Avila-Pacheco, J., Provenzano, J., Reynolds, E., Lederbauer, M., Mashin, E., Goldman, S., Wang, M., Weng, J.K., Plata, D.L., Clish, C.B., Coley, C.W.
   journal: bioRxiv
@@ -58,7 +67,7 @@
     - data
 
 - title: "The Future of Artificial Intelligence and the Mathematical and Physical  Sciences (AI+MPS)"
-  authors: Ferguson, et al
+  authors: Ferguson, A., ..., Coley, C.W., et al
   journal: arXiv
   year: 2025
   doi: 10.48550/arXiv.2509.02661
@@ -310,6 +319,25 @@
   themes:
     - molecular representation
     - design and optimization
+
+- title: "Artificial intelligence for science: Quantum, atomistic, and continuum systems"
+  authors: Zhang, X., ..., Adams, K., Bohde, M., Coley, C.W., et al
+  journal: Found. Trends in ML
+  year: 2025
+  volume: 18
+  issue: 4
+  pages: 385-912
+  doi: 10.1561/2200000115
+  url: http://dx.doi.org/10.1561/2200000115
+  preprint: arXiv:2307.08423
+  preprint_url: https://arxiv.org/abs/2307.08423
+  preprint_site: arxiv
+  preprocess_year: 2023
+  themes:
+    - molecular representation
+    - design and optimization
+    - predictive chemistry
+    - data
 
 - title: "Comment on 'Molecular hypergraph neural networks'"
   authors: Casetti, N., Nevatia, P., Chen, J., Schwaller, P., Coley, C.W. 
@@ -767,21 +795,6 @@
     - design and optimization
     - predictive chemistry
     - automation
-    - data
-
-- title: "Artificial intelligence for science: Quantum, atomistic, and continuum systems"
-  authors: Zhang, X., Wang, L., Helwig, J., Luo, Y., Fu, C., Xie, Y., Adams, K., Coley, C.W., Qian, X., Qian, X., Smidt, T., Ji, S.
-  journal: arxiv
-  year: 2023
-  url: https://arxiv.org/abs/2307.08423
-  preprint: arXiv:2307.08423
-  preprint_url: https://arxiv.org/abs/2307.08423
-  preprint_site: arxiv
-  preprocess_year: 2023
-  themes:
-    - molecular representation
-    - design and optimization
-    - predictive chemistry
     - data
 
 - title: "PyLabRobot: An open-source hardware agnostic interface for liquid-handling robots and accessories"
