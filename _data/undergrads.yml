@@ -75,4 +75,11 @@
   info: UROP @ Harvard
   email: anwolff@college.harvard.edu
   description: Aquila is a junior studying Chemistry and Physics at Harvard. His main interests are synthesis route design and reaction prediction through computational methods.
-  
+
+
+- name: Hasan Alkhalifa
+  photo: Hasan_Alkhalifa.jpg
+  info: UROP @ MIT
+  email: hkhalifa@mit.edu
+  linkedin: https://www.linkedin.com/in/hasan-alkhalifa/
+  description: Hasan Alkhalifa is a sophomore majoring in Chemical Engineering (10). He is passionate about integrating machine learning with chemical research to accelerate the design of pharmaceuticals and catalysts, aiming to bridge data-driven methods with experimental innovation.
