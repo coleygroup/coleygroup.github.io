@@ -31,6 +31,28 @@
 #     - metabolomics
 #     - data
 
+- title: "Anomeric Selectivity of Glycosylations Through a Machine Learning Lens"
+  authors: Faurschou, N.V., Friis, V., Raghavan, P., Pedersen, C.M., Coley, C.W.
+  journal: J. Am. Chem. Soc.
+  year: 2025
+  url: https://pubs.acs.org/doi/10.1021/jacs.5c07561
+  doi: 10.1021/jacs.5c07561
+  preprint: 10.26434/chemrxiv-2024-jw9dx
+  preprint_url: https://chemrxiv.org/engage/chemrxiv/article-details/673390225a82cea2fae7c23e
+  preprint_year: 2024
+  preprint_site: chemrxiv
+  themes:
+    - predictive chemistry
+
+- title: "Seeking Precise Protein-like Functions from Random Heteropolymer Ensemble and through Dimensionality Reduction"
+  authors: Wu, G., Jin, T., Zhou, H., Coley, C.W., Alexander-Katz, A., Lu, H.
+  journal: ACS Cent. Sci.
+  year: 2025
+  url: https://doi.org/10.1021/acscentsci.5c01382
+  doi: 10.1021/acscentsci.5c01382
+  themes:
+    - design and optimization
+
 - title: "Chemprop v2: An Efficient, Modular Machine Learning Package for Chemical Property Prediction"
   authors: Graff, D.E., Morgan, N.K., Burns, J.W., Doner, A.C., Li, B., Li, S., Manu, J., Menon, A., Pang, H., Wu, H., Zalte, A., Zheng, J., Coley, C.W., Green, W.H., Greenman, K.P.
   journal: ChemRxiv
@@ -364,18 +386,6 @@
   issue: 207101
   themes:
     - molecular representation
-
-- title: "Anomeric Selectivity of Glycosylations Through a Machine Learning Lens"
-  authors: Faurschou, N.V., Friis, V., Raghavan, P., Pedersen, C.M., Coley, C.W.
-  journal: ChemRxiv
-  year: 2024
-  url: https://chemrxiv.org/engage/chemrxiv/article-details/673390225a82cea2fae7c23e
-  preprint: 10.26434/chemrxiv-2024-jw9dx
-  preprint_url: https://chemrxiv.org/engage/chemrxiv/article-details/673390225a82cea2fae7c23e
-  preprint_year: 2024
-  preprint_site: chemrxiv
-  themes:
-    - predictive chemistry
 
 - title: "Schedule Optimization for Chemical Library Synthesis"
   authors: Ai, Q., Meng, F., Wang, R., Klein, J.C., Godfrey, A.G., Coley, C.W.
