@@ -53,6 +53,18 @@
   themes:
     - design and optimization
 
+- title: "A Genetic Algorithm for Navigating Synthesizable Molecular Spaces"
+  authors: Lo, A., Coley, C.W., Matusik, W.
+  journal: arXiv
+  year: 2025
+  url: https://doi.org/10.48550/arXiv.2509.20719
+  preprint: arXiv:2509.20719
+  preprint_url: https://doi.org/10.48550/arXiv.2509.20719
+  preprint_site: arxiv
+  preprint_year: 2025
+  themes:
+    - design and optimization
+
 - title: "Chemprop v2: An Efficient, Modular Machine Learning Package for Chemical Property Prediction"
   authors: Graff, D.E., Morgan, N.K., Burns, J.W., Doner, A.C., Li, B., Li, S., Manu, J., Menon, A., Pang, H., Wu, H., Zalte, A., Zheng, J., Coley, C.W., Green, W.H., Greenman, K.P.
   journal: ChemRxiv
