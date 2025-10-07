@@ -31,6 +31,22 @@
 #     - metabolomics
 #     - data
 
+- title: "Generative AI for navigating synthesizable chemical space"
+  authors: Gao, W., Luo, S., Coley, C.W.
+  journal: Proc. Natl. Acad. Sci.
+  year: 2025
+  volume: 122
+  issue: 41
+  pages: e2415665122
+  url: https://doi.org/10.1073/pnas.2415665122
+  doi: 10.1073/pnas.2415665122
+  preprint: arXiv:2410.03494
+  preprint_url: https://doi.org/10.48550/arXiv.2410.03494
+  preprint_year: 2024
+  preprint_site: arxiv
+  themes:
+    - design and optimization
+
 - title: "Anomeric Selectivity of Glycosylations Through a Machine Learning Lens"
   authors: Faurschou, N.V., Friis, V., Raghavan, P., Pedersen, C.M., Coley, C.W.
   journal: J. Am. Chem. Soc.
@@ -437,18 +453,6 @@
   preprint_site: arxiv
   themes:
     - molecular representation
-    - design and optimization
-
-- title: "Generative artificial intelligence for navigating synthesizable chemical space"
-  authors: Gao, W., Luo, S., Coley, C.W.
-  journal: arXiv
-  year: 2024
-  url: https://doi.org/10.48550/arXiv.2410.03494
-  preprint: arXiv:2410.03494
-  preprint_url: https://doi.org/10.48550/arXiv.2410.03494
-  preprint_year: 2024
-  preprint_site: arxiv
-  themes:
     - design and optimization
 
 - title: "Ideation and evaluation of novel multicomponent reactions via mechanistic network analysis and automation"
