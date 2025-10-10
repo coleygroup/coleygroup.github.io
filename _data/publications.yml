@@ -31,6 +31,19 @@
 #     - metabolomics
 #     - data
 
+- title: "Anticipating the Selectivity of Cyclization Reaction Pathways with Neural Network Potentials"
+  authors: Nicholas Casetti, Dylan Anstine, Olexandr Isayev, Connor W. Coley
+  journal: J. Chem. Theory Comput.
+  year: 2025
+  url: https://doi.org/10.1021/acs.jctc.5c01161
+  doi: 10.1021/acs.jctc.5c01161
+  preprint: arXiv:2507.10400
+  preprint_url: https://doi.org/10.48550/arXiv.2507.10400
+  preprint_year: 2025
+  preprint_site: arxiv
+  themes:
+    - predictive chemistry
+
 - title: "Generative AI for navigating synthesizable chemical space"
   authors: Gao, W., Luo, S., Coley, C.W.
   journal: Proc. Natl. Acad. Sci.
@@ -169,18 +182,6 @@
   themes:
     - design and optimization
     - automation
-
-- title: "Anticipating the Selectivity of Cyclization Reaction Pathways with Neural Network Potentials"
-  authors: Nicholas Casetti, Dylan Anstine, Olexandr Isayev, Connor W. Coley
-  journal: arXiv
-  year: 2025
-  url: https://doi.org/10.48550/arXiv.2507.10400
-  preprint: arXiv:2507.10400
-  preprint_url: https://doi.org/10.48550/arXiv.2507.10400
-  preprint_year: 2025
-  preprint_site: arxiv
-  themes:
-    - predictive chemistry
 
 - title: "Optimization of robotic liquid handling as a capacitated vehicle routing problem"
   authors: Wu, G., Wang, R., Coley, C.W.
