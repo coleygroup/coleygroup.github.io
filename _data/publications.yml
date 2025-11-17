@@ -31,8 +31,17 @@
 #     - metabolomics
 #     - data
 
+- title: "Random Heteropolymers Enable Nonspecific Protein Binding and Loop-Mediated Stabilization"
+  authors: Jin, T., Dagadu, A., Coley, C.W., Alexander-Katz, A.
+  journal: ACS Nano
+  year: 2025
+  doi: 10.1021/acsnano.5c12927
+  url: https://doi.org/10.1021/acsnano.5c12927
+  themes:
+    - predictive chemistry
+
 - title: "Anticipating the Selectivity of Cyclization Reaction Pathways with Neural Network Potentials"
-  authors: Nicholas Casetti, Dylan Anstine, Olexandr Isayev, Connor W. Coley
+  authors: Casetti, N., Anstine, D., Isayev, O., Coley, C.W.
   journal: J. Chem. Theory Comput.
   year: 2025
   url: https://doi.org/10.1021/acs.jctc.5c01161
