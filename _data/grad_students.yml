@@ -89,6 +89,13 @@
   linkedin: https://www.linkedin.com/in/suong-tran-6925a8195/
   description: Suong earned her BS in Chemistry and Data Analytics from Dickinson College in 2024. She is currently pursuing a PhD in Chemistry at MIT, with a focus on applying machine learning and data-driven approaches to synthesis planning.
 
+- name: Tim Pinkhassik
+  photo: Tim_Pinkhassik.png
+  info: PhD Student
+  email: ptim@mit.edu
+  linkedin: https://www.linkedin.com/in/timothy-pinkhassik-978a571a6/
+  description: Tim Pinkhassik received his B.S. in Chemistry from U.C. Berkeley in 2025, where he worked under Prof. Hartwig on mechanistic study and method development of copper and palladium catalyzed cross coupling reactions.  He is currently pursuing a PhD in Chemistry at MIT, where his current research interests are applying deep learning to reaction mechanism prediction and reaction discovery.
+
 - name: Xiaoqi Sun
   photo: Xiaoqi_Sun.jpeg
   info: PhD Student
@@ -109,10 +116,3 @@
   email: ztu@mit.edu
   linkedin: https://www.linkedin.com/in/zhengkai-tu-51554257/
   description: Zhengkai received his B.ASc. in Chemical Engineering from Waterloo and S.M. from MIT in Computational Science and Engineering. He previously worked on deep learning applications in NLP and is currently interested in using machine learning for reaction prediction and retrosynthesis.
-
-- name: Tim Pinkhassik
-  photo: Tim_Pinkhassik.png
-  info: PhD Student
-  email: ptim@mit.edu
-  linkedin: https://www.linkedin.com/in/timothy-pinkhassik-978a571a6/
-  description: Tim Pinkhassik received his B.S. in Chemistry from U.C. Berkeley in 2025, where he worked under Prof. Hartwig on mechanistic study and method development of copper and palladium catalyzed cross coupling reactions.  He is currently pursuing a PhD in Chemistry at MIT, where his current research interests are applying deep learning to reaction mechanism prediction and reaction discovery.
