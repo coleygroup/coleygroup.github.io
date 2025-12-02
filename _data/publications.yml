@@ -31,6 +31,19 @@
 #     - metabolomics
 #     - data
 
+- title: "Efficient and Programmable Exploration of Synthesizable Chemical Space"
+  authors: Luo, S., Coley, C.W.
+  journal: arXiv
+  year: 2025
+  url: https://doi.org/10.48550/arXiv.2512.00384
+  preprint: arXiv:2512.00384
+  preprint_url: https://doi.org/10.48550/arXiv.2512.00384
+  preprint_site: arxiv
+  preprint_year: 2025
+  themes:
+    - design and optimization
+    - data
+
 - title: "Random Heteropolymers Enable Nonspecific Protein Binding and Loop-Mediated Stabilization"
   authors: Jin, T., Dagadu, A., Coley, C.W., Alexander-Katz, A.
   journal: ACS Nano
