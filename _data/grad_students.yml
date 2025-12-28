@@ -47,6 +47,13 @@
   linkedin: https://www.linkedin.com/in/kevin-yu-854b09174/
   description: Kevin received his BS in Chemistry and CS from Caltech in 2022 and an SM in Computational Science and Engineering from MIT. He is now a PhD student at MIT in Electrical Engineering and Computer Science. In addition to predictive chemistry methods, especially for synthesis planning, he is interested in how machine learning and cheminformatics can be leveraged for generating scientific insight or accelerating reaction discovery and development.
 
+- name: Magdalena Lederbauer
+  photo: Magdalena_Lederbauer.jpeg
+  info: PhD Student
+  email: magled@mit.edu
+  linkedin: https://www.linkedin.com/in/magdalena-lederbauer/
+  description: Magdalena obtained her MSc and BSc in Chemistry from ETH Zurich in 2025 and is now a PhD student in Chemical Engineering and Computational Science and Engineering at MIT. Her research focuses on developing machine learning methods for molecular structure elucidation from mass spectrometry data and reaction discovery, with an emphasis on physics-constrained neural networks and generative models.
+
 - name: Matthew Cox
   photo: Matthew_Cox.jpeg
   info: PhD Student
