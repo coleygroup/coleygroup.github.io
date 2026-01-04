@@ -31,6 +31,18 @@
 #     - metabolomics
 #     - data
 
+- title: "Curiosity-driven de novo protein design via polymerized amyloids"
+  authors: Jin, T., Sass, J., Gao, W., Coley, C.W., Alexander-Katz, A.
+  journal: ChemRxiv
+  year: 2025
+  url: https://doi.org/10.26434/chemrxiv-2025-tbfjt
+  preprint: 10.26434/chemrxiv-2025-tbfjt
+  preprint_url: https://doi.org/10.26434/chemrxiv-2025-tbfjt
+  preprint_year: 2025
+  preprint_site: chemrxiv
+  themes:
+    - design and optimization
+
 - title: "Efficient and Programmable Exploration of Synthesizable Chemical Space"
   authors: Luo, S., Coley, C.W.
   journal: arXiv
@@ -47,6 +59,9 @@
 - title: "Random Heteropolymers Enable Nonspecific Protein Binding and Loop-Mediated Stabilization"
   authors: Jin, T., Dagadu, A., Coley, C.W., Alexander-Katz, A.
   journal: ACS Nano
+  volume: 19
+  issue: 45
+  pages: 39259-39271
   year: 2025
   doi: 10.1021/acsnano.5c12927
   url: https://doi.org/10.1021/acsnano.5c12927
@@ -57,6 +72,9 @@
   authors: Casetti, N., Anstine, D., Isayev, O., Coley, C.W.
   journal: J. Chem. Theory Comput.
   year: 2025
+  volume: 21
+  issue: 20
+  pages: 10362-10372
   url: https://doi.org/10.1021/acs.jctc.5c01161
   doi: 10.1021/acs.jctc.5c01161
   preprint: arXiv:2507.10400
@@ -85,6 +103,9 @@
 - title: "Anomeric Selectivity of Glycosylations Through a Machine Learning Lens"
   authors: Faurschou, N.V., Friis, V., Raghavan, P., Pedersen, C.M., Coley, C.W.
   journal: J. Am. Chem. Soc.
+  volume: 147
+  issue: 40
+  pages: 36197-36209
   year: 2025
   url: https://pubs.acs.org/doi/10.1021/jacs.5c07561
   doi: 10.1021/jacs.5c07561
@@ -98,6 +119,9 @@
 - title: "Seeking Precise Protein-like Functions from Random Heteropolymer Ensemble and through Dimensionality Reduction"
   authors: Wu, G., Jin, T., Zhou, H., Coley, C.W., Alexander-Katz, A., Lu, H.
   journal: ACS Cent. Sci.
+  volume: 11
+  issue: 11
+  pages: 2053-2062
   year: 2025
   url: https://doi.org/10.1021/acscentsci.5c01382
   doi: 10.1021/acscentsci.5c01382
@@ -118,9 +142,9 @@
 
 - title: "Chemprop v2: An Efficient, Modular Machine Learning Package for Chemical Property Prediction"
   authors: Graff, D.E., Morgan, N.K., Burns, J.W., Doner, A.C., Li, B., Li, S., Manu, J., Menon, A., Pang, H., Wu, H., Zalte, A., Zheng, J., Coley, C.W., Green, W.H., Greenman, K.P.
-  journal: ChemRxiv
+  journal: J. Chem. Inf. Model.
   year: 2025
-  url: https://doi.org/10.26434/chemrxiv-2025-4p1nr
+  url: https://doi.org/10.1021/acs.jcim.5c02332
   preprint: 10.26434/chemrxiv-2025-4p1nr
   preprint_url: https://doi.org/10.26434/chemrxiv-2025-4p1nr
   preprint_year: 2025
@@ -131,7 +155,10 @@
 
 - title: "A generative deep learning approach to de novo antibiotic design"
   authors: Krishnan, A., Valeri, J.A., Jin, W., Donghia, N.M., Sieben, L., Luttens, A., Zhang, Y., Modaresi, S.M., Hennes, A., Fromer, J., Bandyopadhyay, P., Chen, J.C., Rehman, D., Desai, R., Edwards, P., Lach, R.S., Aschtgen, M.-S., Gaborieau, M., Gaetani, M., Palace, S.G., Omori, S., Khonde, L., Moroz, Y.S., Blough, B., Jin, C., Loh, E., Grad, Y.H., Saei, A.A., Coley, C.W., Wong, F., Collins, J.J.
-  jouranl: Cell
+  journal: Cell
+  volume: 188
+  issue: 21
+  pages: 5962-5979
   year: 2025
   url: https://doi.org/10.1016/j.cell.2025.07.033
   doi: 10.1016/j.cell.2025.07.033
@@ -196,6 +223,8 @@
   year: 2025
   url: https://doi.org/10.1016/j.matt.2025.102336
   doi: 10.1016/j.matt.2025.102336
+  volume: 8
+  issue: 12
   pages: 102336
   preprint: 10.26434/chemrxiv-2024-nh0xn
   preprint_url: https://chemrxiv.org/engage/chemrxiv/article-details/671123ff51558a15ef59f01a
