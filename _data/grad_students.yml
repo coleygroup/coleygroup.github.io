@@ -13,6 +13,13 @@
   linkedin: https://www.linkedin.com/in/anji-zhang/
   description: Anji graduated from the University of Toronto with a B.S. in Chemistry, where she worked on reaction methodology and automation. She is now pursuing her PhD in Chemistry at MIT as a co-advised student with Timothy Jamison, where her research focuses on using machine learning for reaction outcome prediction and data-driven reaction optimization.
 
+- name: Hongxuan Liu
+  photo: Hongxuan_Liu.jpg
+  info: PhD Student
+  email: liuhx25@mit.edu
+  linkedin: https://www.linkedin.com/in/hongxuan-liu-045449353/
+  description: Hongxuan obtained his BSc in Chemical Biology and BEng in Chemical & Biomolecular Engineering from Tsinghua University in 2025 and is now a PhD student in Chemical Engineering at MIT. His research focuses on using geometric deep learning and generative models for molecular structure elucidation on tandem mass spectrometry data.
+
 - name: Jenna Fromer
   photo: Jenna_Fromer.jpeg
   info: PhD Student
