@@ -19,6 +19,11 @@ learning_resources:
     url: "https://distill.pub/"
     category: "Publications"
 
+  - title: "TeachOpenCADD"
+    description: "Tutorials for cheminformatics and structural bioinformatics fundamentals"
+    url: https://projects.volkamerlab.org/teachopencadd/
+    category: "Education"
+
   - title: "DeepChem Tutorials"
     description: "Machine learning for drug discovery tutorials"
     url: "https://deepchem.io/tutorials/the-basic-tools-of-the-deep-life-sciences/"
@@ -39,16 +44,6 @@ learning_resources:
     url: "https://github.com/coleygroup/ML4MolEng"
     category: "Education"
 
-  - title: "OpenRetro"
-    description: "An open source library for benchmarking one-step retrosynthesis"
-    url: "https://github.com/coleygroup/openretro"
-    category: "Software"
-
-  - title: "Open Reaction Database (ORD)"
-    description: "Open-access schema and infrastructure for structuring and sharing organic reaction data"
-    url: "https://open-reaction-database.org/"
-    category: "Software"
-
   - title: "dl-chem-101"
     description: "Deep learning for chemistry educational repository"
     url: "https://github.com/rociomer/dl-chem-101"
@@ -66,8 +61,6 @@ categories:
     description: "Regular updates and insights from experts"
   - name: "Tools"
     description: "Interactive tools and utilities"
-  - name: "Software"
-    description: "Open-source software packages"
   - name: "Publications"
     description: "Academic journals and research platforms"
   # - name: "Datasets"
