@@ -27,6 +27,17 @@
   themes:
     - predictive chemistry
 
+- title: "PrexSyn"
+  image: Logo_prexsyn.jpg
+  description: PrexSyn is an efficient, accurate, and programmable framework for synthesizable molecular design that simultaneously generates molecules and their synthesis routes. PrexSyn excels at "projecting" molecules into the synthesizable chemical space and sampling molecules that optimize a scoring function while satisfying property queries. PrexSyn was trained on post-fix notations paired with molecular properties at billion-scale using only two GPUs and 32 CPU cores in two days with PrexSyn Engine, a real-time, high-throughput C++-based data generation pipeline.
+  links:
+    - label: "Website"
+      url: https://prexsyn.readthedocs.io/en/latest/
+    - label: "GitHub"
+      url: https://github.com/luost26/PrexSyn
+  themes:
+    - design and optimization
+
 - title: "FlowER"
   image: Logo_flower.png
   description: FlowER uses generative flow matching to model chemical reaction as a process of electron redistribution, conceptually aligns with arrow-pushing formalisms. It aims to capture the probabilistic nature of reactions with mass conservation where multiple outcomes are reached through branching mechanistic networks evolving in time.
