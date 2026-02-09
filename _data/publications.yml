@@ -31,6 +31,16 @@
 #     - metabolomics
 #     - data
 
+- title: "Energy Landscape and Stability in Random Heteropolymers: Somewhere Between Protein Folding and Plastic Miscibility"
+  authors: Jin, T., Coley, C.W., Alexander-Katz, A.
+  journal: Macromolecules
+  year: 2026
+  doi: 10.1021/acs.macromol.5c01752
+  url: https://doi.org/10.1021/acs.macromol.5c01752
+  themes:
+    - predictive chemistry
+    - molecular representation
+
 - title: "Curiosity-driven de novo protein design via polymerized amyloids"
   authors: Jin, T., Sass, J., Gao, W., Coley, C.W., Alexander-Katz, A.
   journal: ChemRxiv
