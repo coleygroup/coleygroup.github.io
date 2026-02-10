@@ -31,6 +31,19 @@
 #     - metabolomics
 #     - data
 
+- title: "Generative structural elucidation from mass spectra as an iterative optimization problem"
+  authors: Manjrekar, M., Wang, R., Goldman, S., Fromer, J.C., Coley, C.W.
+  journal: arXiv
+  year: 2025
+  url: https://doi.org/10.48550/arXiv.2602.07709
+  preprint: arXiv:2602.07709
+  preprint_url: https://doi.org/10.48550/arXiv.2602.07709
+  preprint_site: arxiv
+  preprint_year: 2025
+  themes:
+    - metabolomics    
+    - design and optimization
+
 - title: "Energy Landscape and Stability in Random Heteropolymers: Somewhere Between Protein Folding and Plastic Miscibility"
   authors: Jin, T., Coley, C.W., Alexander-Katz, A.
   journal: Macromolecules
