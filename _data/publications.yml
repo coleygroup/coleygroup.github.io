@@ -31,6 +31,16 @@
 #     - metabolomics
 #     - data
 
+- title: "A geometric foundation model for enzyme retrieval with evolutionary insights"
+  authors: Liu, Y., Hua, C., Xu, M., Zeng, T., Rao, J., Zhang, Z., Wu, R., Weng, J.K., Coley, C.W., Zheng, S.
+  journal: Nature Catalysis
+  year: 2026
+  doi: 10.1038/s41929-026-01478-y
+  url: https://doi.org/10.1038/s41929-026-01478-y
+  themes:
+    - predictive chemistry
+    - data
+
 - title: "Generative structural elucidation from mass spectra as an iterative optimization problem"
   authors: Manjrekar, M., Wang, R., Goldman, S., Fromer, J.C., Coley, C.W.
   journal: arXiv
