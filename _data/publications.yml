@@ -31,6 +31,19 @@
 #     - metabolomics
 #     - data
 
+- title: "Quantifying the Failure Modes of Current One-step Retrosynthesis Models"
+  authors: Tran, S.B.A., Roh, J., Coley, C.W. 
+  journal: ChemRxiv
+  year: 2026
+  url: https://doi.org/10.26434/chemrxiv.15000071/v1
+  preprint: 10.26434/chemrxiv.15000071/v1
+  preprint_url: https://doi.org/10.26434/chemrxiv.15000071/v1
+  preprint_year: 2026
+  preprint_site: chemrxiv
+  themes:
+    - predictive chemistry
+    - data
+
 - title: "A geometric foundation model for enzyme retrieval with evolutionary insights"
   authors: Liu, Y., Hua, C., Xu, M., Zeng, T., Rao, J., Zhang, Z., Wu, R., Weng, J.K., Coley, C.W., Zheng, S.
   journal: Nature Catalysis
@@ -44,12 +57,12 @@
 - title: "Generative structural elucidation from mass spectra as an iterative optimization problem"
   authors: Manjrekar, M., Wang, R., Goldman, S., Fromer, J.C., Coley, C.W.
   journal: arXiv
-  year: 2025
+  year: 2026
   url: https://doi.org/10.48550/arXiv.2602.07709
   preprint: arXiv:2602.07709
   preprint_url: https://doi.org/10.48550/arXiv.2602.07709
   preprint_site: arxiv
-  preprint_year: 2025
+  preprint_year: 2026
   themes:
     - metabolomics    
     - design and optimization
