@@ -31,6 +31,23 @@
 #     - metabolomics
 #     - data
 
+- title: "Grand Challenges for Predictive Modeling in Small Molecule Drug Discovery"
+  authors: Coley, C.W., Daga, P., De Vivo, M., Jespers, W., Jogalekar, A.S., Kimura, A.R., Koenekoop, L., Martson, A., Newhouse, T.R., Ray, S., Sabatini, R., Thompson, D.C., Sherman, W.
+  journal: chemRxiv
+  year: 2026
+  url: https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000615/v1
+  preprint: 10.26434/chemrxiv.15000615
+  preprint_url: https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000615/v1
+  preprint_year: 2026
+  preprint_site: chemRxiv
+  themes:
+    - molecular representation
+    - design and optimization
+    - predictive chemistry
+    - automation
+    - metabolomics
+    - data
+
 - title: "Quantifying the Failure Modes of Current One-step Retrosynthesis Models"
   authors: Tran, S.B.A., Roh, J., Coley, C.W. 
   journal: ChemRxiv
