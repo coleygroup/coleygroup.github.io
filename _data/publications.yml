@@ -31,6 +31,19 @@
 #     - metabolomics
 #     - data
 
+- title: "Higher-level Strategies for Computer-Aided Retrosynthesis"
+  authors: Roh, J., Joung, J.F., Yu, K., Tu, Z., Bartholomew, G.L., Santiago-Reyes, O.A., Fong, M.H., Sarpong, R., Reisman, S.E., Coley, C.W. 
+  journal: ACS Cent. Sci.
+  year: 2026
+  doi: 10.1021/acscentsci.5c02014
+  url: https://doi.org/10.1021/acscentsci.5c02014
+  preprint: 10.26434/chemrxiv-2025-21zvt
+  preprint_url: https://doi.org/10.26434/chemrxiv-2025-21zvt
+  preprint_year: 2025
+  preprint_site: chemrxiv
+  themes:
+    - predictive chemistry
+
 - title: "Grand Challenges for Predictive Modeling in Small Molecule Drug Discovery"
   authors: Coley, C.W., Daga, P., De Vivo, M., Jespers, W., Jogalekar, A.S., Kimura, A.R., Koenekoop, L., Martson, A., Newhouse, T.R., Ray, S., Sabatini, R., Thompson, D.C., Sherman, W.
   journal: chemRxiv
@@ -463,18 +476,6 @@
   preprint_site: arxiv
   themes:
     - metabolomics
-
-- title: "Higher-level Strategies for Computer-Aided Retrosynthesis"
-  authors: Roh, J., Joung, J.F., Yu, K., Tu, Z., Bartholomew, G.L., Santiago-Reyes, O.A., Fong, M.H., Sarpong, R., Reisman, S.E., Coley, C.W. 
-  journal: ChemRxiv
-  year: 2025
-  url: https://doi.org/10.26434/chemrxiv-2025-21zvt
-  preprint: 10.26434/chemrxiv-2025-21zvt
-  preprint_url: https://doi.org/10.26434/chemrxiv-2025-21zvt
-  preprint_year: 2025
-  preprint_site: chemrxiv
-  themes:
-    - predictive chemistry
 
 - title: "Identification of Antituberculars with Favorable Potency and Pharmacokinetics through Structure-Based and Ligand-Based Modeling"
   authors: Warapande, V., Meng, F., Bozan, A. Graff, D.E., Fromer, J.C., Mughal, K., Mohideen, F.K., Shivangi, Paruchuri, S., Johnston, M.L., Sharma, P., Crea, T.R., Rudraraju, R.S., George, A., Folvar, C. Nelson, A.M., Neiditch, M.B., Zimmerman, M.D., Coley, C.W., Freundlich, J.S.
