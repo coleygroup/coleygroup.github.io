@@ -31,6 +31,19 @@
 #     - metabolomics
 #     - data
 
+- title: "Computational design of functional random heteropolymers through atomistic simulations"
+  authors: Jin, T., Lung, C.S., Xu, T., Coley, C.W., Alexander-Katz, A.
+  journal: PLoS one
+  volume: 21
+  issue: 3
+  pages: e0343799
+  year: 2026
+  url: https://doi.org/10.1371/journal.pone.0343799
+  doi: 10.1371/journal.pone.0343799
+  themes:
+    - molecular representation
+    - design and optimization
+
 - title: "Higher-level Strategies for Computer-Aided Retrosynthesis"
   authors: Roh, J., Joung, J.F., Yu, K., Tu, Z., Bartholomew, G.L., Santiago-Reyes, O.A., Fong, M.H., Sarpong, R., Reisman, S.E., Coley, C.W. 
   journal: ACS Cent. Sci.
