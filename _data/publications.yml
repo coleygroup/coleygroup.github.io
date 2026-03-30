@@ -31,6 +31,16 @@
 #     - metabolomics
 #     - data
 
+- title: "Polymerized Short Sequences as a Template for Protein Folding and Evolution"
+  authors: Jin, T., Sass, J., Gao, W., Hurst, A., Coley, C.W., Alexander-Katz, A.
+  journal: Nano Lett.
+  year: 2026
+  doi: 10.1021/acs.nanolett.6c00527
+  url: https://doi.org/10.1021/acs.nanolett.6c00527
+  themes:
+    - design and optimization
+    - predictive chemistry
+
 - title: "Computational design of functional random heteropolymers through atomistic simulations"
   authors: Jin, T., Lung, C.S., Xu, T., Coley, C.W., Alexander-Katz, A.
   journal: PLoS one
