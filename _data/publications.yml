@@ -31,6 +31,18 @@
 #     - metabolomics
 #     - data
 
+- title: "FRIGID: Scaling Diffusion-Based Molecular Generation from Mass Spectra at Training and Inference Time"
+  authors: Bohde, M., Liu, H., Manjrekar, M., Lederbauer, M., Ji, S., Wang, R., Coley, C.W.
+  journal: arXiv
+  year: 2026
+  url: https://doi.org/10.48550/arXiv.2604.16648
+  preprint: arXiv:2604.16648
+  preprint_url: https://doi.org/10.48550/arXiv.2604.16648
+  preprint_year: 2026
+  preprint_site: arxiv
+  themes:
+    - metabolomics
+
 - title: "Polymerized Short Sequences as a Template for Protein Folding and Evolution"
   authors: Jin, T., Sass, J., Gao, W., Hurst, A., Coley, C.W., Alexander-Katz, A.
   journal: Nano Lett.
