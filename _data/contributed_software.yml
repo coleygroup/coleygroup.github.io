@@ -1,0 +1,59 @@
+# - title: software
+#   image: logo.png (optional)
+#   description: Couple sentences about the software.
+#   links:
+#     - label: "label"
+#       url: url
+#   themes:
+#     - molecular representation
+#     - design and optimization
+#     - predictive chemistry
+#     - automation
+#     - metabolomics
+#     - data
+
+# This file contains software that the group contributes to but is not solely responsible for.
+
+- title: Open Reaction Database
+  image: Logo_ord.svg
+  description: The Open Reaction Database (ORD) is a community-driven repository and schema for storing and sharing machine-readable organic reaction data to accelerate synthesis planning, reaction prediction, and experiment design.
+  links:
+    - label: "Website"
+      url: https://open-reaction-database.org
+    - label: "GitHub"
+      url: https://github.com/Open-Reaction-Database
+  themes:
+    - data
+    - predictive chemistry
+
+- title: ChemProp2
+  image: Logo_chemprop.png
+  description: ChemProp v2 is a message-passing neural network framework for molecular property prediction that supports modern architectures, uncertainty estimation, and interpretability for applications in drug discovery and materials science.
+  links:
+    - label: "GitHub"
+      url: https://github.com/chemprop/chemprop
+  themes:
+    - molecular representation
+    - predictive chemistry
+
+- title: Therapeutics Data Commons (TDC)
+  image: Logo_tdc.png
+  description: TDC is an open-science platform providing machine-learning-ready datasets, benchmarks, and leaderboards covering diverse therapeutic modalities and stages of drug discovery, facilitating reproducible and scalable AI research.
+  links:
+    - label: "Website"
+      url: https://tdcommons.ai
+    - label: "GitHub"
+      url: https://github.com/mims-harvard/TDC
+  themes:
+    - data
+    - predictive chemistry
+    - design and optimization 
+
+- title: OpenChemIE
+  description: OpenChemIE is an open-source toolkit for chemistry information extraction, providing models and pipelines to automatically identify and convert chemical structures, reactions, and entities from text and figures in scientific literature.
+  links:
+    - label: "GitHub"
+      url: https://github.com/CrystalEye42/OpenChemIE
+  themes:
+    - data
+    - molecular representation

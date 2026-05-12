@@ -15,7 +15,7 @@ h1 {
 body {
 	padding-top: 70px;
   background-color: #fefeff;
-	font-family: Gill Sans,Gill Sans MT,Calibri,sans-serif; 
+	font-family: Gill Sans MT,Gill Sans,Calibri,sans-serif; 
   font-weight: 250;
 }
 
@@ -56,7 +56,11 @@ pubtit {
 }
 
 .navbar-brand {	
-	font-size: 32px;
+	font-size: 30px;
+}
+
+.header-title {
+  font-weight: 500;
 }
 
 /* Home, News */
@@ -137,7 +141,7 @@ pubtit {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.6); /* Black with 40% opacity */
+  background: rgba(0, 0, 0, 0.10); /* subtle 10% tint */
 }
 
 .carousel-caption {
@@ -157,12 +161,73 @@ pubtit {
   bottom: -10px; /* Adjust this value to move indicators down */
 }
 
-.image-container {
-  display: inline-block;
-}
-
 .carousel-inner .item {
   text-align: center;
+}
+
+/* Custom arrow icons for carousel controls */
+.carousel-control .glyphicon {
+  display: none; /* hide default bootstrap glyph */
+}
+
+.carousel-control.left::after,
+.carousel-control.right::after {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 48px;
+  font-weight: 300;
+  color: #fff;
+  text-shadow: 0 1px 2px rgba(0,0,0,0.6);
+}
+
+.carousel-control.left::after  {
+  content: "\2039";
+  left: 20px;                  /* 20px from the very edge */
+  transform: translateY(-50%); /* vertical centering only */
+}
+.carousel-control.right::after {
+  content: "\203A";
+  right: 20px;                 /* 20px from the very edge */
+  transform: translateY(-50%);
+}
+
+/* Unified rules: fixed-height box, flex-center, responsive shrink, NO cropping */
+.image-container {
+  width: 100%;
+  height: 400px;           /* keep carousel a consistent height */
+  display: flex;
+  justify-content: center; /* horizontal centering */
+  align-items: center;      /* vertical centering */
+  position: relative; /* create stacking context for ::after */
+}
+
+.image-container img {
+  max-width: 95%;         /* never overflow horizontally */
+  max-height: 95%;        /* never overflow vertically */
+  width: auto !important;  /* override inline height if present */
+  height: auto !important; /*  "  "    "     "      "   */
+}
+
+/* Styling for the new caption block placed above images */
+.slide-caption {
+  text-align: center;
+  padding: 10px 15px 0;
+  position: relative; z-index: 2;
+}
+
+.slide-title {
+  font-size: 32px;
+  font-weight: 600;
+  margin: 0;
+  color: #000000;
+}
+
+.slide-desc {
+  font-size: 22px;
+  font-weight: 300;
+  margin: 5px 0 0;
+  color: #000000;
 }
 
 /* Software / Resources */
@@ -171,4 +236,86 @@ pubtit {
   width: 30px;
   height: auto;
   margin-right: 15px;
+}
+
+/* -------------------------------------------------------------
+   Responsive tweaks for carousel on narrow screens
+   ------------------------------------------------------------- */
+@media (max-width: 991px) {
+  /* Slightly smaller screens (tablets / small laptops) */
+  .image-container {
+    height: 300px;
+  }
+  .slide-title {
+    font-size: 28px;
+  }
+  .slide-desc {
+    font-size: 18px;
+  }
+
+  /* Overlay captions on the image so they cannot be pushed out of view */
+  .carousel-inner .item {
+    position: relative; /* ensure absolute captions are positioned correctly */
+  }
+  .slide-caption {
+    position: absolute;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 97%;
+    background: rgba(255, 255, 255, 0.85);
+    border-radius: 4px;
+    padding: 4px 6px;
+  }
+
+  /* Give a bit more space below the fixed navbar */
+  body {
+    padding-top: 85px;
+  }
+}
+
+@media (max-width: 767px) {
+  /* Mobile phones */
+  .carousel {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .image-container {
+    height: 220px; /* Reduce fixed height so the carousel isn’t overly tall */
+  }
+
+  .slide-title {
+    font-size: 20px;
+  }
+
+  .slide-desc {
+    font-size: 14px;
+  }
+
+  /* Make arrow controls smaller so they don’t crowd content */
+  .carousel-control.left::after,
+  .carousel-control.right::after {
+    font-size: 32px;
+  }
+
+  /* Ensure captions span full width so long titles aren’t clipped */
+  .slide-caption {
+    width: 100%;
+    padding: 5px 10px 0;
+  }
+  .slide-title,
+  .slide-desc {
+    word-wrap: break-word;
+  }
+
+  /* Tweak overlay for small phones */
+  .slide-caption {
+    top: 8px;
+    width: 97%;
+  }
+
+  body {
+    padding-top: 95px;
+  }
 }

@@ -31,10 +31,395 @@
 #     - metabolomics
 #     - data
 
+- title: "Hydrolysis Reaction Rate Prediction Using Machine Learning: WaterDRoP"
+  authors: Lemay, A.C., Coley, C.W., Plata, D.L.
+  journal: Environ. Sci. Technol.
+  year: 2026
+  url: https://doi.org/10.1021/acs.est.5c16184
+  doi: 10.1021/acs.est.5c16184
+  themes:
+    - predictive chemistry
+
+- title: "FRIGID: Scaling Diffusion-Based Molecular Generation from Mass Spectra at Training and Inference Time"
+  authors: Bohde, M., Liu, H., Manjrekar, M., Lederbauer, M., Ji, S., Wang, R., Coley, C.W.
+  journal: arXiv
+  year: 2026
+  url: https://doi.org/10.48550/arXiv.2604.16648
+  preprint: arXiv:2604.16648
+  preprint_url: https://doi.org/10.48550/arXiv.2604.16648
+  preprint_year: 2026
+  preprint_site: arxiv
+  themes:
+    - metabolomics
+
+- title: "Polymerized Short Sequences as a Template for Protein Folding and Evolution"
+  authors: Jin, T., Sass, J., Gao, W., Hurst, A., Coley, C.W., Alexander-Katz, A.
+  journal: Nano Lett.
+  year: 2026
+  doi: 10.1021/acs.nanolett.6c00527
+  url: https://doi.org/10.1021/acs.nanolett.6c00527
+  themes:
+    - design and optimization
+    - predictive chemistry
+
+- title: "Computational design of functional random heteropolymers through atomistic simulations"
+  authors: Jin, T., Lung, C.S., Xu, T., Coley, C.W., Alexander-Katz, A.
+  journal: PLoS one
+  volume: 21
+  issue: 3
+  pages: e0343799
+  year: 2026
+  url: https://doi.org/10.1371/journal.pone.0343799
+  doi: 10.1371/journal.pone.0343799
+  themes:
+    - molecular representation
+    - design and optimization
+
+- title: "Higher-level Strategies for Computer-Aided Retrosynthesis"
+  authors: Roh, J., Joung, J.F., Yu, K., Tu, Z., Bartholomew, G.L., Santiago-Reyes, O.A., Fong, M.H., Sarpong, R., Reisman, S.E., Coley, C.W. 
+  journal: ACS Cent. Sci.
+  year: 2026
+  volume: 12
+  issue: 3
+  pages: 345-357
+  doi: 10.1021/acscentsci.5c02014
+  url: https://doi.org/10.1021/acscentsci.5c02014
+  preprint: 10.26434/chemrxiv-2025-21zvt
+  preprint_url: https://doi.org/10.26434/chemrxiv-2025-21zvt
+  preprint_year: 2025
+  preprint_site: chemrxiv
+  themes:
+    - predictive chemistry
+
+- title: "Grand Challenges for Predictive Modeling in Small Molecule Drug Discovery"
+  authors: Coley, C.W., Daga, P., De Vivo, M., Jespers, W., Jogalekar, A.S., Kimura, A.R., Koenekoop, L., Martson, A., Newhouse, T.R., Ray, S., Sabatini, R., Thompson, D.C., Sherman, W.
+  journal: chemRxiv
+  year: 2026
+  url: https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000615/v1
+  preprint: 10.26434/chemrxiv.15000615
+  preprint_url: https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000615/v1
+  preprint_year: 2026
+  preprint_site: chemRxiv
+  themes:
+    - molecular representation
+    - design and optimization
+    - predictive chemistry
+    - automation
+    - metabolomics
+    - data
+
+- title: "Quantifying the Failure Modes of Current One-step Retrosynthesis Models"
+  authors: Tran, S.B.A., Roh, J., Coley, C.W. 
+  journal: ChemRxiv
+  year: 2026
+  url: https://doi.org/10.26434/chemrxiv.15000071/v1
+  preprint: 10.26434/chemrxiv.15000071/v1
+  preprint_url: https://doi.org/10.26434/chemrxiv.15000071/v1
+  preprint_year: 2026
+  preprint_site: chemrxiv
+  themes:
+    - predictive chemistry
+    - data
+
+- title: "A geometric foundation model for enzyme retrieval with evolutionary insights"
+  authors: Liu, Y., Hua, C., Xu, M., Zeng, T., Rao, J., Zhang, Z., Wu, R., Weng, J.K., Coley, C.W., Zheng, S.
+  journal: Nature Catalysis
+  year: 2026
+  volume: 9
+  pages: 148-160
+  doi: 10.1038/s41929-026-01478-y
+  url: https://doi.org/10.1038/s41929-026-01478-y
+  themes:
+    - predictive chemistry
+    - data
+
+- title: "Generative structural elucidation from mass spectra as an iterative optimization problem"
+  authors: Manjrekar, M., Wang, R., Goldman, S., Fromer, J.C., Coley, C.W.
+  journal: arXiv
+  year: 2026
+  url: https://doi.org/10.48550/arXiv.2602.07709
+  preprint: arXiv:2602.07709
+  preprint_url: https://doi.org/10.48550/arXiv.2602.07709
+  preprint_site: arxiv
+  preprint_year: 2026
+  themes:
+    - metabolomics    
+    - design and optimization
+
+- title: "Energy Landscape and Stability in Random Heteropolymers: Somewhere Between Protein Folding and Plastic Miscibility"
+  authors: Jin, T., Coley, C.W., Alexander-Katz, A.
+  journal: Macromolecules
+  year: 2026
+  volume: 59
+  issue: 4
+  pages: 2315-2327
+  doi: 10.1021/acs.macromol.5c01752
+  url: https://doi.org/10.1021/acs.macromol.5c01752
+  themes:
+    - predictive chemistry
+    - molecular representation
+
+- title: "Curiosity-driven de novo protein design via polymerized amyloids"
+  authors: Jin, T., Sass, J., Gao, W., Coley, C.W., Alexander-Katz, A.
+  journal: ChemRxiv
+  year: 2025
+  url: https://doi.org/10.26434/chemrxiv-2025-tbfjt
+  preprint: 10.26434/chemrxiv-2025-tbfjt
+  preprint_url: https://doi.org/10.26434/chemrxiv-2025-tbfjt
+  preprint_year: 2025
+  preprint_site: chemrxiv
+  themes:
+    - design and optimization
+
+- title: "Efficient and Programmable Exploration of Synthesizable Chemical Space"
+  authors: Luo, S., Coley, C.W.
+  journal: arXiv
+  year: 2025
+  url: https://doi.org/10.48550/arXiv.2512.00384
+  preprint: arXiv:2512.00384
+  preprint_url: https://doi.org/10.48550/arXiv.2512.00384
+  preprint_site: arxiv
+  preprint_year: 2025
+  themes:
+    - design and optimization
+    - data
+
+- title: "Random Heteropolymers Enable Nonspecific Protein Binding and Loop-Mediated Stabilization"
+  authors: Jin, T., Dagadu, A., Coley, C.W., Alexander-Katz, A.
+  journal: ACS Nano
+  volume: 19
+  issue: 45
+  pages: 39259-39271
+  year: 2025
+  doi: 10.1021/acsnano.5c12927
+  url: https://doi.org/10.1021/acsnano.5c12927
+  themes:
+    - predictive chemistry
+
+- title: "Anticipating the Selectivity of Cyclization Reaction Pathways with Neural Network Potentials"
+  authors: Casetti, N., Anstine, D., Isayev, O., Coley, C.W.
+  journal: J. Chem. Theory Comput.
+  year: 2025
+  volume: 21
+  issue: 20
+  pages: 10362-10372
+  url: https://doi.org/10.1021/acs.jctc.5c01161
+  doi: 10.1021/acs.jctc.5c01161
+  preprint: arXiv:2507.10400
+  preprint_url: https://doi.org/10.48550/arXiv.2507.10400
+  preprint_year: 2025
+  preprint_site: arxiv
+  themes:
+    - predictive chemistry
+
+- title: "Generative AI for navigating synthesizable chemical space"
+  authors: Gao, W., Luo, S., Coley, C.W.
+  journal: Proc. Natl. Acad. Sci.
+  year: 2025
+  volume: 122
+  issue: 41
+  pages: e2415665122
+  url: https://doi.org/10.1073/pnas.2415665122
+  doi: 10.1073/pnas.2415665122
+  preprint: arXiv:2410.03494
+  preprint_url: https://doi.org/10.48550/arXiv.2410.03494
+  preprint_year: 2024
+  preprint_site: arxiv
+  themes:
+    - design and optimization
+
+- title: "Anomeric Selectivity of Glycosylations Through a Machine Learning Lens"
+  authors: Faurschou, N.V., Friis, V., Raghavan, P., Pedersen, C.M., Coley, C.W.
+  journal: J. Am. Chem. Soc.
+  volume: 147
+  issue: 40
+  pages: 36197-36209
+  year: 2025
+  url: https://pubs.acs.org/doi/10.1021/jacs.5c07561
+  doi: 10.1021/jacs.5c07561
+  preprint: 10.26434/chemrxiv-2024-jw9dx
+  preprint_url: https://chemrxiv.org/engage/chemrxiv/article-details/673390225a82cea2fae7c23e
+  preprint_year: 2024
+  preprint_site: chemrxiv
+  themes:
+    - predictive chemistry
+
+- title: "Seeking Precise Protein-like Functions from Random Heteropolymer Ensemble and through Dimensionality Reduction"
+  authors: Wu, G., Jin, T., Zhou, H., Coley, C.W., Alexander-Katz, A., Lu, H.
+  journal: ACS Cent. Sci.
+  volume: 11
+  issue: 11
+  pages: 2053-2062
+  year: 2025
+  url: https://doi.org/10.1021/acscentsci.5c01382
+  doi: 10.1021/acscentsci.5c01382
+  themes:
+    - design and optimization
+
+- title: "A Genetic Algorithm for Navigating Synthesizable Molecular Spaces"
+  authors: Lo, A., Coley, C.W., Matusik, W.
+  journal: arXiv
+  year: 2025
+  url: https://doi.org/10.48550/arXiv.2509.20719
+  preprint: arXiv:2509.20719
+  preprint_url: https://doi.org/10.48550/arXiv.2509.20719
+  preprint_site: arxiv
+  preprint_year: 2025
+  themes:
+    - design and optimization
+
+- title: "Chemprop v2: An Efficient, Modular Machine Learning Package for Chemical Property Prediction"
+  authors: Graff, D.E., Morgan, N.K., Burns, J.W., Doner, A.C., Li, B., Li, S., Manu, J., Menon, A., Pang, H., Wu, H., Zalte, A., Zheng, J., Coley, C.W., Green, W.H., Greenman, K.P.
+  journal: J. Chem. Inf. Model.
+  year: 2025
+  volume: 66
+  issue: 1
+  pages: 28-33
+  url: https://doi.org/10.1021/acs.jcim.5c02332
+  preprint: 10.26434/chemrxiv-2025-4p1nr
+  preprint_url: https://doi.org/10.26434/chemrxiv-2025-4p1nr
+  preprint_year: 2025
+  preprint_site: chemrxiv
+  themes:
+    - molecular representation
+    - predictive chemistry
+
+- title: "A generative deep learning approach to de novo antibiotic design"
+  authors: Krishnan, A., Valeri, J.A., Jin, W., Donghia, N.M., Sieben, L., Luttens, A., Zhang, Y., Modaresi, S.M., Hennes, A., Fromer, J., Bandyopadhyay, P., Chen, J.C., Rehman, D., Desai, R., Edwards, P., Lach, R.S., Aschtgen, M.-S., Gaborieau, M., Gaetani, M., Palace, S.G., Omori, S., Khonde, L., Moroz, Y.S., Blough, B., Jin, C., Loh, E., Grad, Y.H., Saei, A.A., Coley, C.W., Wong, F., Collins, J.J.
+  journal: Cell
+  volume: 188
+  issue: 21
+  pages: 5962-5979
+  year: 2025
+  url: https://doi.org/10.1016/j.cell.2025.07.033
+  doi: 10.1016/j.cell.2025.07.033
+  themes:
+    - design and optimization
+
+- title: "Neural Spectral Prediction for Structure Elucidation with Tandem Mass Spectrometry"
+  authors: Wang, R., Manjrekar, M., Mahjour, B., Avila-Pacheco, J., Provenzano, J., Reynolds, E., Lederbauer, M., Mashin, E., Goldman, S., Wang, M., Weng, J.K., Plata, D.L., Clish, C.B., Coley, C.W.
+  journal: bioRxiv
+  year: 2025
+  url: https://doi.org/10.1101/2025.05.28.656653
+  preprint: bioRxiv:2025.05.28.656653
+  preprint_url: https://www.biorxiv.org/content/10.1101/2025.05.28.656653v1
+  preprint_site: biorxiv
+  preprint_year: 2025
+  themes:
+    - metabolomics
+
+- title: "Data-Driven Recommendation of Agents, Temperature, and Equivalence Ratios for Organic Synthesis"
+  authors: Sun, X., Liu, J., Mahjour, B., Jensen, K.F., Coley, C.W.
+  journal: Chem. Sci
+  doi: 10.1039/D5SC04957A
+  year: 2025
+  url: https://doi.org/10.1039/D5SC04957A
+  preprint: 10.26434/chemrxiv-2025-4wzkh
+  preprint_url: https://chemrxiv.org/engage/chemrxiv/article-details/686809c0c1cb1ecda020efc1
+  preprint_year: 2025
+  preprint_site: chemrxiv
+  themes:
+    - predictive chemistry
+    - data
+
+- title: "The Future of Artificial Intelligence and the Mathematical and Physical  Sciences (AI+MPS)"
+  authors: Ferguson, A., ..., Coley, C.W., et al
+  journal: arXiv
+  year: 2025
+  doi: 10.48550/arXiv.2509.02661
+  url: https://doi.org/10.48550/arXiv.2509.02661
+  preprint: arXiv:2509.02661
+  preprint_url: https://arxiv.org/abs/2509.02661
+  preprint_site: arxiv
+  preprint_year: 2025
+
+- title: "Electron flow matching for generative reaction mechanism prediction"
+  authors: Joung, J.F., Fong, M.H., Casetti, N., Liles, J.P., Dassanayake, N.S., Coley, C.W.
+  journal: Nature
+  volume: 645
+  pages: 115-123
+  year: 2025
+  url: https://www.nature.com/articles/s41586-025-09426-9
+  doi: 10.1038/s41586-025-09426-9
+  preprint: arXiv:2502.12979
+  preprint_url: https://arxiv.org/abs/2502.12979
+  preprint_year: 2025
+  preprint_site: arxiv
+  themes:
+    - predictive chemistry
+
+- title: "Autonomous discovery of functional random heteropolymer blends through evolutionary formulation optimization"
+  authors: Wu, G., Jin, T., Alexander-Katz, A., Coley, C.W.
+  journal: Matter
+  year: 2025
+  url: https://doi.org/10.1016/j.matt.2025.102336
+  doi: 10.1016/j.matt.2025.102336
+  volume: 8
+  issue: 12
+  pages: 102336
+  preprint: 10.26434/chemrxiv-2024-nh0xn
+  preprint_url: https://chemrxiv.org/engage/chemrxiv/article-details/671123ff51558a15ef59f01a
+  preprint_year: 2025
+  preprint_site: chemrxiv
+  themes:
+    - design and optimization
+    - automation
+
+- title: "Optimization of robotic liquid handling as a capacitated vehicle routing problem"
+  authors: Wu, G., Wang, R., Coley, C.W.
+  journal: Digital Discovery
+  year: 2025
+  doi: 10.1039/D5DD00233H
+  url: https://doi.org/10.1039/D5DD00233H
+  preprint: arXiv:2506.02795
+  preprint_url: https://arxiv.org/abs/2506.02795
+  preprint_year: 2025
+  preprint_site: arxiv
+  themes:
+    - design and optimization
+    - automation
+
+- title: "Optimal compound downselection to promote diversity and parallel chemistry"
+  authors: Fromer, J.C., Volkova, A.D., Coley, C.W.
+  journal: J. Chem. Inf. Model.
+  year: 2025
+  url: https://doi.org/10.1021/acs.jcim.5c00606
+  doi: 10.1021/acs.jcim.5c00606
+  volume: 65
+  issue: 12
+  pages: 5989-5997
+  preprint: arXiv:2503.13627
+  preprint_url: https://arxiv.org/abs/2503.13627
+  preprint_year: 2025
+  preprint_site: arxiv
+  themes:
+    - design and optimization
+    - predictive chemistry
+
+- title: "ASKCOS: an open source software suite for synthesis planning"
+  authors: Tu, Z., Choure, S.J., Fong, M.H., Roh, J., Levin, I., Yu, K., Joung, J.F., Morgan, N., Li, S., Sun, X., Lin, H., Murnin, M., Liles, J.P., Struble, T.J., Fortunato, M.E., Liu, M., Green, W.H., Jensen, K.F., Coley, C.W.
+  journal: Acc. Chem. Res.
+  url: https://doi.org/10.1021/acs.accounts.5c00155
+  doi: 10.1021/acs.accounts.5c00155
+  volume: 58
+  issue: 11
+  pages: 1764-1775
+  year: 2025
+  preprint: arXiv:2501.01835v1
+  preprint_url: https://arxiv.org/abs/2501.01835
+  preprint_year: 2025
+  preprint_site: arxiv
+  themes:
+    - automation
+    - predictive chemistry
+
 - title: "Batched Bayesian optimization by Maximizing the Probability of Including the Optimum"
   authors: Fromer, J., Wang, R., Manjrekar, M., Tripp, A., Hernández-Lobato, J.M., Coley, C.W.
   journal: J. Chem. Inf. Model.
   year: 2025
+  volume: 65
+  issue: 10
+  pages: 4808-4817
   doi: 10.1021/acs.jcim.5c00214
   url: https://doi.org/10.1021/acs.jcim.5c00214
   preprint: arXiv:2410.06333
@@ -45,7 +430,7 @@
     - design and optimization
     - predictive chemistry
 
-- title: Procedural Synthesis of Molecules
+- title: Procedural Synthesis of Synthesizable Molecules
   authors: Sun, M., Lo, A., Gao, W., Guo, M., Chen, J., Coley, C.W., Matusik, W.
   journal: ICLR
   year: 2025
@@ -62,25 +447,14 @@
   authors: Chemla, Y., Levin, I., Fan, Y., Johnson, A.A., Coley, C.W., Voigt, C.A.
   journal: Nat. Biotechnol.
   year: 2025
+  volume: 44
+  pages: 258-268
   url: https://doi.org/10.1038/s41587-025-02622-y
   doi: 10.1038/s41587-025-02622-y
   themes:
     - metabolomics
     - design and optimization
 
-
-- title: "Optimal compound downselection to promote diversity and parallel chemistry"
-  authors: Fromer, J.C., Volkova, A.D., Coley, C.W.
-  journal: arXiv
-  year: 2025
-  url: https://doi.org/10.48550/arXiv.2503.13627
-  preprint: arXiv:2503.13627
-  preprint_url: https://arxiv.org/abs/2503.13627
-  preprint_year: 2025
-  preprint_site: arxiv
-  themes:
-    - design and optimization
-    - predictive chemistry
 
 - title: "Challenging Reaction Prediction Models to Generalize to Novel Chemistry"
   authors: Bradshaw, J., Zhang, A., Mahjour, B., Graff, D.E., Segler, M.H.S., Coley, C.W.
@@ -99,9 +473,12 @@
     - predictive chemistry
 
 - title: "Designing single-polymer-chain nanoparticles to mimic biomolecular hydration frustration"
-  authors: Jin, T., Alexander-Katz, A., Coley, C.W. 
+  authors: Jin, T., Alexander-Katz, A., Coley, C.W.
   journal: Nat. Chem.
   year: 2025
+  volume: 17
+  issue: 7
+  pages: 997-1004
   url: https://doi.org/10.1038/s41557-025-01760-9
   doi: 10.1038/s41557-025-01760-9
   preprint: 10.26434/chemrxiv-2024-w0dxw
@@ -151,20 +528,8 @@
   themes:
     - molecular representation
 
-- title: "Electron flow matching for generative reaction mechanism prediction obeying conservation laws"
-  authors: Joung, J.F., Fong, M.H., Casetti, N., Liles, J.P., Dassanayake, N.S., Coley, C.W. 
-  journal: arXiv
-  year: 2025
-  url: https://arxiv.org/abs/2502.12979
-  preprint: arXiv:2502.12979
-  preprint_url: https://arxiv.org/abs/2502.12979
-  preprint_year: 2025
-  preprint_site: arxiv
-  themes:
-    - predictive chemistry
-
 - title: "DiffMS: Diffusion Generation of Molecules Conditioned on Mass Spectra"
-  authors: Bohde, M., Manjrekar, M., Wang, R., Ji, S., Coley, C.W. 
+  authors: Bohde, M., Manjrekar, M., Wang, R., Ji, S., Coley, C.W.
   journal: arXiv
   year: 2025
   url: https://arxiv.org/abs/2502.09571
@@ -174,18 +539,6 @@
   preprint_site: arxiv
   themes:
     - metabolomics
-
-- title: "Higher-level Strategies for Computer-Aided Retrosynthesis"
-  authors: Roh, J., Joung, J.F., Yu, K., Tu, Z., Bartholomew, G.L., Santiago-Reyes, O.A., Fong, M.H., Sarpong, R., Reisman, S.E., Coley, C.W. 
-  journal: ChemRxiv
-  year: 2025
-  url: https://doi.org/10.26434/chemrxiv-2025-21zvt
-  preprint: 10.26434/chemrxiv-2025-21zvt
-  preprint_url: https://doi.org/10.26434/chemrxiv-2025-21zvt
-  preprint_year: 2025
-  preprint_site: chemrxiv
-  themes:
-    - predictive chemistry
 
 - title: "Identification of Antituberculars with Favorable Potency and Pharmacokinetics through Structure-Based and Ligand-Based Modeling"
   authors: Warapande, V., Meng, F., Bozan, A. Graff, D.E., Fromer, J.C., Mughal, K., Mohideen, F.K., Shivangi, Paruchuri, S., Johnston, M.L., Sharma, P., Crea, T.R., Rudraraju, R.S., George, A., Folvar, C. Nelson, A.M., Neiditch, M.B., Zimmerman, M.D., Coley, C.W., Freundlich, J.S.
@@ -211,21 +564,27 @@
     - molecular representation
     - design and optimization
 
-- title: "ASKCOS: an open source software suite for synthesis planning"
-  authors: Tu, Z., Choure, S.J., Fong, M.H., Roh, J., Levin, I., Yu, K., Joung, J.F., Morgan, N., Li, S., Sun, X., Lin, H., Murnin, M., Liles, J.P., Struble, T.J., Fortunato, M.E., Liu, M., Green, W.H., Jensen, K.F., Coley, C.W.
-  journal: arXiv
+- title: "Artificial intelligence for science: Quantum, atomistic, and continuum systems"
+  authors: Zhang, X., ..., Adams, K., Bohde, M., Coley, C.W., et al
+  journal: Found. Trends in ML
   year: 2025
-  url: https://arxiv.org/abs/2501.01835
-  preprint: arXiv:2501.01835v1
-  preprint_url: https://arxiv.org/abs/2501.01835
-  preprint_year: 2025
+  volume: 18
+  issue: 4
+  pages: 385-912
+  doi: 10.1561/2200000115
+  url: http://dx.doi.org/10.1561/2200000115
+  preprint: arXiv:2307.08423
+  preprint_url: https://arxiv.org/abs/2307.08423
   preprint_site: arxiv
+  preprocess_year: 2023
   themes:
-    - automation
+    - molecular representation
+    - design and optimization
     - predictive chemistry
+    - data
 
 - title: "Comment on 'Molecular hypergraph neural networks'"
-  authors: Casetti, N., Nevatia, P., Chen, J., Schwaller, P., Coley, C.W. 
+  authors: Casetti, N., Nevatia, P., Chen, J., Schwaller, P., Coley, C.W.
   journal: J. Chem. Phys.
   year: 2024
   url: https://doi.org/10.1063/5.0239722
@@ -235,22 +594,12 @@
   themes:
     - molecular representation
 
-- title: "Anomeric Selectivity of Glycosylations Through a Machine Learning Lens"
-  authors: Faurschou, N.V., Friis, V., Raghavan, P., Pedersen, C.M., Coley, C.W.
-  journal: ChemRxiv
-  year: 2024
-  url: https://chemrxiv.org/engage/chemrxiv/article-details/673390225a82cea2fae7c23e
-  preprint: 10.26434/chemrxiv-2024-jw9dx
-  preprint_url: https://chemrxiv.org/engage/chemrxiv/article-details/673390225a82cea2fae7c23e
-  preprint_year: 2024
-  preprint_site: chemrxiv
-  themes:
-    - predictive chemistry
-
 - title: "Schedule Optimization for Chemical Library Synthesis"
   authors: Ai, Q., Meng, F., Wang, R., Klein, J.C., Godfrey, A.G., Coley, C.W.
   journal: Digital Discovery
   year: 2024
+  volume: 4
+  pages: 486-499
   url: https://doi.org/10.1039/D4DD00327F
   doi: 10.1039/D4DD00327F
   preprint: 10.26434/chemrxiv-2024-0n73z-v2
@@ -264,6 +613,8 @@
   authors: Haas, B., Hardy, M., Sowndarya, S., Adams, K., Coley, C.W., Paton, R., Sigman, M.
   journal: Digital Discovery
   year: 2024
+  volume: 4
+  pages: 222-233
   url: https://doi.org/10.1039/D4DD00284A
   doi: 10.1039/D4DD00284A
   preprint: 10.26434/chemrxiv-2024-m5bpn
@@ -273,19 +624,6 @@
   themes:
     - molecular representation
     - predictive chemistry
-
-- title: "Autonomous discovery of functional random heteropolymer blends through evolutionary formulation optimization"
-  authors: Wu, G., Jin, T., Alexander-Katz, A., Coley, C.W.
-  journal: ChemRxiv
-  year: 2024
-  url: https://chemrxiv.org/engage/chemrxiv/article-details/671123ff51558a15ef59f01a
-  preprint: 10.26434/chemrxiv-2024-nh0xn
-  preprint_url: https://chemrxiv.org/engage/chemrxiv/article-details/671123ff51558a15ef59f01a
-  preprint_year: 2024
-  preprint_site: chemrxiv
-  themes:
-    - design and optimization
-    - automation
 
 - title: "ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design"
   authors: Adams, K., Abeywardane, K.A., Fromer, J., Coley, C.W.
@@ -298,18 +636,6 @@
   preprint_site: arxiv
   themes:
     - molecular representation
-    - design and optimization
-
-- title: "Generative artificial intelligence for navigating synthesizable chemical space"
-  authors: Gao, W., Luo, S., Coley, C.W.
-  journal: arXiv
-  year: 2024
-  url: https://doi.org/10.48550/arXiv.2410.03494
-  preprint: arXiv:2410.03494
-  preprint_url: https://doi.org/10.48550/arXiv.2410.03494
-  preprint_year: 2024
-  preprint_site: arxiv
-  themes:
     - design and optimization
 
 - title: "Ideation and evaluation of novel multicomponent reactions via mechanistic network analysis and automation"
@@ -329,6 +655,8 @@
   authors: Meijer, D., Beniddir, M.A., Coley, C.W., Mejri, Y.M., Ozturk, M., van der Hooft, J.J.J., Medema, M.H., Skiredj, A.
   journal: Nat. Prod. Rep.
   year: 2024
+  volume: 42
+  pages: 654-662
   url: https://doi.org/10.1039/D4NP00008K
   doi: 10.1039/D4NP00008K
   themes:
@@ -349,11 +677,13 @@
 - title: "Reproducing reaction mechanisms with machine learning models trained on a large-scale mechanistic dataset"
   authors: Joung, J.F., Fong, M.H., Roh, J., Tu, Z., Bradshaw, J., Coley, C.W.
   journal: Angew. Chem. Int. Ed.
+  volume: 63
+  issue: 43
   pages: e202411296
   year: 2024
   url: https://doi.org/10.1002/anie.202411296
   doi: 10.1002/anie.202411296
-  preprint: arXiv:2403.04580  
+  preprint: arXiv:2403.04580
   preprint_url: https://doi.org/10.48550/arXiv.2403.04580
   preprint_year: 2024
   preprint_site: arxiv
@@ -401,7 +731,7 @@
   authors: Mahjour, B.A., Coley, C.W.
   journal: Nat. Rev. Chem.
   volume: 8
-  pages: 300–301
+  pages: 300-301
   year: 2024
   url: https://doi.org/10.1038/s41570-024-00599-x
   doi: 10.1038/s41570-024-00599-x
@@ -412,6 +742,8 @@
   authors: Ai, Q., Meng, F., Shi, J., Pelkie, B., Coley, C.W.
   journal: Digital Discov.
   year: 2024
+  volume: 3
+  pages: 1822-1831
   url: https://doi.org/10.1039/D4DD00091A
   doi: 10.1039/D4DD00091A
   preprint: 10.26434/chemrxiv-2024-979fz
@@ -455,7 +787,7 @@
   journal: J. Chem. Inf. Model.
   volume: 64
   issue: 8
-  pages: 2948–2954
+  pages: 2948-2954
   year: 2024
   url: https://doi.org/10.1021/acs.jcim.4c00138
   doi: 10.1021/acs.jcim.4c00138
@@ -468,7 +800,7 @@
   journal: arxiv
   year: 2024
   url: https://arxiv.org/abs/2402.16882
-  preprint:	arXiv:2402.16882
+  preprint:  arXiv:2402.16882
   preprint_url: https://arxiv.org/abs/2402.16882
   preprint_site: arxiv
   preprint_year: 2024
@@ -487,13 +819,13 @@
   themes:
     - molecular representation
     - design and optimization
-  
+
 - title: "Generating molecular fragmentation graphs with autoregressive neural networks"
   authors: Goldman, S., Li, J. Coley, C.W.
   journal: Anal. Chem.
   volume: 96
   issue: 8
-  pages: 3419–3428
+  pages: 3419-3428
   year: 2024
   url: https://doi.org/10.1021/acs.analchem.3c04654
   doi: 10.1021/acs.analchem.3c04654
@@ -549,7 +881,7 @@
   authors: Qian, Y., Li, Z., Tu, Z., Coley, C.W., Barzilay, R.
   journal: Proceedings of the 2023 Conference on EMNLP.
   year: 2023
-  pages: 12731–12745
+  pages: 12731-12745
   url: https://aclanthology.org/2023.emnlp-main.784/
   doi: 10.18653/v1/2023.emnlp-main.784
   preprint: arXiv:2312.04881
@@ -564,7 +896,7 @@
   journal: ACS Cent. Sci.
   volume: 9
   issue: 12
-  pages: 2196–2204
+  pages: 2196-2204
   year: 2023
   url: https://doi.org/10.1021/acscentsci.3c01163
   doi: 10.1021/acscentsci.3c01163
@@ -591,7 +923,7 @@
   authors: Mason, J. W., Hudson, L., Westphal, M. V., Tutter, A., Michaud, G., Shu, W., Ma, X., Coley, C. W., Clemons, P. A., Bonazzi, S., Berst, F., Zécri, F. J., Briner, K., Schreiber, S. L.
   journal: Nat. Chem. Biol.
   volume: 20
-  pages: 170–179
+  pages: 170-179
   url: https://doi.org/10.1038/s41589-023-01458-4
   doi: 10.1038/s41589-023-01458-4
   year: 2023
@@ -607,7 +939,7 @@
   journal: ACS Macro. Lett.
   volume: 12
   issue: 11
-  pages: 1517–1522
+  pages: 1517-1522
   year: 2023
   url: https://doi.org/10.1021/acsmacrolett.3c00553
   doi: 10.1021/acsmacrolett.3c00553
@@ -619,7 +951,7 @@
   authors: Frey, N., Soklaski, R., Alexrod, S., Samsi, S., Gomez-Bombarelli, R., Coley, C. W., Gadepally, V.
   journal: Nat. Mach. Intell.
   volume: 5
-  pages: 1297–1305
+  pages: 1297-1305
   year: 2023
   url: https://doi.org/10.1038/s42256-023-00740-3
   doi: 10.1038/s42256-023-00740-3
@@ -634,11 +966,11 @@
   journal: Process Res. Dev.
   volume: 27
   issue: 11
-  pages: 1868–1879
+  pages: 1868-1879
   year: 2023
   url: https://doi.org/10.1021/acs.oprd.3c00229
   doi: 10.1021/acs.oprd.3c00229
-  themes: 
+  themes:
     - automation
 
 - title: "MIST-CF: Chemical formula inference from tandem mass spectra"
@@ -647,7 +979,7 @@
   year: 2024
   volume: 64
   issue: 7
-  pages: 2421–2431
+  pages: 2421-2431
   url: https://doi.org/10.1021/acs.jcim.3c01082
   doi: 10.1021/acs.jcim.3c01082
   preprint: arXiv:2307.08240
@@ -684,7 +1016,7 @@
   authors: Wang, H., Fu, T., Du, Y., Gao, W., Huang, K., Liu, Z., Chandak, P., Liu, S., Van Katwyk, P., Deac, A., Anandkumar, A., Bergen, K., Gomes, C., Ho, S., Kohli, P., Lasenby, J., Leskovec, J., Liu, T., Manrai, A., Marks, D., Ramsundar, B., Song, L., Sun, J., Tang, J., Veličković, P., Welling, M., Zhang, L., Coley, C.W., Bengio, Y. & Zitnik, M.
   journal: Nature
   volume: 620
-  pages: 47–60
+  pages: 47-60
   year: 2023
   url: https://doi.org/10.1038/s41586-023-06221-2
   doi: 10.1038/s41586-023-06221-2
@@ -693,21 +1025,6 @@
     - design and optimization
     - predictive chemistry
     - automation
-    - data
-
-- title: "Artificial intelligence for science: Quantum, atomistic, and continuum systems"
-  authors: Zhang, X., Wang, L., Helwig, J., Luo, Y., Fu, C., Xie, Y., Adams, K., Coley, C.W., Qian, X., Qian, X., Smidt, T., Ji, S.
-  journal: arxiv
-  year: 2023
-  url: https://arxiv.org/abs/2307.08423
-  preprint: arXiv:2307.08423
-  preprint_url: https://arxiv.org/abs/2307.08423
-  preprint_site: arxiv
-  preprocess_year: 2023
-  themes:
-    - molecular representation
-    - design and optimization
-    - predictive chemistry
     - data
 
 - title: "PyLabRobot: An open-source hardware agnostic interface for liquid-handling robots and accessories"
@@ -743,7 +1060,7 @@
   journal: J. Chem. Inf. Model.
   volume: 63
   issue: 14
-  pages: 4253–4265
+  pages: 4253-4265
   year: 2023
   url: https://doi.org/10.1021/acs.jcim.3c00607
   doi: 10.1021/acs.jcim.3c00607
@@ -756,7 +1073,7 @@
   year: 2023
   volume: 63
   issue: 13
-  pages: 4030–4041
+  pages: 4030-4041
   url: https://doi.org/10.1021/acs.jcim.3c00439
   doi: 10.1021/acs.jcim.3c00439
   preprint: arXiv:2305.11845
@@ -770,7 +1087,7 @@
   authors: David, N., Sun, W., Coley, C.W.
   journal: Comput. Sci.
   volume: 3
-  pages: 362–364
+  pages: 362-364
   year: 2023
   url: https://doi.org/10.1038/s43588-023-00446-x
   doi: 10.1038/s43588-023-00446-x
@@ -832,7 +1149,7 @@
   authors: Wu, G., Zhou, H., Chang, J., Tian, Z., Liu, X., Wang, S., Coley, C.W., Lu, H.
   journal: Nat. Synth.
   volume: 2
-  pages: 515–526
+  pages: 515-526
   year: 2023
   url: https://doi.org/10.1038/s44160-023-00294-7
   doi: 10.1038/s44160-023-00294-7
@@ -849,7 +1166,7 @@
   journal: J. Org. Chem.
   volume: 88
   issue: 9
-  pages: 5239–5241
+  pages: 5239-5241
   year: 2023
   url: https://doi.org/10.1021/acs.joc.3c00844
   doi: 10.1021/acs.joc.3c00844
@@ -874,7 +1191,7 @@
   journal: J. Chem. Inf. Model.
   volume: 63
   issue: 7
-  pages: 1925–1934
+  pages: 1925-1934
   year: 2023
   url: https://doi.org/10.1021/acs.jcim.2c01480
   doi: 10.1021/acs.jcim.2c01480
@@ -891,7 +1208,7 @@
   journal: Macromolecules
   volume: 56
   issue: 5
-  pages: 1798–1809
+  pages: 1798-1809
   year: 2023
   url: https://doi.org/10.1021/acs.macromol.2c02413
   doi: 10.1021/acs.macromol.2c02413
@@ -914,7 +1231,7 @@
   authors: Goldman, S., Wohlwend, J., Stražar, M., Haroush, G., Xavier, R.J., Coley, C.W.
   journal: Nat. Mach. Intell.
   volume: 5
-  pages: 965–979
+  pages: 965-979
   year: 2022
   url: https://doi.org/10.1038/s42256-023-00708-3
   doi: 10.1038/s42256-023-00708-3
@@ -1004,7 +1321,7 @@
   preprint_site: chemrxiv
   preprint_year: 2022
 
-- title: "Equivariant shape-conditioned generation of 3D molecular for ligand-based drug design"
+- title: "Equivariant shape-conditioned generation of 3D molecules for ligand-based drug design"
   authors: Adams, K., Coley, C. W.
   journal: ICLR
   year: 2023
@@ -1042,7 +1359,7 @@
   authors: Huang, K., Fu, T., Gao, W., Zhao, Y., Roohani, Y., Leskovec, J., Coley, C. W., Xiao, C., Sun, J., Zitnik, M.
   journal: Nature Chem. Bio.
   volume: 18
-  pages: 1033–1036
+  pages: 1033-1036
   year: 2022
   url: https://doi.org/10.1038/s41589-022-01131-2
   doi: 10.1038/s41589-022-01131-2
@@ -1058,7 +1375,7 @@
   year: 2022
   volume: 62
   issue: 19
-  pages: 4660–4671
+  pages: 4660-4671
   url: https://doi.org/10.1021/acs.jcim.2c00903
   doi: 10.1021/acs.jcim.2c00903
   preprint: arXiv:2207.09250
@@ -1076,7 +1393,7 @@
   year: 2022
   url: https://doi.org/10.1039/D2SC90130G
   doi: 10.1039/D2SC90130G
-  themes: 
+  themes:
     - design and optimization
 
 - title: "A graph representation of molecular ensembles for polymer property prediction"
@@ -1115,7 +1432,7 @@
   journal: J. Chem. Inf. Model.
   volume: 62
   issue: 16
-  pages: 3854–3862
+  pages: 3854-3862
   year: 2022
   url: https://doi.org/10.1021/acs.jcim.2c00554
   doi: 10.1021/acs.jcim.2c00554
@@ -1123,6 +1440,18 @@
   preprint_url: https://doi.org/10.48550/arXiv.2205.01753
   preprint_site: arxiv
   preprint_year: 2022
+  themes:
+    - design and optimization
+
+- title: "Machine Learning on DNA-Encoded Library Count Data Using an Uncertainty-Aware Probabilistic Loss Function"
+  authors: Lim, K. S., Reidenbach, A. G., Hua, B. K., Mason, J. W., Gerry, C. J., Clemons, P. A., Coley, C. W.
+  journal: J. Chem. Inf. Model.
+  volume: 62
+  issue: 10
+  pages: 2316-2331
+  year: 2022
+  doi: 10.1021/acs.jcim.2c00041
+  url: https://doi.org/10.1021/acs.jcim.2c00041
   themes:
     - design and optimization
 
@@ -1206,7 +1535,7 @@
   journal: J. Am. Chem. Soc.
   volume: 143
   issue: 45
-  pages: 18820–18826
+  pages: 18820-18826
   year: 2021
   url: https://doi.org/10.1021/jacs.1c09820
   doi: 10.1021/jacs.1c09820
@@ -1218,7 +1547,7 @@
   journal: J. Chem. Inf. Model.
   volume: 62
   issue: 15
-  pages: 3503–3513
+  pages: 3503-3513
   year: 2022
   url: https://doi.org/10.1021/acs.jcim.2c00321
   doi: 10.1021/acs.jcim.2c00321
@@ -1273,7 +1602,7 @@
   year: 2022
   url: https://doi.org/10.1371/journal.pcbi.1009853
   doi: 10.1371/journal.pcbi.1009853
-  preprint: 	arXiv:2109.03900
+  preprint:   arXiv:2109.03900
   preprint_url: https://doi.org/10.48550/arXiv.2109.03900
   preprint_site: arxiv
   preprint_year: 2021
@@ -1285,7 +1614,7 @@
   journal: ACS Cent. Sci.
   volume: 7
   issue: 8
-  pages: 1356–1367
+  pages: 1356-1367
   year: 2021
   url: https://doi.org/10.1021/acscentsci.1c00546
   doi: 10.1021/acscentsci.1c00546
@@ -1337,7 +1666,7 @@
   journal: J. Chem. Inf. Model.
   volume: 62
   issue: 9
-  pages: 2035–2045
+  pages: 2035-2045
   year: 2021
   url: https://doi.org/10.1021/acs.jcim.1c00284
   doi: 10.1021/acs.jcim.1c00284
@@ -1349,7 +1678,7 @@
   journal: J. Chem. Inf. Model.
   volume: 61
   issue: 10
-  pages: 4949–4961
+  pages: 4949-4961
   year: 2021
   url: https://doi.org/10.1021/acs.jcim.1c00921
   doi: 10.1021/acs.jcim.1c00921
@@ -1419,7 +1748,7 @@
   journal: J. Chem. Inf. Model.
   volume: 61
   issue: 1
-  pages: 493–504
+  pages: 493-504
   year: 2020
   url: https://doi.org/10.1021/acs.jcim.0c01032
   doi: 10.1021/acs.jcim.0c01032
@@ -1498,7 +1827,7 @@
   journal: J. Chem. Inf. Model.
   volume: 60
   issue: 8
-  pages: 3770–3780
+  pages: 3770-3780
   year: 2020
   url: https://doi.org/10.1021/acs.jcim.0c00502
   doi: 10.1021/acs.jcim.0c00502
@@ -1525,7 +1854,7 @@
   journal: J. Med. Chem.
   volume: 63
   issue: 16
-  pages: 8667–8682
+  pages: 8667-8682
   year: 2020
   url: https://doi.org/10.1021/acs.jmedchem.9b02120
   doi: 10.1021/acs.jmedchem.9b02120
@@ -1539,7 +1868,7 @@
   journal: J. Chem. Inf. Model.
   volume: 60
   issue: 12
-  pages: 5714–5723
+  pages: 5714-5723
   year: 2020
   url: https://doi.org/10.1021/acs.jcim.0c00174
   doi: 10.1021/acs.jcim.0c00174
@@ -1567,7 +1896,7 @@
   journal: J. Chem. Inf. Model.
   volume: 60
   issue: 7
-  pages: 3398–3407
+  pages: 3398-3407
   year: 2020
   url: https://doi.org/10.1021/acs.jcim.0c00403
   doi: 10.1021/acs.jcim.0c00403
@@ -1635,7 +1964,7 @@
   journal: ACS Cent. Sci.
   volume: 5
   issue: 9
-  pages: 1523–1531
+  pages: 1523-1531
   year: 2019
   url: https://doi.org/10.1021/acscentsci.9b00476
   doi: 10.1021/acscentsci.9b00476
@@ -1659,7 +1988,7 @@
   journal: J. Chem. Inf. Model.
   volume: 59
   issue: 8
-  pages: 3370–3388
+  pages: 3370-3388
   year: 2019
   url: https://doi.org/10.1021/acs.jcim.9b00237
   doi: 10.1021/acs.jcim.9b00237
@@ -1676,7 +2005,7 @@
   journal: J. Chem. Inf. Model.
   volume: 59
   issue: 6
-  pages: 2529–2537
+  pages: 2529-2537
   year: 2019
   url: https://doi.org/10.1021/acs.jcim.9b00286
   doi: 10.1021/acs.jcim.9b00286
@@ -1691,7 +2020,7 @@
   journal: ACS Cent. Sci.
   volume: 5
   issue: 6
-  pages: 970–981
+  pages: 970-981
   year: 2019
   url: https://doi.org/10.1021/acscentsci.9b00055
   doi: 10.1021/acscentsci.9b00055
@@ -1718,7 +2047,7 @@
   journal: ACS Cent. Sci.
   volume: 4
   issue: 11
-  pages: 1465–1476
+  pages: 1465-1476
   year: 2018
   url: https://doi.org/10.1021/acscentsci.8b00357
   doi: 10.1021/acscentsci.8b00357
@@ -1741,7 +2070,7 @@
   journal: Acc. Chem. Res.
   volume: 51
   issue: 5
-  pages: 1281–1289
+  pages: 1281-1289
   year: 2018
   url: https://doi.org/10.1021/acs.accounts.8b00087
   doi: 10.1021/acs.accounts.8b00087
@@ -1764,7 +2093,7 @@
   journal: Org. Process Res. Dev.
   volume: 22
   issue: 4
-  pages: 542–550
+  pages: 542-550
   year: 2018
   url: https://doi.org/10.1021/acs.oprd.8b00018
   doi: 10.1021/acs.oprd.8b00018
@@ -1787,7 +2116,7 @@
   journal: Langmuir
   volume: 34
   issue: 10
-  pages: 3307–3315
+  pages: 3307-3315
   year: 2018
   url: https://doi.org/10.1021/acs.langmuir.8b00076
   doi: 10.1021/acs.langmuir.8b00076
@@ -1800,7 +2129,7 @@
   journal: J. Chem. Inf. Model.
   volume: 58
   issue: 2
-  pages: 252–261
+  pages: 252-261
   year: 2018
   url: https://doi.org/10.1021/acs.jcim.7b00622
   doi: 10.1021/acs.jcim.7b00622
@@ -1813,7 +2142,7 @@
   journal: ACS Cent. Sci.
   volume: 3
   issue: 12
-  pages: 1237–1245
+  pages: 1237-1245
   year: 2017
   url: https://doi.org/10.1021/acscentsci.7b00355
   doi: 10.1021/acscentsci.7b00355
@@ -1858,7 +2187,7 @@
   journal: J. Chem. Inf. Model.
   volume: 57
   issue: 8
-  pages: 1757–1772
+  pages: 1757-1772
   year: 2017
   url: https://doi.org/10.1021/acs.jcim.6b00601
   doi: 10.1021/acs.jcim.6b00601
@@ -1882,7 +2211,7 @@
   journal: ACS Cent. Sci.
   volume: 3
   issue: 5
-  pages: 434–443
+  pages: 434-443
   year: 2017
   url: https://doi.org/10.1021/acscentsci.7b00064
   doi: 10.1021/acscentsci.7b00064
@@ -1905,7 +2234,7 @@
   journal: Anal. Chem.
   volume: 87
   issue: 21
-  pages: 11130–11136
+  pages: 11130-11136
   year: 2015
   url: https://doi.org/10.1021/acs.analchem.5b03311
   doi: 10.1021/acs.analchem.5b03311
@@ -1917,7 +2246,7 @@
   journal: Chem. Mater.
   volume: 27
   issue: 17
-  pages: 6131–6138
+  pages: 6131-6138
   year: 2015
   url: https://doi.org/10.1021/acs.chemmater.5b02821
   doi: 10.1021/acs.chemmater.5b02821

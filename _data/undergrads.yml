@@ -1,17 +1,4 @@
 
-- name: Alexandra Volkova
-  photo: Alexandra_Volkova.png
-  info: UROP @ MIT
-  email: alevol26@mit.edu
-  linkedin: https://www.linkedin.com/in/alexandra-volkova-mit/
-  description: Alexandra is a junior studying Computer Science and Molecular Biology (6-7) and Finance (15-3) at MIT. She is interested in advancing drug design through intelligent selection of drug candidates for synthesis.
-
-- name: Jonathan Huang
-  photo: Jonathan_Huang.jpg
-  info: UROP @ MIT
-  email: jhuang25@mit.edu
-  description: Jonathan is an senior in EECS (6-2) and Biology (7) at MIT. He is interested in applying optimization techniques to efficiently explore combinatorial synthesis drug libraries.
-
 - name: Montgomery Bohde
   photo: Montgomery_Bohde.JPG
   info: MSRP @ Texas A&M
@@ -20,10 +7,11 @@
   description: Montgomery is studying Computer Science and Applied Math at Texas A&M University (B.S. 2026), where he is advised by Prof. Shuiwang Ji. His research interest is in graph neural networks and genenerative models with applications in AI for Science.
 
 - name: Ne Dassanayake
-  photo: placeholder.png
+  photo: Ne_Dassanayake.jpeg
   info: UROP @ MIT
-  email: 
-  description:
+  email: nedassa@mit.edu
+  linkedin: https://www.linkedin.com/in/nethaka-dassanayake-b48726258/
+  description: Ne is a senior studying 6-3 and 8 at MIT. He is interested in the application of generative modeling to both drug design and reaction mechanisms.
 
 - name: Ray Wang
   photo: Ray_Wang.JPG
@@ -37,4 +25,49 @@
   info: UROP @ MIT
   email: syxcao@mit.edu
   linkedin: https://www.linkedin.com/in/sarah-cao-a5389b251/
-  description: Sarah studies Chemistry-Biology and Math with CS at MIT! She is interested in using generative models to navigate the chemical space through individual mechanistic steps. 
+  description: Sarah studies Chemistry-Biology and Math with CS at MIT! She is interested in using generative models to navigate the chemical space through individual mechanistic steps.
+
+- name: Greycen Ren
+  photo: Greycen_Ren.png
+  info: UROP @ MIT
+  email: greyren@mit.edu
+  description: Greycen is a senior in 6-7 and 18 at MIT. He's interested in computational methods with applications in biology and chemistry.
+
+- name: Janet Guo
+  photo: Janet_Guo.png
+  info: UROP @ MIT
+  email: janetguo@mit.edu
+  description: Janet is a junior majoring in 6-4 (AI and Decision Making) and minoring in 7 (Biology) at MIT. She is interested in developing automated workflows for conditional generation of small molecules.
+
+- name: Phoenix Wu
+  photo: Phoenix_Wu.jpeg
+  info: UROP @ MIT
+  email: phoenixw@mit.edu
+  description: Phoenix is a junior in 6-4 (AI and Decision Making) at MIT. He is interested in developing computer aided synthesis planning tools for organic chemistry.
+
+- name: Gozel Dovranova
+  photo: Gozel_Dovranova.jpg
+  info: UROP @ MIT
+  email: gozel@mit.edu
+  description: Gozel is a senior double majoring in 10 (Chemical Engineering) and 6-4 (AI and Decision Making). She is interested in the application of machine learning to synthesis prediction in organic chemistry.
+
+- name: Kasie Leung
+  photo: Kasie_Leung.jpg
+  info: UROP @ Harvard
+  email: kasieleu@mit.edu
+  description: Kasie is a junior at Harvard, studying Chemistry & Physics and Computer Science. She is interested in developing data-driven tools to predict electrochemical reactivity.
+
+- name: Aquila Wolff
+  photo: Aquila_Wolff.jpg
+  info: UROP @ Harvard
+  email: anwolff@college.harvard.edu
+  description: Aquila is a junior studying Chemistry and Physics at Harvard. His main interests are synthesis route design and reaction prediction through computational methods.
+
+- name: Ali Alsaleh
+  photo: Ali_Alsaleh.jpg
+  info: UROP @ MIT
+  email: alsalali@mit.edu
+  linkedin: www.linkedin.com/in/alsaleh-ali
+  description: Ali is a sophomore at MIT studying Chemistry (5). He is interested in exploring applications of lab automation in chemical discovery.
+
+  

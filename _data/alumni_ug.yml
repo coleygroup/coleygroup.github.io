@@ -1,3 +1,13 @@
+- name: Hasan Alkhalifa
+  link:
+  previous: UG, MIT
+  current:
+
+- name: Jonathan Huang
+  link:
+  previous: UG 2025, MIT
+  current:
+
 - name: Nicolas Manno
   link:
   previous: UG 2025, MIT
@@ -16,6 +26,21 @@
 - name: Giselle Brown
   link:
   previous: UG 2025, UCLA
+  current:
+
+- name: Joy Zhuo
+  link: mailto:joyzhuo@mit.edu
+  previous: UROP 2024 @ MIT
+  current:
+
+- name: Michael Dennison
+  link:
+  previous: UG, MIT
+  current:
+
+- name: Parker McClain
+  link:
+  previous: UG, MIT
   current:
 
 - name: Ghazal Mirzazadeh
@@ -112,18 +137,8 @@
   link: mailto:natelgrw@mit.edu
   previous: UROP 2024 @ MIT
   current:
-
-- name: Joy Zhuo
-  link: mailto:joyzhuo@mit.edu
-  previous: UROP 2024 @ MIT
-  current:
-
-- name: Michael Dennison
-  link: mailto:mddennis@mit.edu
-  previous: UROP 2024 @ MIT
-  current:
-
-- name: Ali Alsaleh
-  link: mailto:aalsaleh@mit.edu
-  previous: UROP 2025 @ MIT
-  current:
+  
+- name: Alexandra Volkova
+  link: https://www.linkedin.com/in/alexandra-volkova-mit/
+  previous: UG 2025, MIT
+  current: Masters Student @ MIT

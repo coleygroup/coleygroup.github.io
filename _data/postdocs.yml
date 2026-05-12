@@ -26,3 +26,17 @@
   linkedin: https://www.linkedin.com/in/jonas-rein-68a59a23b
   description: Jonas completed his PhD in Organic Chemistry at Cornell University with Prof. Song Lin in 2024. His postdoctoral research seeks to integrate organic chemistry with data-driven approaches to systematically identify gaps in the current landscape of organic synthesis and accelerate the discovery of innovative solutions in the laboratory.
   
+- name: Justin Bui
+  photo: Justin_Bui.jpeg
+  info: Postdoctoral Fellow (co-advised with Prof. Klavs Jensen)
+  email: jcbui@mit.edu
+  linkedin: https://www.linkedin.com/in/justincbui/
+  twitter: https://x.com/JustinBui888
+  description: Justin received his Ph.D. in Chemical Engineering from UC Berkeley in 2024, working with Dr. Adam Weber and Prof. Alexis Bell to develop continuum models of electro-membrane and electrocatalytic systems. Afterwards, he worked at Caltech as a postdoc with Prof. Karthish Manthiram to develop flow reactors for electrochemical ammonia and epoxide synthesis. At MIT, Justin plans to leverage ML tools and automation to identify and optimize organic reactions that can be performed electrochemically.
+
+- name: Ashfaq Iftakher
+  photo: Ashfaq_Iftakher.jpg
+  info: Postdoctoral Associate
+  email: iftakher@mit.edu
+  linkedin: https://www.linkedin.com/in/ashfaqiftakher/
+  description: Ashfaq received his Ph.D. in Chemical Engineering from Texas A&M University with Prof. Faruque Hasan in 2025, where he developed machine learning and optimization-based frameworks for computer-aided molecular and process design. He then joined AspenTech, where he worked at the intersection of mixed-integer optimization and machine learning for refinery scheduling problems. Ashfaq later returned to academia and joined the Coley group to work on process chemistry-aware computer-aided synthesis planning and multiscale decision-making. 

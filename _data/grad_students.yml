@@ -13,13 +13,19 @@
   linkedin: https://www.linkedin.com/in/anji-zhang/
   description: Anji graduated from the University of Toronto with a B.S. in Chemistry, where she worked on reaction methodology and automation. She is now pursuing her PhD in Chemistry at MIT as a co-advised student with Timothy Jamison, where her research focuses on using machine learning for reaction outcome prediction and data-driven reaction optimization.
 
-- name: Herry (Tianyi) Jin
-  photo: Herry_Jin.jpg
+- name: Bryan Wang
+  photo: Bryan_Wang.jpg
   info: PhD Student
-  email: herryjin@mit.edu
-  twitter: https://twitter.com/HerryJin
-  linkedin: https://www.linkedin.com/in/tianyi-herry-jin-007237127/
-  description: Herry received his B.S. in Chemical Engineering and Mathematics from UW-Madison in 2020 and now is a PhD student at MIT in Chemical Engineering, co-advised with Alfredo Alexander-Katz. He is interested in using machine learning and molecular modeling to promote enzyme stability via random copolymers.
+  email: bmwang@mit.edu
+  linkedin: https://www.linkedin.com/in/bryan-wang-8259a21a9/
+  description: Bryan received his B.S. in Chemical Engineering from Caltech in 2025 and is now a PhD student in Chemical Engineering at MIT as a coadvised student with Rafael Gómez-Bombarelli. His research focuses on using machine learning to better understand and design enzymes. 
+ 
+- name: Hongxuan Liu
+  photo: Hongxuan_Liu.jpg
+  info: PhD Student
+  email: liuhx25@mit.edu
+  linkedin: https://www.linkedin.com/in/hongxuan-liu-045449353/
+  description: Hongxuan obtained his BSc in Chemical Biology and BEng in Chemical & Biomolecular Engineering from Tsinghua University in 2025 and is now a PhD student in Chemical Engineering at MIT. His research focuses on using geometric deep learning and generative models for molecular structure elucidation on tandem mass spectrometry data.
 
 - name: Jenna Fromer
   photo: Jenna_Fromer.jpeg
@@ -41,6 +47,13 @@
   email: jpro@mit.edu
   description: Joules received their B.S. in Chemical Engineering and Global Studies at Rochester Institute of Technology and is now a PhD student at MIT in Chemical Engineering. Co-advised by Desirée Plata, Joules uses experimental and data-driven methods to better understand environmental degradation pathways of complex mixtures.
 
+- name: Kenji Walker
+  photo: Kenji_Walker.jpg
+  info: PhD Student
+  email: kewalker@mit.edu
+  linkedin: https://www.linkedin.com/in/kenjiwalker/
+  description: Kenji received a B.S. in Biomedical Engineering from Boston University and is now a PhD student in the Harvard-MIT Health Sciences and Technology program co-advised by Angela Koehler. His research interest is in improving small-molecule drug design using AI/ML.
+
 - name: Kento Abeywardane
   photo: Kento_Abeywardane.jpeg
   info: PhD Student
@@ -50,10 +63,17 @@
 
 - name: Kevin Yu
   photo: Kevin_Yu.jpeg
-  info: SM Student
+  info: PhD Student
   email: kyu3@mit.edu
   linkedin: https://www.linkedin.com/in/kevin-yu-854b09174/
-  description: Kevin received his BS in Chemistry and CS from Caltech in 2022 and is now an SM student at MIT in Computational Science and Engineering. He is broadly interested in developing predictive tools and algorithms that can benefit synthetic chemists, with a focus on synthesis planning for complex molecules.
+  description: Kevin received his BS in Chemistry and CS from Caltech in 2022 and an SM in Computational Science and Engineering from MIT. He is now a PhD student at MIT in Electrical Engineering and Computer Science. In addition to predictive chemistry methods, especially for synthesis planning, he is interested in how machine learning and cheminformatics can be leveraged for generating scientific insight or accelerating reaction discovery and development.
+
+- name: Magdalena Lederbauer
+  photo: Magdalena_Lederbauer.jpeg
+  info: PhD Student
+  email: magled@mit.edu
+  linkedin: https://www.linkedin.com/in/magdalena-lederbauer/
+  description: Magdalena obtained her MSc and BSc in Chemistry from ETH Zurich in 2025 and is now a PhD student in Chemical Engineering and Computational Science and Engineering at MIT. Her research focuses on developing machine learning methods for molecular structure elucidation from mass spectrometry data and reaction discovery, with an emphasis on physics-constrained neural networks and generative models.
 
 - name: Matthew Cox
   photo: Matthew_Cox.jpeg
@@ -82,13 +102,6 @@
   linkedin: http://www.linkedin.com/in/nicholas-casetti-3a95b9170
   description: Nick received his BS in Chemical Engineering from Purdue University in 2022, and is now a PhD student in Chemical Engineering at MIT. He is interested in using machine learning for reaction mechanism elucidation and discovery.
 
-- name: Priyanka Raghavan
-  photo: Priyanka_Raghavan.jpg
-  info: PhD Student
-  email: priyarag@mit.edu
-  linkedin: https://www.linkedin.com/in/priyanka-raghavan/
-  description: Priyanka graduated from UC Berkeley with a B.S. in Chemical Engineering, where she used quantum science to engineer new generation MRI machines and biological imaging techniques. Working towards her PhD at MIT, she is exploring problems involving intelligent discovery using AI/ML, directed evolution, combinatorial chemistry, and robotics.
-
 - name: Shitong Luo
   photo: Shitong_Luo.jpeg
   info: PhD Student
@@ -104,23 +117,22 @@
   linkedin: https://www.linkedin.com/in/suong-tran-6925a8195/
   description: Suong earned her BS in Chemistry and Data Analytics from Dickinson College in 2024. She is currently pursuing a PhD in Chemistry at MIT, with a focus on applying machine learning and data-driven approaches to synthesis planning.
 
-- name: Wenhao Gao
-  photo: Wenhao_Gao.jpeg
+- name: Tim Pinkhassik
+  photo: Tim_Pinkhassik.png
   info: PhD Student
-  email: whgao@mit.edu
-  twitter: https://twitter.com/WenhaoGao1
-  linkedin: https://www.linkedin.com/in/wenhao-gao-5bba5817b/
-  description: Wenhao received his B.S. in Chemistry from Peking University and his M.S. in Chemical and Biomolecular Engineering from Johns Hopkins University. He joined the group in 2020 and his research interest focuses on using artificial intelligence and robotic automation to accelerate biological and chemical discovery processes.
+  email: ptim@mit.edu
+  linkedin: https://www.linkedin.com/in/timothy-pinkhassik-978a571a6/
+  description: Tim Pinkhassik received his B.S. in Chemistry from U.C. Berkeley in 2025, where he worked under Prof. Hartwig on mechanistic study and method development of copper and palladium catalyzed cross coupling reactions.  He is currently pursuing a PhD in Chemistry at MIT, where his current research interests are applying deep learning to reaction mechanism prediction and reaction discovery.
 
 - name: Xiaoqi Sun
-  photo: Xiaoqi_Sun.jpeg
+  photo: Xiaoqi_Sun.jpg
   info: PhD Student
   email: xiaoqis@mit.edu
   linkedin: https://www.linkedin.com/in/xiaoqisun29/
   description: Xiaoqi graduated from UC Berkeley with a B.A. in Data Science and a B.S. in Chemical Engineering in 2022. As a PhD student in Chemical Engineering at MIT, she is interested in exploring autonomous data-driven synthesis and applying machine learning to reaction prediction problems.
 
 - name: Zahmiria Johnson
-  photo: Zahmiria_Johnson.jpg
+  photo: Zahmiria_Johnson.jpeg
   info: PhD Student
   email: zahmiria@mit.edu
   linkedin: https://www.linkedin.com/in/zahmiria/
