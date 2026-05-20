@@ -31,10 +31,33 @@
 #     - metabolomics
 #     - data
 
+- title: "A machine learning-based workflow for transaminase selection"
+  authors: Rago, A.J., Raghavan, P., Santiago-Capeles, L., Zhang, R., Wang, Y., Coley, C.W.
+  journal: Chem. Sci.
+  year: 2026
+  url: https://doi.org/10.1039/D6SC00852F
+  doi: 10.1039/D6SC00852F
+  themes:
+    - predictive chemistry
+    - data
+
+- title: "An overview of reaction outcome prediction with physics-based and data-driven methods"
+  authors: Joung, J.F., Casetti, N., Raghavan, P., Coley, C.W.
+  journal: Chem. Soc. Rev.
+  year: 2026
+  url: https://doi.org/10.1039/D6CS00079G
+  doi: 10.1039/D6CS00079G
+  themes:
+    - molecular representation
+    - predictive chemistry
+
 - title: "Hydrolysis Reaction Rate Prediction Using Machine Learning: WaterDRoP"
   authors: Lemay, A.C., Coley, C.W., Plata, D.L.
   journal: Environ. Sci. Technol.
   year: 2026
+  volume: 60
+  issue: 17
+  pages: 13088-13098
   url: https://doi.org/10.1021/acs.est.5c16184
   doi: 10.1021/acs.est.5c16184
   themes:
@@ -55,6 +78,9 @@
 - title: "Polymerized Short Sequences as a Template for Protein Folding and Evolution"
   authors: Jin, T., Sass, J., Gao, W., Hurst, A., Coley, C.W., Alexander-Katz, A.
   journal: Nano Lett.
+  volume: 26
+  issue: 13
+  pages: 4471-4479
   year: 2026
   doi: 10.1021/acs.nanolett.6c00527
   url: https://doi.org/10.1021/acs.nanolett.6c00527
