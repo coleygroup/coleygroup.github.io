@@ -33,6 +33,15 @@
   email: greyren@mit.edu
   description: Greycen is a senior in 6-7 and 18 at MIT. He's interested in computational methods with applications in biology and chemistry.
 
+- name: Shrey Goel
+  photo: Shrey_Goel.png
+  info: UROP @ MIT
+  email: shrey.goel@duke.edu
+  twitter: https://x.com/__shreygoel
+  linkedin: https://www.linkedin.com/in/shreygoelpdx/
+  website: https://shreygoel09.github.io/
+  description: Shrey is a rising senior at Duke University studying Computer Science. He is interested in fundamental techniques in generative modeling and their applications to molecular and building block-constrained design.
+
 - name: Janet Guo
   photo: Janet_Guo.png
   info: UROP @ MIT
@@ -69,5 +78,3 @@
   email: alsalali@mit.edu
   linkedin: www.linkedin.com/in/alsaleh-ali
   description: Ali is a sophomore at MIT studying Chemistry (5). He is interested in exploring applications of lab automation in chemical discovery.
-
-  
