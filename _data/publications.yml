@@ -31,6 +31,22 @@
 #     - metabolomics
 #     - data
 
+- title: "Harnessing AtomisticSkills for Agentic Atomistic Research"
+  authors: Deng, B., Li, B., Cox, M., Chun, H., Nam, J., Lyssenko, A., Edamadaka, S., Ruza, J., Du, X., Segal, N., Sanchez, J.D., Xie, M., Perez, T., Yao, Y., Steiner, M., Majumdar, S., Musgrave, C.B. III, Chandra, A., Patra, A., Hohl, D., Coley, C.W., Li, J., Gómez-Bombarelli, R.
+  journal: arXiv
+  year: 2026
+  url: https://doi.org/10.48550/arXiv.2605.24002
+  preprint: arXiv:2605.24002
+  preprint_url: https://doi.org/10.48550/arXiv.2605.24002
+  preprint_year: 2026
+  preprint_site: arxiv
+  themes:
+    - molecular representation
+    - design and optimization
+    - predictive chemistry
+    - automation
+    - data
+
 - title: "A machine learning-based workflow for transaminase selection"
   authors: Rago, A.J., Raghavan, P., Santiago-Capeles, L., Zhang, R., Wang, Y., Coley, C.W.
   journal: Chem. Sci.
