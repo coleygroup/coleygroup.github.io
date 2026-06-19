@@ -31,6 +31,33 @@
 #     - metabolomics
 #     - data
 
+- title: "MassSpecGym in the Wild: Uncovering and Correcting Evaluation Pitfalls in AI-Driven Molecule Discovery"
+  authors: Liu, H., Bushuiev, R., Lightheart, I., Manjrekar, M., Bushuiev, A., Lederbauer, M., Jozefov, F., Wang, Y., Hassoun, S., Sivic, J., Taylor, J., Wang, R., Healey, D., Pluskal, T., Coley, C.W.
+  journal: arXiv
+  year: 2026
+  url: https://doi.org/10.48550/arXiv.2606.19624
+  preprint: arXiv:2606.19624
+  preprint_url: https://doi.org/10.48550/arXiv.2606.19624
+  preprint_year: 2026
+  preprint_site: arxiv
+  themes:
+    - metabolomics
+    - data
+
+- title: "Quantifying the Failure Modes of Current One-step Retrosynthesis Models"
+  authors: Tran, S.B.A., Roh, J., Coley, C.W. 
+  journal: Chem. Sci.
+  year: 2026
+  doi: 10.1039/D6SC01323F
+  url: https://doi.org/10.1039/D6SC01323F
+  preprint: 10.26434/chemrxiv.15000071/v1
+  preprint_url: https://doi.org/10.26434/chemrxiv.15000071/v1
+  preprint_year: 2026
+  preprint_site: chemrxiv
+  themes:
+    - predictive chemistry
+    - data
+
 - title: "Harnessing AtomisticSkills for Agentic Atomistic Research"
   authors: Deng, B., Li, B., Cox, M., Chun, H., Nam, J., Lyssenko, A., Edamadaka, S., Ruza, J., Du, X., Segal, N., Sanchez, J.D., Xie, M., Perez, T., Yao, Y., Steiner, M., Majumdar, S., Musgrave, C.B. III, Chandra, A., Patra, A., Hohl, D., Coley, C.W., Li, J., Gómez-Bombarelli, R.
   journal: arXiv
@@ -148,19 +175,6 @@
     - predictive chemistry
     - automation
     - metabolomics
-    - data
-
-- title: "Quantifying the Failure Modes of Current One-step Retrosynthesis Models"
-  authors: Tran, S.B.A., Roh, J., Coley, C.W. 
-  journal: ChemRxiv
-  year: 2026
-  url: https://doi.org/10.26434/chemrxiv.15000071/v1
-  preprint: 10.26434/chemrxiv.15000071/v1
-  preprint_url: https://doi.org/10.26434/chemrxiv.15000071/v1
-  preprint_year: 2026
-  preprint_site: chemrxiv
-  themes:
-    - predictive chemistry
     - data
 
 - title: "A geometric foundation model for enzyme retrieval with evolutionary insights"
