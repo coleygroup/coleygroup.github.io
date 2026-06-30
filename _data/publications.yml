@@ -31,6 +31,28 @@
 #     - metabolomics
 #     - data
 
+- title: "GLACIER: Rethinking Mass Spectrum Prediction as an Object Detection Problem"
+  authors: Wang, R., Wang, R., Coley, C.W., 
+  journal: arXiv
+  year: 2026
+  url: https://doi.org/10.48550/arXiv.2606.29161
+  preprint: arXiv:2606.29161
+  preprint_url: https://doi.org/10.48550/arXiv.2606.29161
+  preprint_year: 2026
+  preprint_site: arxiv
+  themes:
+    - molecular representation
+    - metabolomics
+
+- title: "Pathway-Aware Template-Based Retrosynthesis"
+  authors: Zhang, J.J., Ha, S.K., Roh, J., Tu, Z., Verma, P., Coley, C.W., Jensen, K.F.
+  journal: J. Chem. Inf. Model.
+  year: 2026
+  url: https://doi.org/10.1021/acs.jcim.6c01458
+  doi: 10.1021/acs.jcim.6c01458
+  themes:
+    - predictive chemistry
+
 - title: "MassSpecGym in the Wild: Uncovering and Correcting Evaluation Pitfalls in AI-Driven Molecule Discovery"
   authors: Liu, H., Bushuiev, R., Lightheart, I., Manjrekar, M., Bushuiev, A., Lederbauer, M., Jozefov, F., Wang, Y., Hassoun, S., Sivic, J., Taylor, J., Wang, R., Healey, D., Pluskal, T., Coley, C.W.
   journal: arXiv
