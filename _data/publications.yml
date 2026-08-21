@@ -31,6 +31,15 @@
 #     - metabolomics
 #     - data
 
+- title: "EmmaEmb: A quantitative framework for analyzing embedding spaces in molecular biology"
+  authors: Rissom, P.F., Škrihák, V., Sarmiento, P.Y., Safer, J.F., Coley, C.W., Renard, B.Y., Heyne, H.O., Iqbal, S.
+  journal: Patterns
+  year: 2026
+  url: https://doi.org/10.1016/j.patter.2026.101635
+  doi: 10.1016/j.patter.2026.101635
+  themes:
+    - molecular representation
+
 - title: "RetroAgent: Harnessing LLMs to Search Over Structured Memory for Agentic Retrosynthesis Planning"
   authors: Zhu, Y., Gan, J., Sun, X., Sun, F., Shi, Y., Islam, M.M., Shang, C., Gao, W., Coley, C.W., Sun, Y., Wang, W.
   journal: arXiv
