@@ -32,7 +32,8 @@
   info: PhD Student
   email: liuhx25@mit.edu
   linkedin: https://www.linkedin.com/in/hongxuan-liu-045449353/
-  description: Hongxuan obtained his BSc in Chemical Biology and BEng in Chemical & Biomolecular Engineering from Tsinghua University in 2025 and is now a PhD student in Chemical Engineering at MIT. His research focuses on using geometric deep learning and generative models for molecular structure elucidation on tandem mass spectrometry data.
+  website: https://harrylaucngd.github.io
+  description: Hongxuan obtained his BSc in Chemical Biology and BEng in Chemical & Biomolecular Engineering from Tsinghua University in 2025 and is now a PhD student in ChemE-CSE at MIT. His research explores discrete diffusion-based generative modeling for small-molecule de novo generation and design, with a current focus on molecular representation learning and structure elucidation from tandem mass spectrometry data.
 
 - name: Jihye Roh
   photo: Jihye_Roh.jpg
