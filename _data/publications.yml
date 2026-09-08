@@ -31,6 +31,45 @@
 #     - metabolomics
 #     - data
 
+- title: "Fragment-Grounded Neural Simulation of Electron Ionization Mass Spectra at Library Scale"
+  authors: Lederbauer, M., Wang, R., Coley, C.W.
+  journal: ChemRxiv
+  year: 2026
+  url: https://doi.org/10.26434/chemrxiv.15008135/v1
+  preprint: chemrxiv.15008135/v1
+  preprint_url: https://doi.org/10.26434/chemrxiv.15008135/v1
+  preprint_year: 2026
+  preprint_site: chemrxiv
+  themes:
+    - metabolomics
+
+- title: "LeMat-Synth: a multi-modal toolbox to curate broad synthesis procedure databases from scientific literature"
+  authors: Lederbauer, M., Betala, S., Gentzke, V., Leonescu, A., Sehaba, A., Flaifil, F., Jain, A., Amayuelas, A., Yelamarthy, N., Li, X., Germain, G., Ribes, S., Schmid, S.P., Nozadze, A., Kelmanson, A., Ethirajan, S.K., Zaki, M., Pan, E., Channing, G., Coley, C.W., Schwaller, P., Mercado, R., Duval, A., Franckel, M.L.D., Gleason, S.P.
+  journal: arxiv
+  year: 2026
+  doi: 10.48550/arXiv.2510.26824
+  url: https://doi.org/10.48550/arXiv.2510.26824
+  preprint: arXiv:2510.26824
+  preprint_url: https://arxiv.org/abs/2510.26824
+  preprint_site: arxiv
+  preprint_year: 2026
+  themes:
+    - predictive chemistry
+    - data
+
+- title: "QuantumPioneer: Scalable Generation of Quantum Chemical Data for Solution-Phase Hydrogen Transfer Reactions"
+  authors: Wu, H., Zheng, J.W., Pang, H.W., Kao, Y.C., Zalte, A.S., Abreu, C.R.A., Ibrahim, E.A., Biswas, S., Byun, C., Burns, J.W., Cao, C.C., Chung, Y., Dong, X., Doner, A.C., Kepner, J., Koo, B., Li, S.C., Menon, A., Milechin, L., Morgan, N., Moreno Sader, K., Spiekermann, K., Vermeire, F., Wang, B., Kraft, M., Coley, C.W., Green, W.H.
+  journal: J. Am. Chem. Soc.
+  year: 2026
+  url: https://doi.org/10.1021/jacs.6c10371
+  doi: 10.1021/jacs.6c10371
+  volume: 148
+  issue: 34
+  pages: 37018-37033
+  themes:
+    - predictive chemistry
+    - data
+
 - title: "EmmaEmb: A quantitative framework for analyzing embedding spaces in molecular biology"
   authors: Rissom, P.F., Škrihák, V., Sarmiento, P.Y., Safer, J.F., Coley, C.W., Renard, B.Y., Heyne, H.O., Iqbal, S.
   journal: Patterns
