@@ -31,6 +31,18 @@
 #     - metabolomics
 #     - data
 
+- title: "Modeling Reaction Feasibility to Identify New Opportunities for Sigmatropic Rearrangements"
+  authors: Liles, J.P., Casetti, N., Stuyver, T., Coley, C.W.
+  journal: chemRxiv
+  year: 2026
+  url: https://doi.org/10.26434/chemrxiv.15008353/v1
+  preprint: chemrxiv.15008353/v1
+  preprint_url: https://doi.org/10.26434/chemrxiv.15008353/v1
+  preprint_year: 2026
+  preprint_site: chemrxiv
+  themes:
+    - predictive chemistry
+
 - title: "Fragment-Grounded Neural Simulation of Electron Ionization Mass Spectra at Library Scale"
   authors: Lederbauer, M., Wang, R., Coley, C.W.
   journal: ChemRxiv
