@@ -78,3 +78,9 @@
   email: alsalali@mit.edu
   linkedin: www.linkedin.com/in/alsaleh-ali
   description: Ali is a sophomore at MIT studying Chemistry (5). He is interested in exploring applications of lab automation in chemical discovery.
+
+- name: Adam Madni
+  photo: Adam_Madni.png
+  info: UROP @ MIT 
+  email: asmadni@mit.edu
+  description: Adam is a sophomore double majoring in Mathematics & Computer Science (18C) and Chemistry (5). He is interested in chemically informed machine learning for synthesis planning and molecular generation, particularly models that capture nuances in reactivity.
