@@ -12,6 +12,9 @@ If you might be interested in joining us, please first take a look at our [group
 
 Please note that due to the high volume of email, I am unable to respond to every message I receive.
 
+
+**<u>We are currently looking for a postdoctoral associate or research scientist for a large-scale project related to the computer-aided discovery of new selective herbicides</u>.** This individual will be responsible for managing an _in silico_ molecular design pipeline and its connection to experimental synthesis and validation (via CROs and collaborators); they will execute structural modeling of relevant enzyme-substrate interactions, perform compound prioritization and downselection based on property prediction models, help interpret assay results, and manage iterative hit optimization workflows across the design-make-test-analyze cycle. Prior experience with experimental molecular design/optimization campaigns strongly preferred; prior experience using computer-aided molecular design tools strongly preferred; prior experience with generative models desired but not required. This is a highly collaborative role that will involve coordination with other research groups at MIT and elsewhere.
+
 **Prospective postdocs** should inquire directly at [ccoley@mit.edu](mailto:ccoley@mit.edu) with a CV and a brief statement of your research interests and background. Please also mention what your professional goals are, and what you would hope to learn and accomplish, specifically, while working in the group. If we do not have any postings, I will keep your materials on file and may reach out if openings arise at a future date. If you have independent funding, please mention it in your email.
 
 Postdoctoral opportunities that we are actively recruiting for will be advertised by topic on this page as they become available.
