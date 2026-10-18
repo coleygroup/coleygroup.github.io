@@ -10,6 +10,12 @@
 
 # Make sure to check how it looks using `jekyll serve`
 
+- title: ShEPhERD–2
+  description: Interaction profiles as a universal language for generative molecular design
+  image: /images/carouselpic/shepherd2.png
+  link: https://doi.org/10.64898/2026.09.10.750648
+  date: 2026-09-10
+
 - title: PrexSyn
   description: Efficient and Programmable Exploration of Synthesizable Chemical Space
   image: /images/carouselpic/prexsyn.png
@@ -57,12 +63,6 @@
   image: /images/carouselpic/diffms.png
   link: https://arxiv.org/abs/2502.09571
   date: 2025-02-13
-
-- title: ShEPhERD
-  description: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design
-  image: /images/carouselpic/shepherd.png
-  link: https://arxiv.org/abs/2411.04130
-  date: 2024-09-01
 
 - title: DESP
   description: Double-ended synthesis planning with goal-constrained bidirectional search

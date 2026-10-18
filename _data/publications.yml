@@ -31,6 +31,19 @@
 #     - metabolomics
 #     - data
 
+- title: "Interaction Profiles as a Universal Language for Generative Molecular Design with ShEPhERD-2"
+  authors: Abeywardane, K.A., Walker, K., Coley, C.W.
+  journal: bioRxiv
+  year: 2026
+  url: https://doi.org/10.64898/2026.09.10.750648
+  preprint: bioRxiv:2026.09.10.750648
+  preprint_url: https://doi.org/10.64898/2026.09.10.750648
+  preprint_year: 2026
+  preprint_site: biorxiv
+  themes:
+    - molecular representation
+    - design and optimization
+
 - title: "Modeling Reaction Feasibility to Identify New Opportunities for Sigmatropic Rearrangements"
   authors: Liles, J.P., Casetti, N., Stuyver, T., Coley, C.W.
   journal: chemRxiv
