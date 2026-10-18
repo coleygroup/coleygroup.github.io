@@ -118,6 +118,8 @@
   links:
     - label: "GitHub"
       url: https://github.com/coleygroup/shepherd-score
+    - label: "Documentation"
+      url: https://shepherd-score.readthedocs.io/
   themes:
     - molecular representation
 
