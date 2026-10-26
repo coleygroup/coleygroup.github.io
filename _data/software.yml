@@ -27,6 +27,16 @@
   themes:
     - predictive chemistry
 
+- title: ShEPhERD–2
+  image: Logo_shepherd.png
+  description: ShEPhERD-2 is a generative diffusion model that samples molecules conditioned on an interaction profile comprising 3D representations of shape, electrostatics, and pharmacophores. It enables various tasks including hit diversification, scaffold elaboration, pharmacophore prioritization, iterative optimization, fragment merging, dual target design, selectivity design, and modality hopping.
+  links:
+    - label: "GitHub"
+      url: https://github.com/coleygroup/shepherd2
+  themes:
+    - molecular representation
+    - design and optimization
+
 - title: "PrexSyn"
   image: Logo_prexsyn.jpg
   description: PrexSyn is an efficient, accurate, and programmable framework for synthesizable molecular design that simultaneously generates molecules and their synthesis routes. PrexSyn excels at "projecting" molecules into the synthesizable chemical space and sampling molecules that optimize a scoring function while satisfying property queries. PrexSyn was trained on post-fix notations paired with molecular properties at billion-scale using only two GPUs and 32 CPU cores in two days with PrexSyn Engine, a real-time, high-throughput C++-based data generation pipeline.
@@ -102,15 +112,16 @@
     - design and optimization
     - molecular representation
 
-- title: ShEPhERD
+- title: ShEPhERD-score
   image: Logo_shepherd.png
-  description: ShEPhERD is a generative diffusion model for generating molecules conditioned on explicit representations of shape, electrostatics, and pharmacophores. It is applicable to bioisosteric drug design such as natural product ligand hopping, bioactive hit diversification, and bioisosteric fragment merging.
+  description: ShEPhERD-score is a package that facilitates 3D similarity alignment and scoring of small molecules. It also evaluates samples generated from 3D generative models.
   links:
     - label: "GitHub"
-      url: https://github.com/coleygroup/shepherd
+      url: https://github.com/coleygroup/shepherd-score
+    - label: "Documentation"
+      url: https://shepherd-score.readthedocs.io/
   themes:
     - molecular representation
-    - design and optimization
 
 - title: "RDChiral"
   description: RDChiral is a tool for RDKit's RunReactants to improve stereochemistry handling.
@@ -270,8 +281,19 @@
     - predictive chemistry
 
 
+- title: ShEPhERD
+  image: Logo_shepherd.png
+  description: ShEPhERD is a generative diffusion model for generating molecules conditioned on explicit representations of shape, electrostatics, and pharmacophores. It is applicable to bioisosteric drug design such as natural product ligand hopping, bioactive hit diversification, and bioisosteric fragment merging. This model has been deprecated in favor of a new model "ShEPhERD–2".
+  links:
+    - label: "GitHub"
+      url: https://github.com/coleygroup/shepherd
+  themes:
+    - molecular representation
+    - design and optimization
+  deprecated: true
+
 - title: "SCARF"
-  description: SCARF (Prefix-Tree Decoding for Predicting Mass Spectra from Molecules) uses an intermediate strategy for predicting mass spectra from molecules by treating mass spectra as sets of molecular formulae. After first encoding an input molecular graph, we decode a set of molecular subformulae, each of which specify a predicted peak in the mass spectrum, the intensities of which are predicted by a second model. The model has been depreciated in favor of a new model "ICEBERG".
+  description: SCARF (Prefix-Tree Decoding for Predicting Mass Spectra from Molecules) uses an intermediate strategy for predicting mass spectra from molecules by treating mass spectra as sets of molecular formulae. After first encoding an input molecular graph, we decode a set of molecular subformulae, each of which specify a predicted peak in the mass spectrum, the intensities of which are predicted by a second model. The model has been deprecated in favor of a new model "ICEBERG".
   links:
     - label: "GitHub"
       url: https://github.com/samgoldman97/ms-pred
@@ -281,7 +303,7 @@
 
 - title: "SynNet"
   image: Logo_synnet.png
-  description: SynNet is an amortized approach to generate synthetic pathways as a Markov decision process conditioned on a target molecular embedding. This approach allows us to conduct synthesis planning in a bottom-up manner and design synthesizable molecules by decoding from optimized conditional codes. The approach leverages neural networks to probabilistically model the synthetic trees, one reaction step at a time, according to reactivity rules encoded in a discrete action space of reaction templates. The model has been depreciated in favor of a new model "SynFormer".
+  description: SynNet is an amortized approach to generate synthetic pathways as a Markov decision process conditioned on a target molecular embedding. This approach allows us to conduct synthesis planning in a bottom-up manner and design synthesizable molecules by decoding from optimized conditional codes. The approach leverages neural networks to probabilistically model the synthetic trees, one reaction step at a time, according to reactivity rules encoded in a discrete action space of reaction templates. The model has been deprecated in favor of a new model "SynFormer".
   links:
     - label: "GitHub"
       url: https://github.com/wenhao-gao/SynNet
@@ -292,7 +314,7 @@
 
 - title: "SQUID"
   image: Logo_squid.png
-  description: SQUID is a multimodal 3D generative model that enables shape-conditioned 3D molecular design by equivariantly encoding molecular shape and variationally encoding chemical identity. We ensure local geometric and chemical validity of generated molecules by using autoregressive fragment-based generation with heuristic bonding geometries, allowing the model to prioritize the scoring of rotatable bonds to best align the growing conformational structure to the target shape. The model has been depreciated in favor of a new model "ShEPhERD".
+  description: SQUID is a multimodal 3D generative model that enables shape-conditioned 3D molecular design by equivariantly encoding molecular shape and variationally encoding chemical identity. We ensure local geometric and chemical validity of generated molecules by using autoregressive fragment-based generation with heuristic bonding geometries, allowing the model to prioritize the scoring of rotatable bonds to best align the growing conformational structure to the target shape. The model has been deprecated in favor of a new model "ShEPhERD".
   links:
     - label: "GitHub"
       url: https://github.com/keiradams/SQUID
