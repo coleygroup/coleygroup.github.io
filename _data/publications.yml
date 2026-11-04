@@ -31,6 +31,18 @@
 #     - metabolomics
 #     - data
 
+- title: "Geometric Reaction Path Alignment for Kinetic Feasibility Assessment"
+  authors: Casetti, N., Coley, C.W.
+  journal: chemRxiv
+  year: 2026
+  url: https://doi.org/10.26434/chemrxiv.15011670/v1
+  preprint: chemrxiv.15011670/v1
+  preprint_url: https://doi.org/10.26434/chemrxiv.15011670/v1
+  preprint_year: 2026
+  preprint_site: chemrxiv
+  themes:
+    - predictive chemistry
+
 - title: "Interaction Profiles as a Universal Language for Generative Molecular Design with ShEPhERD-2"
   authors: Abeywardane, K.A., Walker, K., Coley, C.W.
   journal: bioRxiv
