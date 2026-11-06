@@ -142,8 +142,8 @@
     - predictive chemistry
 
 - title: "GLACIER: Rethinking Mass Spectrum Prediction as an Object Detection Problem"
-  authors: Wang, R., Wang, R., Coley, C.W., 
-  journal: arXiv
+  authors: Wang, R.X., Wang, R., Coley, C.W.
+  journal: NeurIPS
   year: 2026
   url: https://doi.org/10.48550/arXiv.2606.29161
   preprint: arXiv:2606.29161
