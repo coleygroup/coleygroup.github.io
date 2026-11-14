@@ -71,3 +71,10 @@
   info: UROP @ MIT 
   email: asmadni@mit.edu
   description: Adam is a sophomore double majoring in Mathematics & Computer Science (18C) and Chemistry (5). He is interested in chemically informed machine learning for synthesis planning and molecular generation, particularly models that capture nuances in reactivity.
+
+
+- name: Ashton Axe
+  photo: ashton_axe.jpg
+  info: UROP @ MIT
+  email: aaxe@mit.edu
+  description: Ashton is a senior studying 6-7 (Computer Science and Molecular Biology) at MIT. He is interested in bridging machine learning, drug discovery, and experimental chemistry to accelerate the design and synthesis of new molecules.
