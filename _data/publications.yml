@@ -31,6 +31,45 @@
 #     - metabolomics
 #     - data
 
+- title: "Optical Polymer Structure Recognition with PolymerScribe and an Iterative Train-Predict-Correct Workflow"
+  authors: Tu, Z., Mahajan, J.S., Guo, H., Rebello, N.J., Olsen, B.D., Coley, C.W.
+  journal: ChemRxiv
+  year: 2026
+  url: https://doi.org/10.26434/chemrxiv.15012321/v1
+  preprint: chemrxiv.15012321/v1
+  preprint_url: https://doi.org/10.26434/chemrxiv.15012321/v1
+  preprint_year: 2026
+  preprint_site: chemrxiv
+  themes:
+    - automation
+    - data
+
+- title: "Mechanism-Level Chemical Reaction Simulation with Electron Bookkeeping Transformer"
+  authors: Cao, S., Luo, S., Coley, C.W.
+  journal: NeurIPS
+  year: 2026
+  url: https://arxiv.org/abs/2611.17548
+  preprint: arXiv:2611.17548
+  preprint_url: https://arxiv.org/abs/2611.17548
+  preprint_year: 2026
+  preprint_site: arxiv
+  themes:
+    - molecular representation
+    - predictive chemistry
+
+- title: "OPRD-Imp: a dataset of experimentally observed impurities and side products in multi-step pharmaceutical syntheses"
+  authors: Kim, H., Kim, S.B., Kim, J., Pinkhassik, T., Lederbauer, M., Tran, S., Coley, C.W., Yoon, J., Joung, J.F.
+  journal: arXiv
+  year: 2026
+  url: https://arxiv.org/abs/2611.07488
+  preprint: arXiv:2611.07488
+  preprint_url: https://arxiv.org/abs/2611.07488
+  preprint_year: 2026
+  preprint_site: arxiv
+  themes:
+    - predictive chemistry
+    - data
+
 - title: "Geometric Reaction Path Alignment for Kinetic Feasibility Assessment"
   authors: Casetti, N., Coley, C.W.
   journal: chemRxiv
