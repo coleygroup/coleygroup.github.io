@@ -16,6 +16,18 @@
   link: https://doi.org/10.64898/2026.09.10.750648
   date: 2026-09-10
 
+- title: FRIGID
+  description: Scaling diffusion-based molecular generation from mass spectra at training and inference time
+  image: /images/carouselpic/frigid.png
+  link: https://arxiv.org/abs/2604.16648
+  date: 2026-07-01
+
+- title: GLACIER
+  description: Rethinking mass spectrum prediction as an object detection problem
+  image: /images/carouselpic/glacier.png
+  link: https://arxiv.org/abs/2606.29161
+  date: 2026-06-28
+
 - title: PrexSyn
   description: Efficient and Programmable Exploration of Synthesizable Chemical Space
   image: /images/carouselpic/prexsyn.png
