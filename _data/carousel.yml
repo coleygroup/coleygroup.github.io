@@ -2,7 +2,7 @@
 # Required fields: title, description, image, link, date
 
 # - Date: format YYYY-MM-DD
-#     The order of the slides is determined by the date and will only show the newest 10 slides
+#     The order of the slides is determined by the date and will only show the newest 11 slides
 # - Image: should be in the /images/carouselpic/ directory
 # - Link: a valid URL to the paper
 # - Description: a short description of the slide (<1 sentence)
@@ -69,12 +69,6 @@
   image: /images/carouselpic/higherlevelretro.png
   link: https://chemrxiv.org/engage/chemrxiv/article-details/67a367196dde43c908af44a1
   date: 2025-02-20
-
-- title: DiffMS
-  description: Diffusion Generation of Molecules Conditioned on Mass Spectra
-  image: /images/carouselpic/diffms.png
-  link: https://arxiv.org/abs/2502.09571
-  date: 2025-02-13
 
 - title: DESP
   description: Double-ended synthesis planning with goal-constrained bidirectional search
