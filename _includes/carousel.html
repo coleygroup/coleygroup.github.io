@@ -3,8 +3,8 @@
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
   <!-- Indicators -->
   <ol class="carousel-indicators">
-    {% assign slides = site.data.carousel | sort: "date" | reverse | slice: 0, 10 %}
-    {% comment %}Display up to 8 newest slides{% endcomment %}
+    {% assign slides = site.data.carousel | sort: "date" | reverse | slice: 0, 11 %}
+    {% comment %}Display up to 11 newest slides{% endcomment %}
     {% for slide in slides %}
       <li data-target="#carousel" data-slide-to="{{ forloop.index0 }}" {% if forloop.first %}class="active"{% endif %}></li>
     {% endfor %}
