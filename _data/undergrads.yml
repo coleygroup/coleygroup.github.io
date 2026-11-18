@@ -1,17 +1,9 @@
-
-- name: Montgomery Bohde
-  photo: Montgomery_Bohde.JPG
-  info: MSRP @ Texas A&M
-  email: mbohde@tamu.edu
-  linkedin: https://www.linkedin.com/in/montgomery-bohde/
-  description: Montgomery is studying Computer Science and Applied Math at Texas A&M University (B.S. 2026), where he is advised by Prof. Shuiwang Ji. His research interest is in graph neural networks and genenerative models with applications in AI for Science.
-
-- name: Ne Dassanayake
-  photo: Ne_Dassanayake.jpeg
+- name: Eric Wu
+  photo: Eric_Wu.jpeg
   info: UROP @ MIT
-  email: nedassa@mit.edu
-  linkedin: https://www.linkedin.com/in/nethaka-dassanayake-b48726258/
-  description: Ne is a senior studying 6-3 and 8 at MIT. He is interested in the application of generative modeling to both drug design and reaction mechanisms.
+  linkedin: https://www.linkedin.com/in/eric-wu-377aba256/
+  email: erickwu@berkeley.edu
+  description: Eric is a senior in Chemistry and Math at UC Berkeley. He is interested in various approaches towards forward reaction prediction and discovery.
 
 - name: Ray Wang
   photo: Ray_Wang.JPG
@@ -19,12 +11,6 @@
   email: rxwangtw@mit.edu
   linkedin: https://www.linkedin.com/in/rui-xi-wang-3006661b8/
   description: Ray is a senior in 6-3 (Math) and 18 (Mathematics) at MIT. He is interested in using combinatorial algorithms and machine learning to improve mass-spectrum prediction models.
-
-- name: Greycen Ren
-  photo: Greycen_Ren.png
-  info: UROP @ MIT
-  email: greyren@mit.edu
-  description: Greycen is a senior in 6-7 and 18 at MIT. He's interested in computational methods with applications in biology and chemistry.
 
 - name: Shrey Goel
   photo: Shrey_Goel.png
@@ -40,12 +26,6 @@
   info: UROP @ MIT
   email: phoenixw@mit.edu
   description: Phoenix is a junior in 6-4 (AI and Decision Making) at MIT. He is interested in developing computer aided synthesis planning tools for organic chemistry.
-
-- name: Gozel Dovranova
-  photo: Gozel_Dovranova.jpg
-  info: UROP @ MIT
-  email: gozel@mit.edu
-  description: Gozel is a senior double majoring in 10 (Chemical Engineering) and 6-4 (AI and Decision Making). She is interested in the application of machine learning to synthesis prediction in organic chemistry.
 
 - name: Kasie Leung
   photo: Kasie_Leung.jpg
