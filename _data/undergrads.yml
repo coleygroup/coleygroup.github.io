@@ -3,14 +3,14 @@
   info: UROP @ MIT
   linkedin: https://www.linkedin.com/in/eric-wu-377aba256/
   email: erickwu@berkeley.edu
-  description: Eric is a senior in Chemistry and Math at UC Berkeley. He is interested in various approaches towards forward reaction prediction and discovery.
+  description: Eric is a senior in Chemistry and Math at UC Berkeley. He is interested in various approaches towards forward reaction prediction and discovery. Eric is working with Nick and Kento.
 
 - name: Ray Wang
   photo: Ray_Wang.JPG
   info: UROP @ MIT
   email: rxwangtw@mit.edu
   linkedin: https://www.linkedin.com/in/rui-xi-wang-3006661b8/
-  description: Ray is a senior in 6-3 (Math) and 18 (Mathematics) at MIT. He is interested in using combinatorial algorithms and machine learning to improve mass-spectrum prediction models.
+  description: Ray is a senior in 6-3 (Math) and 18 (Mathematics) at MIT. He is interested in using combinatorial algorithms and machine learning to improve mass-spectrum prediction models. Ray is working with Runzhong.
 
 - name: Shrey Goel
   photo: Shrey_Goel.png
@@ -19,42 +19,42 @@
   twitter: https://x.com/__shreygoel
   linkedin: https://www.linkedin.com/in/shreygoelpdx/
   website: https://shreygoel09.github.io/
-  description: Shrey is a rising senior at Duke University studying Computer Science. He is interested in fundamental techniques in generative modeling and their applications to molecular and building block-constrained design.
+  description: Shrey is a rising senior at Duke University studying Computer Science. He is interested in fundamental techniques in generative modeling and their applications to molecular and building block-constrained design. Shrey is working with Kento.
 
 - name: Phoenix Wu
   photo: Phoenix_Wu.jpeg
   info: UROP @ MIT
   email: phoenixw@mit.edu
-  description: Phoenix is a junior in 6-4 (AI and Decision Making) at MIT. He is interested in developing computer aided synthesis planning tools for organic chemistry.
+  description: Phoenix is a junior in 6-4 (AI and Decision Making) at MIT. He is interested in developing computer aided synthesis planning tools for organic chemistry. Phoenix is working with Kevin.
 
 - name: Kasie Leung
   photo: Kasie_Leung.jpg
   info: UROP @ Harvard
   email: kasieleu@mit.edu
-  description: Kasie is a junior at Harvard, studying Chemistry & Physics and Computer Science. She is interested in developing data-driven tools to predict electrochemical reactivity.
+  description: Kasie is a junior at Harvard, studying Chemistry & Physics and Computer Science. She is interested in developing data-driven tools to predict electrochemical reactivity. Kasie is working with Justin.
 
 - name: Aquila Wolff
   photo: Aquila_Wolff.jpg
   info: UROP @ Harvard
   email: anwolff@college.harvard.edu
-  description: Aquila is a junior studying Chemistry and Physics at Harvard. His main interests are synthesis route design and reaction prediction through computational methods.
+  description: Aquila is a junior studying Chemistry and Physics at Harvard. His main interests are synthesis route design and reaction prediction through computational methods. Aquila is working with Suong.
 
 - name: Ali Alsaleh
   photo: Ali_Alsaleh.jpg
   info: UROP @ MIT
   email: alsalali@mit.edu
   linkedin: www.linkedin.com/in/alsaleh-ali
-  description: Ali is a sophomore at MIT studying Chemistry (5). He is interested in exploring applications of lab automation in chemical discovery.
+  description: Ali is a sophomore at MIT studying Chemistry (5). He is interested in exploring applications of lab automation in chemical discovery. Ali is working with Xiaoqi.
 
 - name: Adam Madni
   photo: Adam_Madni.png
   info: UROP @ MIT 
   email: asmadni@mit.edu
-  description: Adam is a sophomore double majoring in Mathematics & Computer Science (18C) and Chemistry (5). He is interested in chemically informed machine learning for synthesis planning and molecular generation, particularly models that capture nuances in reactivity.
+  description: Adam is a sophomore double majoring in Mathematics & Computer Science (18C) and Chemistry (5). He is interested in chemically informed machine learning for synthesis planning and molecular generation, particularly models that capture nuances in reactivity. Adam is working with Shitong.
 
 
 - name: Ashton Axe
   photo: ashton_axe.jpg
   info: UROP @ MIT
   email: aaxe@mit.edu
-  description: Ashton is a senior studying 6-7 (Computer Science and Molecular Biology) at MIT. He is interested in bridging machine learning, drug discovery, and experimental chemistry to accelerate the design and synthesis of new molecules.
+  description: Ashton is a senior studying 6-7 (Computer Science and Molecular Biology) at MIT. He is interested in bridging machine learning, drug discovery, and experimental chemistry to accelerate the design and synthesis of new molecules. Ashton is working with Shitong.
