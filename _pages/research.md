@@ -25,7 +25,7 @@ The discovery of these molecules—and scientific discovery more generally—is 
 <img style="width: 100%;" src="{{ site.url }}{{ site.baseurl }}/images/researchpic/autonomous-workflow-1024x269.png" alt="Autonomous discovery workflow diagram"/>
 </div>
 
-For a slightly-outdated comprehensive overview of autonomous discovery in the chemical sciences, including a discussion of key challenges, please read our 2019 review article and perspective in Angewandte Chemie or on arxiv: [part one](https://arxiv.org/abs/2003.13754), [part two](https://arxiv.org/abs/2003.13755). Our work falls under the broader umbrella of "[AI for Science](https://www.nature.com/articles/s41586-023-06221-2)".
+For a slightly-outdated comprehensive overview of autonomous discovery in the chemical sciences, including a discussion of key challenges, please read our 2019 review article and perspective in Angewandte Chemie or on arxiv: [part one](https://arxiv.org/abs/2003.13754), [part two](https://arxiv.org/abs/2003.13755). Our work falls under the broader umbrella of "[AI for Science](https://www.nature.com/articles/s41586-023-06221-2)". For a more recent outlook, see our perspective on the "[Grand Challenges for Predictive Modeling in Small Molecule Drug Discovery](https://chemrxiv.org/doi/full/10.26434/chemrxiv.15000615/v1).
 
 <br/>
 
@@ -37,7 +37,8 @@ One of the most important questions one must answer when searching for a molecul
 
 _Selected publications (screening/selection/non-generative):_
 <ul style="font-size: smaller">
-<li>Fromer, J., Volkova, A.D., Coley, C.W. "Optimal compound downselection to promote diversity and parallel chemistry". <i>J. Chem. Inf. Model.</i> (2024)</li>
+<li>Fromer, J., Wang, R., Manjrekar, M., Tripp, A., Hernández-Lobato, J.M., Coley, C.W. “Batched Bayesian optimization by maximizing the probability of including the optimum”. <i>J. Chem. Inf. Model.</i> (2025)</li>
+<li>Fromer, J., Volkova, A.D., Coley, C.W. "Optimal compound downselection to promote diversity and parallel chemistry". <i>J. Chem. Inf. Model.</i> (2025)</li>
 <li>Fromer, J., Coley, C.W. "An algorithmic framework for synthetic cost-aware decision making in molecular design". <i>Nat. Comp. Sci.</i> (2024)</li>
 <li>Levin, I., Fortunato, M.E., Tan, K.L., Coley, C.W. "Computer-aided evaluation and exploration of chemical spaces constrained by reaction pathways". <i>AIChE J.</i> (2023)</li>
 <li>Fromer, J.C., Graff, D.E., Coley, C.W. "Pareto optimization to accelerate multi-objective virtual screening". <i>Patterns</i> (2024)</li>
@@ -47,8 +48,10 @@ _Selected publications (screening/selection/non-generative):_
 
 _Selected publications (generative design):_
 <ul style="font-size: smaller">
+<li>Abeywardane, K.A., Walker, K., Coley, C.W. “Interaction profiles as a universal language for generative molecular design with ShEPhERD-2”. <i>bioRxiv:2026.09.10.750648</i> (2026)</li>
+<li>Luo, S., Coley, C.W. “Efficient and programmable exploration of synthesizable chemical space”. <i>TMLR</i> (2026)</li>
 <li>Adams, K., Abeywardane, K., Fromer, J., Coley, C.W. “ShEPhERD: Diffusing shape, electrostatics, and pharmacophores for bioisosteric drug design”. <i>ICLR [Oral]</i> (2025)</li>
-<li>Gao, W., Luo, S., Coley, C.W. “Generative artificial intelligence for navigating synthesizable chemical space”. <i>Proc. Natl. Acad. Sci. U. S. A.</i> (2024)</li>
+<li>Gao, W., Luo, S., Coley, C.W. “Generative artificial intelligence for navigating synthesizable chemical space”. <i>Proc. Natl. Acad. Sci.</i> (2025)</li>
 <li>Luo, S., Gao, W., Wu, Z., Peng, J. Coley, C.W., Ma, J. “Projecting molecules into synthesizable chemical spaces”. <i>ICML</i> (2024)</li>
 <li>Gao, W., Mercado, R., Coley, C. W. "Amortized tree generation for bottom-up synthesis planning and synthesizable molecular design". <i>ICLR</i> (2022)</li>
 <li>Adams, K., Coley, C. W. "Equivariant shape-conditioned generation of 3D molecular for ligand-based drug design". <i>ICLR</i> (2023)</li>
@@ -64,8 +67,10 @@ Several data-driven chemistry tools for synthesis planning are available in the 
 
 _Selected publications (retrosynthesis-focused):_
 <ul style="font-size: smaller">
+<li>Tran, S.B.A., Roh, J., Coley, C.W. “Quantifying the failure modes of current one-step retrosynthesis models”. <i>Chem. Sci.</i> (2026)</li>
+<li>Sun, X., Liu, J., Mahjour, B., Jensen, K.F., Coley, C.W. “Data-driven recommendation of agents, temperature, and equivalence ratios for organic synthesis”. <i>Chem. Sci.</i> (2025)</li>
 <li>Tu, Z., Choure, S.J., Fong, M.H., Roh, J., Levin, I., Yu, K., Joung, J.F., Morgan, N., Li, S.C-., Sun, X., Lin, H., Murnin, M., Liles, J.P., Struble, T.J., Fortunato, M.E., Liu, M., Green, W.H., Jensen, K.F., Coley, C.W. “ASKCOS: an open source software suite for synthesis planning”. <i>Acc. Chem. Res.</i> (2025)</li>
-<li>Roh, J., Joung, J.F., Yu, K., Tu, Z., Bartholomew, G.L., Santiago-Reyes, O.A., Fong, M.H., Sarpong, R., Reisman, S.E., Coley, C.W. “Higher-level strategies for computer-aided retrosynthesis”. <i>chemrxiv:10.26434/chemrxiv-2025-21zvt</i> (2025)</li>
+<li>Roh, J., Joung, J.F., Yu, K., Tu, Z., Bartholomew, G.L., Santiago-Reyes, O.A., Fong, M.H., Sarpong, R., Reisman, S.E., Coley, C.W. “Higher-level strategies for computer-aided retrosynthesis”. <i>ACS Cent. Sci.</i> (2026)</li>
 <li>Yu, K., Roh, J., Li, Z., Gao, W., Wang, R., Coley, C.W. “Double-ended synthesis planning with goal-constrained bidirectional search”. <i>NeurIPS [Spotlight]</i> (2024)</li>
 <li>Levin, I., Liu, M., Voigt, C.A., Coley, C.W. "Merging enzymatic and synthetic chemistry with computational synthesis planning". <i>Nat. Commun.</i> (2022)</li>
 <li>Tu, Z., Coley, C. W. "Permutation invariant graph-to-sequence model for template-free retrosynthesis and reaction prediction". <i>J. Chem. Inf. Model.</i> (2022)</li>
@@ -73,7 +78,12 @@ _Selected publications (retrosynthesis-focused):_
 
 _Selected publications (outcome prediction-focused):_
 <ul style="font-size: smaller">
-<li>Joung, J.F., Fong, M.H., Casetti, N., Liles, J.P., Dassanayake, N.S., Coley, C.W. “Electron flow matching for generative reaction mechanism prediction obeying conservation laws”. <i>arxiv:2502.12979</i> (2025)</li>
+<li>Casetti, N., Coley, C.W. “Geometric reaction path alignment for kinetic feasibility assessment”. <i>chemrxiv:10.26434/chemrxiv.15011670/v1</i> (2026)</li>
+<li>Liles, J.P., Casetti, N., Stuyver, T., Coley, C.W. “Modeling reaction feasibility to identify new opportunities for sigmatropic rearrangements”. <i>chemrxiv:10.26434/chemrxiv.15008353/v1</i> (2026)</li>
+<li>Joung, J.F., Casetti, N., Raghavan, P., Coley, C.W. “An overview of reaction outcome prediction with physics-based and data-driven methods”. <i>Chem. Soc. Rev.</i> (2026)</li>
+<li>Casetti, N., Anstine, D., Isayev, O., Coley, C.W. “Anticipating the selectivity of cyclization reaction pathways with neural network potentials”. <i>J. Chem. Theory Comput.</i> (2025)</li>
+<li>Bradshaw, J., Zhang, A., Mahjour, B., Graff, D.E., Segler, M.H.S., Coley, C.W. “Challenging reaction prediction models to generalize to novel chemistry”. <i>ACS Cent. Sci.</i> (2025)</li>
+<li>Joung, J.F., Fong, M.H., Casetti, N., Liles, J.P., Dassanayake, N.S., Coley, C.W. “Electron flow matching for generative reaction mechanism prediction”. <i>Nature</i> (2025)</li>
 <li>Joung, J.F., Fong, M.H., Roh, J., Tu, Z., Bradshaw, J., Coley, C.W. “Reproducing reaction mechanisms with machine learning models trained on a large-scale mechanistic dataset”. <i>Angew. Chem.</i> (2024)</li>
 <li>Raghavan, P., Rago, A.J., Verma, P., Hassan, M.M., Goshu, G.M., Dombrowski, A.W., Pandey, A., Coley, C.W.**, Wang, Y.** “Incorporating synthetic accessibility in drug design: Predicting reaction yields of Suzuki cross-couplings by leveraging AbbVie’s 15-year parallel library data set”. <i>J. Am. Chem. Soc.</i> (2024)</li>
 <li>Raghavan, P., Haas, B.C., Ruos, M.E., Schleinitz, J., Doyle, A.G., Reisman, S.E., Sigman, M.S., Coley, C.W. "Dataset design for building models of chemical reactivity". <i>ACS Cent. Sci.</i> (2023)</li>
@@ -89,6 +99,11 @@ Small molecule metabolites mediate myriads of biological and environmental pheno
 
 _Selected publications:_
 <ul style="font-size: smaller">
+<li>Bohde, M., Liu, H., Manjrekar, M., Lederbauer, M., Ji, S., Wang, R., Coley, C.W. “FRIGID: Scaling diffusion-based molecular generation from mass spectra at training and inference time”. <i>ICLR</i> (2026)</li>
+<li>Manjrekar, M., Wang, R., Goldman, S., Fromer, J.C., Coley, C.W. “Generative structural elucidation from mass spectra as an iterative optimization problem”. <i>arxiv:2602.07709</i> (2026)</li>
+<li>Wang, R.-X., Wang, R., Coley, C.W. “GLACIER: Rethinking mass spectrum prediction as an object detection problem”. <i>NeurIPS</i> (2026)</li>
+<li>Lederbauer, M., Wang, R., Coley, C.W. “Fragment-grounded neural simulation of electron ionization mass spectra at library scale”. <i>chemrxiv:10.26434/chemrxiv.15008135/v1</i> (2026)</li>
+<li>Liu, H., Bushuiev, R., Lightheart, I., Manjrekar, M., Bushuiev, A., Lederbauer, M., Jozefov, F., Wang, Y., Hassoun, S., Sivic, J., Taylor, J., Wang, R., Healey, D., Pluskal, T., Coley, C.W. “MassSpecGym in the wild: Uncovering and correcting evaluation pitfalls in AI-driven molecule discovery”. <i>arxiv:2606.19624</i> (2026)</li>
 <li>Wang, R., Manjrekar, M., Mahjour, B., Avila-Pacheco, J., Provenzano, J., Reynolds, E., Lederbauer, M., Mashin, E., Goldman, S.L., Wang, M., Weng, J.-K., Plata, D.L., Clish, C.B., Coley, C.W. “Neural spectral prediction for structure elucidation with tandem mass spectrometry” <i>bioRxiv:2025.05.28.656653</i> (2025)</li>
 <li>Bohde, M., Manjrekar, M., Wang, R., Ji, S., Coley, C.W. “DiffMS: Diffusion generation of molecules conditioned on mass spectra”. <i>ICML</i> (2025)</li>
 <li>Wang, R., Wang, R.-X., Manjrekar, M., Coley, C.W. “Neural graph matching improves retrieval augmented generation in molecular machine learning”. <i>ICML</i> (2025)</li>
@@ -105,6 +120,7 @@ The use of machine learning models for chemical discovery problems has overwhelm
 
 _Selected publications:_
 <ul style="font-size: smaller">
+<li>Adams, K., Wagen, C.C., Wolford, J., Sak, M.H., Saurí, J., Feng, Z., Bhadauria, A.S., Bailey, M.A., Downs, J.S., Li, S.Z., Liu, A.I., Smidt, T., Paton, R.S., Liu, R.Y., Coley, C.W., Kwan, E.E. “Chemical shift prediction beyond the electronic structure limit”. <i>chemrxiv:10.26434/chemrxiv.15005989/v1</i> (2026)</li>
 <li>Gao, W., Raghavan, P., Shprints, R., Coley, C.W. "Revealing the relationship between publication bias and chemical reactivity with contrastive learning". <i>JACS</i> (2025)</li>
 <li>Adams, K., Coley, C.W. “The impact of conformer quality on learned representations of molecular conformer ensembles”. <i>arxiv:2502.13220</i> (2025)</li>
 <li>Graff, D.E., Pyzer-Knapp, E.O., Jordan, K.E., Shakhnovich, E.I., Coley, C.W. “Evaluating the roughness of structure-property relationships using pretrained molecular representations”. <i>Digit. Dis.</i> (2023)</li>
@@ -122,11 +138,11 @@ As computational design strategies are increasingly able to make use of availabl
 
 _Selected publications:_
 <ul style="font-size: smaller">
-<li>Wu, G., Wang, R., Coley, C.W. “Optimization of robotic liquid handling as a capacitated vehicle routing problem” <i>arxiv:2506.02795</i> (2025)
+<li>Wu, G., Wang, R., Coley, C.W. “Optimization of robotic liquid handling as a capacitated vehicle routing problem”. <i>Digit. Dis.</i> (2025)
 </li>
 <li>Ai, Q., Meng, F., Wang, R., Klein, J.C., Godfrey, A.G., Coley, C.W. “Schedule optimization for chemical library synthesis” <i>Digit. Dis.</i> (2025)</li>
+<li>Wu, G., Jin, T., Alexander-Katz, A., Coley, C.W. “Autonomous discovery of functional random heteropolymer blends through evolutionary formulation optimization”. <i>Matter</i> (2025)</li>
 <li>Mahjour, B.A., Lu, J., Fromer, J.C., Casetti, N., Coley, C.W. “Ideation and evaluation of novel multicomponent reactions via mechanistic network analysis and automation”. <i>chemrxiv:10.26434/chemrxiv-2024-qfjh9</i> (2024)</li>
-<li>Wu, G., Jin, T., Alexander-Katz, A., Coley, C.W. “Autonomous discovery of functional random heteropolymer blends through evolutionary formulation optimization”. <i>chemrxiv:10.26434/chemrxiv-2024-nh0xn</i> (2024)</li>
 <li>Gao, W., Raghavan, P., Coley, C. W. "Autonomous platforms for data-driven organic synthesis". <i>Nat. Commun.</i> (2022)</li>
 <li>Wierenga, R.P., Golas, S., Ho, W., Coley, C.W., Elsvelt, K.M. "PyLabRobot: An open-source hardware agnostic interface for liquid-handling robots and accessories". <i>Device</i> (2023)</li>
 </ul>
