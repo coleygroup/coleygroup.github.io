@@ -31,6 +31,44 @@
 #     - metabolomics
 #     - data
 
+- title: "Learning organometallic reactivity with a flow matching model for mechanism prediction"
+  authors: Wu, E.K., Casetti, N., Sarpong, R., Coley, C.W.
+  journal: ChemRxiv
+  year: 2026
+  url: https://doi.org/10.26434/chemrxiv.15012612/v1
+  preprint: chemrxiv.15012612/v1
+  preprint_url: https://doi.org/10.26434/chemrxiv.15012612/v1
+  preprint_year: 2026
+  preprint_site: chemrxiv
+  themes:
+    - predictive chemistry
+    - data
+
+- title: "ShEPhERD-score: Fast, adaptable three-dimensional alignment of molecular features"
+  authors: Somers, N., Abeywardane, K.A., Coley, C.W., Elkin, M.
+  journal: arXiv
+  year: 2026
+  url: https://doi.org/10.48550/arXiv.2611.25076
+  preprint: arXiv:2611.25076
+  preprint_url: https://arxiv.org/abs/2611.25076
+  preprint_year: 2026
+  preprint_site: arxiv
+  themes:
+    - molecular representation
+    - design and optimization
+
+- title: "Chemistry by Design (CbyD): A Machine-Readable Dataset of Expert-Curated Total Synthesis Routes"
+  authors: Williams, R.E., Tran, S.B.A., Leatherwood, H.M., Roh, J., Wolff, A., Federice, J.G., Lauta, N.R., Yu, K., Nick, S.J., Jončev, Z., Schwaller, P., Coley, C.W., Njardarson, J.T.
+  journal: arXiv
+  year: year
+  url: https://doi.org/10.48550/arXiv.2611.24996
+  preprint: arXiv:2611.24996
+  preprint_url: https://arxiv.org/abs/2611.24996
+  preprint_year: 2026
+  preprint_site: arxiv
+  themes:
+    - data
+
 - title: "Optical Polymer Structure Recognition with PolymerScribe and an Iterative Train-Predict-Correct Workflow"
   authors: Tu, Z., Mahajan, J.S., Guo, H., Rebello, N.J., Olsen, B.D., Coley, C.W.
   journal: ChemRxiv
